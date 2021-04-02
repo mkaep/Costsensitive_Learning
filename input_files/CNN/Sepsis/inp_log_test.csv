@@ -1,0 +1,4397 @@
+CaseID,Activity,Timestamp
+1,ER Registration-complete,16365.385891203703
+1,Leucocytes-complete,16365.39375
+1,CRP-complete,16365.39375
+1,LacticAcid-complete,16365.39375
+1,ER Triage-complete,16365.398344907408
+1,ER Sepsis Triage-complete,16365.398611111112
+1,IV Liquid-complete,16365.502627314814
+1,IV Antibiotics-complete,16365.502627314814
+1,Admission NC-complete,16365.509247685186
+1,CRP-complete,16367.291666666666
+1,Leucocytes-complete,16367.291666666666
+1,Leucocytes-complete,16369.291666666666
+1,CRP-complete,16369.291666666666
+1,Leucocytes-complete,16371.291666666666
+1,CRP-complete,16371.291666666666
+1,CRP-complete,16373.291666666666
+1,Leucocytes-complete,16373.291666666666
+1,Leucocytes-complete,16374.291666666666
+1,CRP-complete,16374.291666666666
+1,CRP-complete,16376.291666666666
+1,Leucocytes-complete,16376.291666666666
+1,Release A-complete,16376.59375
+2,ER Registration-complete,16425.41972222222
+2,ER Triage-complete,16425.42869212963
+2,CRP-complete,16425.441666666666
+2,LacticAcid-complete,16425.441666666666
+2,Leucocytes-complete,16425.441666666666
+2,ER Sepsis Triage-complete,16425.469270833335
+2,IV Liquid-complete,16425.481805555555
+2,IV Antibiotics-complete,16425.481886574074
+2,Admission NC-complete,16425.511898148146
+2,CRP-complete,16428.291666666668
+2,CRP-complete,16430.541666666668
+2,Release A-complete,16430.708333333332
+3,ER Registration-complete,16450.802060185186
+3,ER Triage-complete,16450.8028125
+3,ER Sepsis Triage-complete,16450.803645833334
+3,IV Liquid-complete,16450.81287037037
+3,CRP-complete,16450.813194444443
+3,Leucocytes-complete,16450.813194444443
+3,LacticAcid-complete,16450.813194444443
+3,IV Antibiotics-complete,16450.816655092593
+4,ER Registration-complete,16353.047650462962
+4,ER Triage-complete,16353.049050925925
+4,ER Sepsis Triage-complete,16353.049236111112
+5,ER Registration-complete,16354.853495370371
+5,ER Triage-complete,16354.859872685185
+5,ER Sepsis Triage-complete,16354.860150462962
+5,IV Liquid-complete,16354.863344907408
+5,CRP-complete,16354.86875
+5,Leucocytes-complete,16354.86875
+5,LacticAcid-complete,16354.86875
+5,IV Antibiotics-complete,16354.8753125
+5,Admission NC-complete,16354.995104166666
+5,Release A-complete,16357.4375
+5,Return ER-complete,16360.694930555555
+6,ER Registration-complete,16404.484907407408
+6,ER Triage-complete,16404.48621527778
+6,ER Sepsis Triage-complete,16404.48644675926
+6,CRP-complete,16404.489583333332
+6,Leucocytes-complete,16404.489583333332
+7,ER Registration-complete,16349.850185185185
+7,ER Triage-complete,16349.853460648148
+7,ER Sepsis Triage-complete,16349.853680555556
+7,IV Liquid-complete,16349.85454861111
+7,IV Antibiotics-complete,16349.854583333334
+7,CRP-complete,16349.867361111112
+7,LacticAcid-complete,16349.867361111112
+7,Leucocytes-complete,16349.867361111112
+7,Admission NC-complete,16349.955659722222
+7,Release B-complete,16352.083333333334
+8,ER Registration-complete,16371.822523148148
+8,ER Triage-complete,16371.824814814814
+8,ER Sepsis Triage-complete,16371.825081018518
+8,IV Liquid-complete,16371.82525462963
+8,Leucocytes-complete,16371.83125
+8,LacticAcid-complete,16371.83125
+8,CRP-complete,16371.83125
+8,IV Antibiotics-complete,16371.877025462964
+8,Admission IC-complete,16371.899444444445
+8,LacticAcid-complete,16371.965972222222
+8,CRP-complete,16372.208333333334
+8,Leucocytes-complete,16372.208333333334
+8,LacticAcid-complete,16372.208333333334
+8,LacticAcid-complete,16373.208333333334
+8,CRP-complete,16373.208333333334
+8,Leucocytes-complete,16373.208333333334
+8,Admission NC-complete,16373.375
+8,Leucocytes-complete,16375.25
+8,CRP-complete,16375.25
+8,Release A-complete,16377.392361111111
+8,Return ER-complete,16454.329930555556
+9,ER Registration-complete,16385.66152777778
+9,ER Triage-complete,16385.672407407408
+9,ER Sepsis Triage-complete,16385.673043981482
+9,IV Liquid-complete,16385.6875
+9,LacticAcid-complete,16385.69027777778
+9,Leucocytes-complete,16385.69027777778
+9,CRP-complete,16385.69027777778
+9,IV Antibiotics-complete,16385.694444444445
+9,Admission NC-complete,16385.797523148147
+9,CRP-complete,16388.25
+9,Release A-complete,16389.416666666668
+10,ER Registration-complete,16347.07039351852
+10,ER Triage-complete,16347.072974537037
+10,Leucocytes-complete,16347.084722222222
+10,CRP-complete,16347.084722222222
+10,LacticAcid-complete,16347.084722222222
+10,ER Sepsis Triage-complete,16347.08556712963
+10,Leucocytes-complete,16347.103472222223
+10,CRP-complete,16347.103472222223
+10,LacticAcid-complete,16347.103472222223
+10,Admission NC-complete,16347.247002314814
+10,CRP-complete,16348.25
+10,Release A-complete,16350.333333333334
+10,Return ER-complete,16564.36946759259
+11,ER Registration-complete,16491.379398148147
+11,ER Triage-complete,16491.383217592593
+11,ER Sepsis Triage-complete,16491.383587962962
+11,IV Antibiotics-complete,16491.396064814813
+11,CRP-complete,16491.399305555555
+11,LacticAcid-complete,16491.399305555555
+11,Leucocytes-complete,16491.399305555555
+11,IV Liquid-complete,16491.416886574076
+12,ER Registration-complete,16407.33800925926
+12,ER Triage-complete,16407.338483796295
+12,ER Sepsis Triage-complete,16407.338599537037
+12,Leucocytes-complete,16407.355555555554
+12,LacticAcid-complete,16407.355555555554
+12,CRP-complete,16407.355555555554
+12,IV Liquid-complete,16407.561076388887
+12,IV Antibiotics-complete,16407.561122685187
+13,ER Registration-complete,16394.46628472222
+13,ER Triage-complete,16394.47457175926
+13,ER Sepsis Triage-complete,16394.475081018518
+13,Leucocytes-complete,16394.477777777778
+13,CRP-complete,16394.477777777778
+14,ER Registration-complete,16384.031469907408
+14,ER Triage-complete,16384.03483796296
+14,ER Sepsis Triage-complete,16384.03724537037
+14,IV Antibiotics-complete,16384.037916666668
+14,IV Liquid-complete,16384.043912037036
+14,Leucocytes-complete,16384.057638888888
+14,CRP-complete,16384.057638888888
+14,LacticAcid-complete,16384.057638888888
+14,Admission NC-complete,16384.15113425926
+14,Admission NC-complete,16384.5625
+14,Leucocytes-complete,16385.25
+14,CRP-complete,16385.25
+14,CRP-complete,16387.25
+14,Leucocytes-complete,16387.25
+14,Leucocytes-complete,16389.630555555555
+14,Leucocytes-complete,16389.779166666667
+14,Leucocytes-complete,16389.94861111111
+14,Leucocytes-complete,16390.25
+14,CRP-complete,16390.25
+14,LacticAcid-complete,16390.503472222223
+14,Leucocytes-complete,16391.25
+14,CRP-complete,16391.25
+14,Leucocytes-complete,16392.25
+14,Release C-complete,16396.5625
+15,ER Registration-complete,16377.45943287037
+15,ER Triage-complete,16377.463159722221
+15,ER Sepsis Triage-complete,16377.47142361111
+15,Leucocytes-complete,16377.472222222223
+15,CRP-complete,16377.472222222223
+15,LacticAcid-complete,16377.472222222223
+16,ER Registration-complete,16427.787349537037
+16,ER Triage-complete,16427.79834490741
+16,ER Sepsis Triage-complete,16427.79855324074
+16,IV Liquid-complete,16427.803391203703
+16,Leucocytes-complete,16427.804166666665
+16,LacticAcid-complete,16427.804166666665
+16,CRP-complete,16427.804166666665
+16,IV Antibiotics-complete,16427.884016203705
+16,Admission NC-complete,16427.90347222222
+16,CRP-complete,16428.531944444443
+16,Leucocytes-complete,16428.531944444443
+16,CRP-complete,16431.291666666668
+16,Leucocytes-complete,16431.291666666668
+16,Release D-complete,16434.381944444445
+17,ER Registration-complete,16350.536400462963
+17,ER Triage-complete,16350.568263888888
+17,ER Sepsis Triage-complete,16350.568425925925
+18,ER Registration-complete,16352.708668981482
+18,ER Triage-complete,16352.712546296296
+18,ER Sepsis Triage-complete,16352.712719907408
+18,CRP-complete,16352.729166666666
+18,LacticAcid-complete,16352.729166666666
+18,Leucocytes-complete,16352.729166666666
+18,IV Liquid-complete,16352.812199074075
+18,IV Antibiotics-complete,16352.81224537037
+18,Admission NC-complete,16352.81269675926
+18,CRP-complete,16353.208333333334
+18,Leucocytes-complete,16353.208333333334
+18,Admission NC-complete,16353.506944444445
+18,Release A-complete,16358.354166666666
+19,ER Registration-complete,16341.608113425926
+19,ER Triage-complete,16341.615543981481
+19,ER Sepsis Triage-complete,16341.615648148148
+19,CRP-complete,16341.640972222222
+19,Admission NC-complete,16341.818368055556
+19,Admission NC-complete,16342.531631944445
+19,Release A-complete,16347.520833333334
+19,Return ER-complete,16354.592511574074
+20,ER Registration-complete,16360.335231481482
+20,ER Triage-complete,16360.335949074075
+20,ER Sepsis Triage-complete,16360.336203703704
+20,Leucocytes-complete,16360.347222222223
+20,CRP-complete,16360.347222222223
+20,LacticAcid-complete,16360.347222222223
+20,IV Liquid-complete,16360.505243055555
+20,IV Antibiotics-complete,16360.505289351851
+21,ER Registration-complete,16378.538622685186
+21,ER Triage-complete,16378.543576388889
+21,ER Sepsis Triage-complete,16378.543865740741
+22,ER Registration-complete,16353.67818287037
+22,ER Triage-complete,16353.690081018518
+22,ER Sepsis Triage-complete,16353.690219907407
+22,Leucocytes-complete,16353.700694444444
+22,LacticAcid-complete,16353.700694444444
+22,CRP-complete,16353.700694444444
+22,IV Liquid-complete,16353.74298611111
+22,IV Antibiotics-complete,16353.784791666667
+22,Admission NC-complete,16353.786539351851
+22,CRP-complete,16354.208333333334
+22,Leucocytes-complete,16354.208333333334
+22,LacticAcid-complete,16354.208333333334
+22,Admission NC-complete,16354.375
+22,CRP-complete,16355.25
+22,Leucocytes-complete,16357.25
+22,CRP-complete,16357.25
+22,CRP-complete,16359.25
+22,Leucocytes-complete,16359.25
+22,CRP-complete,16362.25
+22,Leucocytes-complete,16362.25
+22,Release A-complete,16362.458333333334
+23,ER Registration-complete,16409.36099537037
+23,ER Triage-complete,16409.36287037037
+23,CRP-complete,16409.379166666666
+23,LacticAcid-complete,16409.379166666666
+23,Leucocytes-complete,16409.379166666666
+23,ER Sepsis Triage-complete,16409.39015046296
+23,IV Liquid-complete,16409.390416666665
+23,IV Antibiotics-complete,16409.4375
+23,Admission NC-complete,16409.58986111111
+23,CRP-complete,16411.25
+23,Leucocytes-complete,16411.25
+23,Leucocytes-complete,16414.25
+23,CRP-complete,16414.25
+23,Leucocytes-complete,16416.25
+23,CRP-complete,16416.25
+23,Release A-complete,16417.40625
+24,ER Registration-complete,16452.785902777778
+24,ER Triage-complete,16452.78712962963
+24,ER Sepsis Triage-complete,16452.788171296295
+24,IV Liquid-complete,16452.788333333334
+24,CRP-complete,16452.79513888889
+24,LacticAcid-complete,16452.79513888889
+24,Leucocytes-complete,16452.79513888889
+24,IV Antibiotics-complete,16452.924930555557
+24,Admission NC-complete,16452.925636574073
+24,Leucocytes-complete,16454.291666666668
+24,CRP-complete,16454.291666666668
+24,Leucocytes-complete,16454.416666666668
+24,CRP-complete,16456.416666666668
+24,Leucocytes-complete,16456.416666666668
+24,Release A-complete,16458.541666666668
+24,Return ER-complete,16471.343842592592
+25,ER Registration-complete,16367.349537037036
+25,ER Triage-complete,16367.350277777778
+25,ER Sepsis Triage-complete,16367.350497685185
+25,IV Liquid-complete,16367.350636574074
+25,CRP-complete,16367.365972222222
+25,LacticAcid-complete,16367.365972222222
+25,Leucocytes-complete,16367.365972222222
+25,IV Antibiotics-complete,16367.529988425926
+25,Admission NC-complete,16367.530787037036
+25,CRP-complete,16368.25
+25,Leucocytes-complete,16368.25
+25,Leucocytes-complete,16368.583333333334
+25,CRP-complete,16370.25
+25,Leucocytes-complete,16370.25
+25,Release A-complete,16372.333333333334
+25,Return ER-complete,16386.5140625
+26,ER Registration-complete,16481.671863425927
+26,ER Triage-complete,16481.685717592594
+26,ER Sepsis Triage-complete,16481.686145833333
+26,Leucocytes-complete,16481.690972222223
+26,CRP-complete,16481.690972222223
+26,LacticAcid-complete,16481.690972222223
+26,IV Antibiotics-complete,16481.8228125
+26,Admission NC-complete,16481.825266203705
+26,Admission NC-complete,16482.541666666668
+26,CRP-complete,16483.291666666668
+26,Leucocytes-complete,16483.291666666668
+26,Release A-complete,16488.375
+26,Return ER-complete,16560.591863425925
+27,ER Registration-complete,16375.56445601852
+27,ER Triage-complete,16375.568414351852
+27,ER Sepsis Triage-complete,16375.568611111112
+27,CRP-complete,16375.59861111111
+27,Leucocytes-complete,16375.59861111111
+28,ER Registration-complete,16364.399050925926
+28,ER Triage-complete,16364.401006944445
+28,ER Sepsis Triage-complete,16364.401354166666
+28,Leucocytes-complete,16364.41111111111
+28,LacticAcid-complete,16364.41111111111
+28,CRP-complete,16364.41111111111
+28,IV Liquid-complete,16364.476956018518
+28,IV Antibiotics-complete,16364.477013888889
+28,Admission NC-complete,16364.477395833334
+28,LacticAcid-complete,16364.495833333332
+28,Release B-complete,16365.9375
+29,ER Registration-complete,16383.806689814815
+29,ER Triage-complete,16383.81568287037
+29,ER Sepsis Triage-complete,16383.81619212963
+29,CRP-complete,16383.829166666666
+29,LacticAcid-complete,16383.829166666666
+29,Leucocytes-complete,16383.829166666666
+29,IV Antibiotics-complete,16383.86056712963
+29,IV Liquid-complete,16383.923541666667
+29,Admission NC-complete,16383.931273148148
+29,Admission NC-complete,16384.416666666668
+29,CRP-complete,16385.291666666668
+29,Leucocytes-complete,16385.291666666668
+29,Leucocytes-complete,16387.291666666668
+29,CRP-complete,16387.291666666668
+29,Release A-complete,16387.791666666668
+30,ER Registration-complete,16337.568900462962
+30,ER Triage-complete,16337.57824074074
+30,ER Sepsis Triage-complete,16337.580023148148
+30,Leucocytes-complete,16337.586111111112
+30,LacticAcid-complete,16337.586111111112
+30,CRP-complete,16337.586111111112
+30,IV Liquid-complete,16337.638993055556
+30,IV Antibiotics-complete,16337.7015625
+30,Admission NC-complete,16337.765671296296
+30,CRP-complete,16340.291666666666
+30,Leucocytes-complete,16340.291666666666
+30,Release A-complete,16343.395833333334
+30,Return ER-complete,16406.74116898148
+31,ER Registration-complete,16473.59320601852
+31,ER Triage-complete,16473.613773148147
+31,ER Sepsis Triage-complete,16473.614780092594
+31,Leucocytes-complete,16473.640972222223
+31,CRP-complete,16473.640972222223
+32,ER Registration-complete,16488.993113425928
+32,ER Triage-complete,16489.000300925927
+32,ER Sepsis Triage-complete,16489.000520833335
+32,IV Liquid-complete,16489.000902777778
+32,IV Antibiotics-complete,16489.000949074074
+32,CRP-complete,16489.01111111111
+32,Leucocytes-complete,16489.01111111111
+32,LacticAcid-complete,16489.01111111111
+32,Admission NC-complete,16489.08570601852
+32,Admission NC-complete,16489.59375
+32,CRP-complete,16490.291666666668
+32,Leucocytes-complete,16490.291666666668
+32,Release D-complete,16491.3678125
+32,Return ER-complete,16492.554502314815
+33,ER Registration-complete,16456.70650462963
+33,ER Triage-complete,16456.7203125
+33,ER Sepsis Triage-complete,16456.720578703702
+33,Leucocytes-complete,16456.777083333334
+33,CRP-complete,16456.777083333334
+33,LacticAcid-complete,16456.777083333334
+33,IV Liquid-complete,16456.914756944443
+33,IV Antibiotics-complete,16456.91489583333
+33,Admission NC-complete,16456.91744212963
+33,CRP-complete,16457.560416666667
+33,Leucocytes-complete,16462.291666666668
+33,CRP-complete,16462.291666666668
+33,Leucocytes-complete,16464.291666666668
+33,CRP-complete,16464.291666666668
+33,Release A-complete,16467.5
+34,ER Registration-complete,16373.623090277777
+34,ER Triage-complete,16373.62650462963
+34,ER Sepsis Triage-complete,16373.627615740741
+34,CRP-complete,16373.632638888888
+34,Leucocytes-complete,16373.632638888888
+34,IV Liquid-complete,16373.760023148148
+34,IV Antibiotics-complete,16373.760069444445
+34,Admission NC-complete,16373.845046296296
+34,Admission NC-complete,16374.384722222223
+34,CRP-complete,16375.25
+34,CRP-complete,16378.25
+34,Release A-complete,16379.479166666666
+34,Return ER-complete,16382.58125
+35,ER Registration-complete,16419.313796296297
+35,ER Triage-complete,16419.31472222222
+35,ER Sepsis Triage-complete,16419.31517361111
+35,LacticAcid-complete,16419.320833333335
+35,Leucocytes-complete,16419.320833333335
+35,CRP-complete,16419.320833333335
+35,IV Antibiotics-complete,16419.32638888889
+35,IV Liquid-complete,16419.353900462964
+35,Admission NC-complete,16419.474363425925
+35,CRP-complete,16420.25
+35,Leucocytes-complete,16422.541666666668
+35,CRP-complete,16422.541666666668
+35,Release A-complete,16423.458333333332
+36,ER Registration-complete,16468.04409722222
+36,ER Triage-complete,16468.05443287037
+36,IV Liquid-complete,16468.076793981483
+36,ER Sepsis Triage-complete,16468.081122685184
+36,CRP-complete,16468.097222222223
+36,LacticAcid-complete,16468.097222222223
+36,Leucocytes-complete,16468.097222222223
+36,IV Antibiotics-complete,16468.17554398148
+36,Admission NC-complete,16468.178449074076
+36,Leucocytes-complete,16470.291666666668
+36,CRP-complete,16470.291666666668
+36,Release A-complete,16471.375
+37,ER Registration-complete,16335.526956018519
+37,ER Triage-complete,16335.53638888889
+37,ER Sepsis Triage-complete,16335.536574074074
+37,Leucocytes-complete,16335.56736111111
+37,LacticAcid-complete,16335.56736111111
+37,CRP-complete,16335.56736111111
+37,IV Liquid-complete,16335.760752314814
+37,IV Antibiotics-complete,16335.760856481482
+38,ER Registration-complete,16412.466886574075
+38,ER Triage-complete,16412.47810185185
+38,Leucocytes-complete,16412.49027777778
+38,CRP-complete,16412.49027777778
+38,LacticAcid-complete,16412.49027777778
+38,ER Sepsis Triage-complete,16412.51568287037
+38,IV Liquid-complete,16412.60685185185
+38,IV Antibiotics-complete,16412.606898148148
+38,Admission IC-complete,16412.60736111111
+38,Admission IC-complete,16412.635416666668
+38,Leucocytes-complete,16412.659722222223
+38,CRP-complete,16412.659722222223
+38,LacticAcid-complete,16412.659722222223
+38,Leucocytes-complete,16412.905555555557
+38,CRP-complete,16412.905555555557
+38,LacticAcid-complete,16412.905555555557
+38,Leucocytes-complete,16413.09513888889
+38,Leucocytes-complete,16413.25
+38,CRP-complete,16413.25
+38,LacticAcid-complete,16413.25
+38,LacticAcid-complete,16413.557638888888
+38,CRP-complete,16413.743055555555
+38,LacticAcid-complete,16413.743055555555
+38,Leucocytes-complete,16413.743055555555
+38,LacticAcid-complete,16414.25
+38,Leucocytes-complete,16414.25
+38,CRP-complete,16414.25
+38,Leucocytes-complete,16415.25
+38,LacticAcid-complete,16415.25
+38,CRP-complete,16415.25
+38,Admission NC-complete,16415.54861111111
+38,Release A-complete,16418.75
+39,ER Registration-complete,16460.589421296296
+39,ER Triage-complete,16460.64550925926
+39,ER Sepsis Triage-complete,16460.646261574075
+39,IV Liquid-complete,16460.64636574074
+39,CRP-complete,16460.649305555555
+39,LacticAcid-complete,16460.649305555555
+39,Leucocytes-complete,16460.649305555555
+39,IV Antibiotics-complete,16460.797916666666
+39,Admission NC-complete,16460.841342592594
+39,Leucocytes-complete,16464.291666666668
+39,CRP-complete,16464.291666666668
+39,Leucocytes-complete,16466.291666666668
+39,CRP-complete,16466.291666666668
+39,Release A-complete,16467.791666666668
+40,ER Registration-complete,16335.908877314814
+40,ER Triage-complete,16335.91023148148
+40,CRP-complete,16335.916666666666
+40,LacticAcid-complete,16335.916666666666
+40,Leucocytes-complete,16335.916666666666
+40,ER Sepsis Triage-complete,16335.92619212963
+40,IV Liquid-complete,16336.012939814815
+40,IV Antibiotics-complete,16336.012974537038
+40,Admission NC-complete,16336.013483796296
+40,Leucocytes-complete,16337.291666666666
+40,CRP-complete,16337.291666666666
+40,CRP-complete,16338.541666666666
+40,Leucocytes-complete,16338.541666666666
+40,Release A-complete,16342.541666666666
+40,Return ER-complete,16349.589421296296
+41,ER Registration-complete,16354.854016203704
+41,ER Triage-complete,16354.855127314815
+41,ER Sepsis Triage-complete,16354.8553125
+41,CRP-complete,16354.866666666667
+41,LacticAcid-complete,16354.866666666667
+41,Leucocytes-complete,16354.866666666667
+41,IV Antibiotics-complete,16354.992094907408
+41,Admission NC-complete,16354.995034722222
+41,Admission NC-complete,16355.395833333334
+41,CRP-complete,16356.25
+41,Leucocytes-complete,16356.25
+41,Release B-complete,16359.8125
+42,ER Registration-complete,16370.381782407407
+42,ER Triage-complete,16370.388935185185
+42,CRP-complete,16370.40625
+42,LacticAcid-complete,16370.40625
+42,Leucocytes-complete,16370.40625
+42,ER Sepsis Triage-complete,16370.556284722223
+42,IV Antibiotics-complete,16370.556550925927
+42,IV Liquid-complete,16370.556550925927
+42,Admission NC-complete,16370.557233796297
+42,Leucocytes-complete,16371.291666666666
+42,CRP-complete,16371.291666666666
+42,Leucocytes-complete,16374.291666666666
+42,CRP-complete,16374.291666666666
+42,Release A-complete,16375.541666666666
+43,ER Registration-complete,16383.824641203704
+43,ER Triage-complete,16383.825439814815
+43,ER Sepsis Triage-complete,16383.825752314815
+43,Leucocytes-complete,16383.838194444445
+43,CRP-complete,16383.838194444445
+43,IV Antibiotics-complete,16383.95181712963
+43,Admission NC-complete,16383.952303240741
+43,LacticAcid-complete,16384.161805555555
+43,Admission NC-complete,16384.544050925924
+43,Admission NC-complete,16384.544444444444
+43,IV Liquid-complete,16384.86800925926
+43,Leucocytes-complete,16385.25
+43,CRP-complete,16385.25
+43,CRP-complete,16387.25
+43,Leucocytes-complete,16387.25
+43,Release B-complete,16393.760416666668
+44,ER Registration-complete,16440.881909722222
+44,Leucocytes-complete,16440.904166666667
+44,LacticAcid-complete,16440.904166666667
+44,CRP-complete,16440.904166666667
+44,ER Triage-complete,16440.9084375
+44,ER Sepsis Triage-complete,16440.909988425927
+44,IV Antibiotics-complete,16440.993171296297
+44,Admission NC-complete,16441.022800925926
+44,Admission NC-complete,16441.363194444446
+44,IV Liquid-complete,16441.910185185185
+44,Release A-complete,16443.375
+45,ER Registration-complete,16385.601898148147
+45,ER Triage-complete,16385.61761574074
+45,ER Sepsis Triage-complete,16385.67533564815
+46,ER Registration-complete,16354.61162037037
+46,ER Triage-complete,16354.61849537037
+46,ER Sepsis Triage-complete,16354.619247685185
+46,Leucocytes-complete,16354.641666666666
+46,LacticAcid-complete,16354.641666666666
+46,CRP-complete,16354.641666666666
+46,IV Liquid-complete,16354.686666666666
+46,IV Antibiotics-complete,16354.686747685186
+46,Admission NC-complete,16354.709618055556
+46,Admission NC-complete,16355.825
+46,Release A-complete,16364.25
+47,ER Registration-complete,16459.656875
+47,ER Triage-complete,16459.670995370372
+47,Leucocytes-complete,16459.69513888889
+47,LacticAcid-complete,16459.69513888889
+47,CRP-complete,16459.69513888889
+47,ER Sepsis Triage-complete,16459.903981481482
+47,Admission NC-complete,16459.90478009259
+47,CRP-complete,16460.25
+47,Leucocytes-complete,16460.25
+47,CRP-complete,16461.291666666668
+47,Leucocytes-complete,16461.291666666668
+47,CRP-complete,16463.291666666668
+47,Leucocytes-complete,16463.291666666668
+47,CRP-complete,16466.291666666668
+47,Leucocytes-complete,16466.291666666668
+47,Release A-complete,16466.541666666668
+47,Return ER-complete,16486.39869212963
+48,ER Registration-complete,16366.641631944445
+48,ER Triage-complete,16366.647094907408
+48,ER Sepsis Triage-complete,16366.647615740741
+48,CRP-complete,16366.652083333332
+48,Leucocytes-complete,16366.652083333332
+49,ER Registration-complete,16405.596886574072
+49,ER Triage-complete,16405.631435185187
+49,ER Sepsis Triage-complete,16405.631851851853
+49,IV Liquid-complete,16405.632222222222
+49,IV Antibiotics-complete,16405.63888888889
+49,CRP-complete,16405.65625
+49,Leucocytes-complete,16405.65625
+49,LacticAcid-complete,16405.65625
+50,ER Registration-complete,16351.421296296296
+50,ER Triage-complete,16351.426724537037
+50,ER Sepsis Triage-complete,16351.429270833334
+50,Leucocytes-complete,16351.434722222222
+50,LacticAcid-complete,16351.434722222222
+50,CRP-complete,16351.434722222222
+50,IV Liquid-complete,16351.590925925926
+50,IV Antibiotics-complete,16351.60482638889
+50,Admission IC-complete,16351.679270833334
+50,CRP-complete,16352.208333333334
+50,LacticAcid-complete,16352.208333333334
+50,Leucocytes-complete,16352.208333333334
+50,Admission NC-complete,16352.375
+50,CRP-complete,16353.208333333334
+50,Leucocytes-complete,16353.208333333334
+50,CRP-complete,16354.25
+50,Leucocytes-complete,16354.25
+50,Leucocytes-complete,16356.25
+50,CRP-complete,16356.25
+50,Release A-complete,16356.666666666666
+50,Return ER-complete,16429.613923611112
+51,ER Registration-complete,16354.76099537037
+51,ER Triage-complete,16354.764780092593
+51,ER Sepsis Triage-complete,16354.764907407407
+51,IV Liquid-complete,16354.76542824074
+51,CRP-complete,16354.778472222222
+51,LacticAcid-complete,16354.778472222222
+51,Leucocytes-complete,16354.778472222222
+51,IV Antibiotics-complete,16354.791666666666
+51,Admission NC-complete,16354.90832175926
+51,Release A-complete,16359.409722222223
+52,ER Registration-complete,16441.319351851853
+52,ER Triage-complete,16441.330497685187
+52,CRP-complete,16441.330555555556
+52,Leucocytes-complete,16441.330555555556
+52,ER Sepsis Triage-complete,16441.330729166668
+53,ER Registration-complete,16385.783819444445
+53,ER Triage-complete,16385.784930555557
+53,ER Sepsis Triage-complete,16385.785092592592
+53,LacticAcid-complete,16385.79097222222
+53,CRP-complete,16385.79097222222
+53,Leucocytes-complete,16385.79097222222
+53,IV Liquid-complete,16385.802083333332
+53,IV Antibiotics-complete,16385.8125
+53,Admission IC-complete,16385.890104166665
+53,Leucocytes-complete,16386.25
+53,CRP-complete,16386.25
+53,LacticAcid-complete,16386.25
+53,LacticAcid-complete,16387.25
+53,CRP-complete,16387.25
+53,Leucocytes-complete,16387.25
+53,CRP-complete,16388.25
+53,LacticAcid-complete,16388.25
+53,Leucocytes-complete,16388.25
+53,Release A-complete,16389.5
+54,ER Registration-complete,16368.77119212963
+54,ER Triage-complete,16368.77986111111
+54,ER Sepsis Triage-complete,16368.779988425926
+54,IV Liquid-complete,16368.784224537038
+54,Leucocytes-complete,16368.784722222223
+54,CRP-complete,16368.784722222223
+54,LacticAcid-complete,16368.784722222223
+54,IV Antibiotics-complete,16368.791388888889
+54,Admission NC-complete,16368.926469907406
+54,Admission NC-complete,16369.604166666666
+54,Leucocytes-complete,16373.291666666666
+54,CRP-complete,16373.291666666666
+54,Release A-complete,16374.375
+55,Leucocytes-complete,16386.52847222222
+55,CRP-complete,16386.52847222222
+55,ER Registration-complete,16386.763194444444
+55,ER Triage-complete,16386.772314814814
+55,ER Sepsis Triage-complete,16386.772800925926
+55,IV Liquid-complete,16386.77326388889
+55,LacticAcid-complete,16386.779166666667
+55,CRP-complete,16386.779166666667
+55,Leucocytes-complete,16386.779166666667
+55,IV Antibiotics-complete,16386.884560185186
+55,Admission NC-complete,16386.88509259259
+55,CRP-complete,16387.291666666668
+55,CRP-complete,16388.416666666668
+55,Leucocytes-complete,16388.416666666668
+55,CRP-complete,16391.541666666668
+55,Leucocytes-complete,16391.541666666668
+55,Release A-complete,16392.375
+56,ER Registration-complete,16363.6634375
+56,ER Triage-complete,16363.667199074074
+56,ER Sepsis Triage-complete,16363.688194444445
+56,IV Liquid-complete,16363.688530092593
+56,Leucocytes-complete,16363.690972222223
+56,CRP-complete,16363.690972222223
+56,LacticAcid-complete,16363.690972222223
+56,IV Antibiotics-complete,16363.807175925926
+57,ER Registration-complete,16422.74525462963
+57,ER Triage-complete,16422.77366898148
+57,ER Sepsis Triage-complete,16422.773854166666
+58,ER Registration-complete,16347.529432870371
+58,ER Triage-complete,16347.531782407408
+58,ER Sepsis Triage-complete,16347.533055555556
+58,CRP-complete,16347.542361111111
+58,LacticAcid-complete,16347.542361111111
+58,Leucocytes-complete,16347.542361111111
+58,IV Liquid-complete,16347.692476851851
+58,IV Antibiotics-complete,16347.692488425926
+58,Admission NC-complete,16347.69292824074
+58,Leucocytes-complete,16348.25
+58,CRP-complete,16348.25
+58,Admission NC-complete,16348.576388888889
+58,CRP-complete,16350.291666666666
+58,Leucocytes-complete,16350.291666666666
+58,Release A-complete,16353.791666666666
+59,ER Registration-complete,16435.038842592592
+59,ER Triage-complete,16435.046145833334
+59,CRP-complete,16435.046527777777
+59,LacticAcid-complete,16435.046527777777
+59,Leucocytes-complete,16435.046527777777
+59,ER Sepsis Triage-complete,16435.04703703704
+59,IV Antibiotics-complete,16435.047534722224
+59,IV Liquid-complete,16435.176400462962
+59,Admission NC-complete,16435.17753472222
+59,Admission NC-complete,16435.416666666668
+59,Release A-complete,16439.583333333332
+59,Return ER-complete,16484.87912037037
+60,ER Registration-complete,16376.635949074074
+60,ER Triage-complete,16376.639756944445
+60,ER Sepsis Triage-complete,16376.640208333334
+60,CRP-complete,16376.645138888889
+60,Leucocytes-complete,16376.645138888889
+60,LacticAcid-complete,16376.645138888889
+60,IV Liquid-complete,16376.665162037038
+60,IV Antibiotics-complete,16376.70699074074
+60,Admission IC-complete,16376.707974537037
+60,LacticAcid-complete,16376.923611111111
+60,Leucocytes-complete,16377.208333333334
+60,LacticAcid-complete,16377.208333333334
+60,CRP-complete,16377.208333333334
+60,LacticAcid-complete,16377.511805555556
+60,CRP-complete,16378.208333333334
+60,LacticAcid-complete,16378.208333333334
+60,Leucocytes-complete,16378.208333333334
+60,LacticAcid-complete,16379.208333333334
+60,Leucocytes-complete,16379.208333333334
+60,CRP-complete,16379.208333333334
+60,Admission NC-complete,16379.375
+60,Leucocytes-complete,16381.425694444444
+60,CRP-complete,16381.425694444444
+60,Admission NC-complete,16381.51474537037
+60,CRP-complete,16382.25
+60,Leucocytes-complete,16382.25
+60,CRP-complete,16384.25
+60,CRP-complete,16384.39236111111
+60,Release A-complete,16386.375
+61,ER Registration-complete,16444.727291666666
+61,ER Triage-complete,16444.732337962963
+61,ER Sepsis Triage-complete,16444.733078703703
+61,IV Liquid-complete,16444.733252314814
+61,Leucocytes-complete,16444.741666666665
+61,CRP-complete,16444.741666666665
+61,LacticAcid-complete,16444.741666666665
+61,IV Antibiotics-complete,16444.885243055556
+61,Admission NC-complete,16444.88596064815
+61,Admission NC-complete,16445.54224537037
+61,CRP-complete,16446.291666666668
+61,Release A-complete,16448.354166666668
+62,ER Registration-complete,16332.285613425925
+62,ER Triage-complete,16332.29013888889
+62,ER Sepsis Triage-complete,16332.290381944444
+62,CRP-complete,16332.296527777778
+62,LacticAcid-complete,16332.296527777778
+62,Leucocytes-complete,16332.296527777778
+62,IV Liquid-complete,16332.42167824074
+62,IV Antibiotics-complete,16332.421898148148
+62,Admission NC-complete,16332.42394675926
+62,CRP-complete,16333.25
+62,Leucocytes-complete,16333.25
+62,Release A-complete,16335.583333333334
+63,ER Registration-complete,16369.765497685185
+63,ER Triage-complete,16369.776064814814
+63,CRP-complete,16369.80625
+63,Leucocytes-complete,16369.80625
+63,ER Sepsis Triage-complete,16369.809282407406
+64,ER Registration-complete,16412.414560185185
+64,ER Triage-complete,16412.416203703702
+64,ER Sepsis Triage-complete,16412.41738425926
+64,IV Liquid-complete,16412.417592592592
+64,IV Antibiotics-complete,16412.417604166665
+64,Leucocytes-complete,16412.42986111111
+64,LacticAcid-complete,16412.42986111111
+64,CRP-complete,16412.42986111111
+64,Admission NC-complete,16412.532002314816
+64,CRP-complete,16414.25
+64,Release A-complete,16417.458333333332
+65,ER Registration-complete,16453.686307870372
+65,ER Triage-complete,16453.70013888889
+65,ER Sepsis Triage-complete,16453.70087962963
+65,Leucocytes-complete,16453.715277777777
+65,CRP-complete,16453.715277777777
+65,Admission NC-complete,16453.884155092594
+65,Leucocytes-complete,16454.291666666668
+65,CRP-complete,16454.291666666668
+65,Leucocytes-complete,16459.291666666668
+65,Leucocytes-complete,16460.291666666668
+65,Leucocytes-complete,16461.370833333334
+65,Leucocytes-complete,16465.71875
+65,Leucocytes-complete,16470.291666666668
+65,LacticAcid-complete,16470.291666666668
+65,CRP-complete,16470.291666666668
+65,Leucocytes-complete,16471.434027777777
+65,Release A-complete,16481.708333333332
+65,Return ER-complete,16489.863460648146
+66,ER Registration-complete,16401.403738425925
+66,ER Triage-complete,16401.409907407407
+66,ER Sepsis Triage-complete,16401.410069444446
+66,CRP-complete,16401.41388888889
+66,Leucocytes-complete,16401.41388888889
+66,LacticAcid-complete,16401.41388888889
+66,IV Liquid-complete,16401.587835648148
+66,IV Antibiotics-complete,16401.587881944444
+66,Admission NC-complete,16401.58829861111
+66,Admission NC-complete,16401.632511574073
+66,Admission IC-complete,16402.20837962963
+66,CRP-complete,16402.254861111112
+66,Leucocytes-complete,16402.254861111112
+66,LacticAcid-complete,16402.254861111112
+66,LacticAcid-complete,16402.484722222223
+66,LacticAcid-complete,16403.208333333332
+66,Leucocytes-complete,16403.208333333332
+66,CRP-complete,16403.208333333332
+66,CRP-complete,16404.208333333332
+66,LacticAcid-complete,16404.208333333332
+66,Leucocytes-complete,16404.208333333332
+66,CRP-complete,16405.208333333332
+66,Leucocytes-complete,16405.208333333332
+66,LacticAcid-complete,16405.208333333332
+66,LacticAcid-complete,16406.208333333332
+66,CRP-complete,16406.208333333332
+66,Leucocytes-complete,16406.208333333332
+66,CRP-complete,16407.208333333332
+66,Leucocytes-complete,16407.208333333332
+66,LacticAcid-complete,16407.208333333332
+66,Leucocytes-complete,16408.208333333332
+66,LacticAcid-complete,16408.208333333332
+66,CRP-complete,16408.208333333332
+66,CRP-complete,16409.208333333332
+66,Leucocytes-complete,16409.208333333332
+66,LacticAcid-complete,16409.208333333332
+66,LacticAcid-complete,16410.25
+66,Leucocytes-complete,16410.25
+66,CRP-complete,16410.25
+66,Release E-complete,16410.947916666668
+66,Return ER-complete,16523.662037037036
+67,ER Registration-complete,16404.39314814815
+67,ER Triage-complete,16404.398252314815
+67,ER Sepsis Triage-complete,16404.398402777777
+67,CRP-complete,16404.436805555557
+67,Leucocytes-complete,16404.436805555557
+67,LacticAcid-complete,16404.436805555557
+68,ER Registration-complete,16356.39863425926
+68,IV Liquid-complete,16356.399305555555
+68,ER Sepsis Triage-complete,16356.40625
+68,IV Antibiotics-complete,16356.40625
+68,ER Triage-complete,16356.40701388889
+68,LacticAcid-complete,16356.408333333333
+68,CRP-complete,16356.408333333333
+68,Leucocytes-complete,16356.408333333333
+68,Admission NC-complete,16356.537349537037
+68,Leucocytes-complete,16358.25
+68,CRP-complete,16358.25
+68,Release A-complete,16359.645833333334
+68,Return ER-complete,16382.880231481482
+69,ER Registration-complete,16406.939375
+69,ER Triage-complete,16406.94554398148
+69,ER Sepsis Triage-complete,16406.945717592593
+69,Leucocytes-complete,16406.94722222222
+69,CRP-complete,16406.94722222222
+69,LacticAcid-complete,16406.94722222222
+69,IV Liquid-complete,16406.977199074074
+69,IV Antibiotics-complete,16407.019027777777
+69,Admission NC-complete,16407.019699074073
+69,CRP-complete,16407.25
+69,Leucocytes-complete,16407.25
+69,Release A-complete,16411.416666666668
+69,Return ER-complete,16420.396979166668
+70,ER Registration-complete,16357.56224537037
+70,ER Triage-complete,16357.568391203704
+70,ER Sepsis Triage-complete,16357.568645833333
+70,LacticAcid-complete,16357.578472222222
+70,Leucocytes-complete,16357.578472222222
+70,CRP-complete,16357.578472222222
+70,Admission NC-complete,16357.696400462963
+70,Leucocytes-complete,16359.583333333334
+70,CRP-complete,16359.583333333334
+70,Leucocytes-complete,16360.25
+70,CRP-complete,16360.25
+70,Leucocytes-complete,16361.25
+70,CRP-complete,16361.25
+70,CRP-complete,16364.25
+70,Leucocytes-complete,16364.25
+70,Leucocytes-complete,16368.25
+70,CRP-complete,16368.25
+70,CRP-complete,16371.25
+70,Leucocytes-complete,16372.445833333333
+70,CRP-complete,16372.445833333333
+70,LacticAcid-complete,16372.511111111111
+70,CRP-complete,16374.25
+70,Leucocytes-complete,16374.25
+70,CRP-complete,16375.25
+70,CRP-complete,16376.25
+70,CRP-complete,16377.25
+70,CRP-complete,16378.25
+70,Leucocytes-complete,16378.25
+70,CRP-complete,16379.25
+70,Leucocytes-complete,16380.25
+70,CRP-complete,16380.25
+70,Release A-complete,16382.333333333334
+70,Return ER-complete,16447.77496527778
+71,ER Registration-complete,16449.71829861111
+71,ER Triage-complete,16449.733368055557
+71,ER Sepsis Triage-complete,16449.733969907407
+71,CRP-complete,16449.750694444443
+71,LacticAcid-complete,16449.750694444443
+71,Leucocytes-complete,16449.750694444443
+71,IV Antibiotics-complete,16449.838680555556
+71,Admission NC-complete,16449.839375
+71,Leucocytes-complete,16451.291666666668
+71,CRP-complete,16451.291666666668
+71,Release A-complete,16452.354166666668
+72,ER Registration-complete,16428.216875
+72,ER Triage-complete,16428.218738425927
+72,ER Sepsis Triage-complete,16428.22042824074
+72,CRP-complete,16428.25138888889
+72,Leucocytes-complete,16428.25138888889
+72,LacticAcid-complete,16428.25138888889
+72,IV Liquid-complete,16428.2996875
+72,IV Antibiotics-complete,16428.299849537038
+72,Admission NC-complete,16428.383854166666
+72,Leucocytes-complete,16429.291666666668
+72,CRP-complete,16429.291666666668
+72,CRP-complete,16432.291666666668
+72,Leucocytes-complete,16432.291666666668
+72,Release A-complete,16433.708333333332
+73,ER Registration-complete,16357.88767361111
+73,ER Triage-complete,16357.89851851852
+73,ER Sepsis Triage-complete,16357.898703703704
+73,CRP-complete,16357.906944444445
+73,LacticAcid-complete,16357.906944444445
+73,Leucocytes-complete,16357.906944444445
+73,IV Antibiotics-complete,16358.041493055556
+73,Admission NC-complete,16358.043159722221
+73,IV Liquid-complete,16358.898831018518
+73,Release B-complete,16359.625
+74,ER Registration-complete,16426.184583333332
+74,ER Triage-complete,16426.185949074075
+74,ER Sepsis Triage-complete,16426.186122685187
+74,IV Antibiotics-complete,16426.186689814815
+74,Leucocytes-complete,16426.205555555556
+74,CRP-complete,16426.205555555556
+74,LacticAcid-complete,16426.205555555556
+74,Admission NC-complete,16426.353680555556
+74,Release A-complete,16428.520833333332
+75,ER Registration-complete,16396.408449074075
+75,ER Triage-complete,16396.41023148148
+75,ER Sepsis Triage-complete,16396.410613425927
+75,LacticAcid-complete,16396.431944444445
+75,CRP-complete,16396.431944444445
+75,Leucocytes-complete,16396.431944444445
+75,IV Antibiotics-complete,16396.576516203702
+75,Admission NC-complete,16396.57699074074
+75,CRP-complete,16397.291666666668
+75,CRP-complete,16399.291666666668
+75,Leucocytes-complete,16399.291666666668
+75,Release A-complete,16399.541666666668
+75,Return ER-complete,16443.730578703704
+76,ER Registration-complete,16377.694293981482
+76,ER Triage-complete,16377.698090277778
+76,ER Sepsis Triage-complete,16377.698275462963
+76,Leucocytes-complete,16377.706944444444
+76,LacticAcid-complete,16377.706944444444
+76,CRP-complete,16377.706944444444
+76,IV Liquid-complete,16377.779641203704
+76,IV Antibiotics-complete,16377.779675925925
+76,Admission NC-complete,16377.833993055556
+76,CRP-complete,16379.291666666666
+76,Leucocytes-complete,16379.291666666666
+76,Release A-complete,16381.552083333334
+77,ER Registration-complete,16452.36832175926
+77,ER Triage-complete,16452.380439814813
+77,ER Sepsis Triage-complete,16452.380729166667
+77,CRP-complete,16452.390972222223
+77,Leucocytes-complete,16452.390972222223
+77,Admission NC-complete,16452.640208333334
+77,Leucocytes-complete,16453.694444444445
+77,CRP-complete,16453.694444444445
+77,CRP-complete,16454.291666666668
+77,Leucocytes-complete,16454.291666666668
+77,CRP-complete,16455.291666666668
+77,Leucocytes-complete,16455.291666666668
+77,Leucocytes-complete,16457.291666666668
+77,CRP-complete,16457.291666666668
+77,CRP-complete,16461.291666666668
+77,Leucocytes-complete,16461.291666666668
+77,Release A-complete,16463.4375
+78,ER Registration-complete,16476.389282407406
+78,ER Triage-complete,16476.390625
+78,ER Sepsis Triage-complete,16476.39077546296
+78,Leucocytes-complete,16476.395833333332
+78,CRP-complete,16476.395833333332
+78,Admission IC-complete,16476.500868055555
+78,CRP-complete,16476.511805555554
+78,Leucocytes-complete,16476.511805555554
+78,LacticAcid-complete,16476.511805555554
+78,Leucocytes-complete,16476.56111111111
+78,Leucocytes-complete,16476.671527777777
+78,Leucocytes-complete,16476.84652777778
+78,Leucocytes-complete,16476.999305555557
+78,LacticAcid-complete,16476.999305555557
+78,LacticAcid-complete,16477.177083333332
+78,Leucocytes-complete,16477.177083333332
+78,CRP-complete,16477.177083333332
+78,Leucocytes-complete,16477.51111111111
+78,LacticAcid-complete,16477.549305555556
+78,Leucocytes-complete,16477.79861111111
+78,CRP-complete,16477.79861111111
+78,LacticAcid-complete,16477.79861111111
+78,Release B-complete,16477.990972222222
+79,ER Registration-complete,16418.903738425925
+79,ER Triage-complete,16418.909652777777
+79,ER Sepsis Triage-complete,16418.910069444446
+80,ER Registration-complete,16441.729039351852
+80,ER Triage-complete,16441.73175925926
+80,ER Sepsis Triage-complete,16441.73193287037
+80,IV Liquid-complete,16441.74269675926
+80,IV Antibiotics-complete,16441.742708333335
+80,LacticAcid-complete,16441.74861111111
+80,Leucocytes-complete,16441.74861111111
+80,CRP-complete,16441.74861111111
+80,Admission NC-complete,16441.847847222223
+80,Leucocytes-complete,16443.291666666668
+80,CRP-complete,16443.291666666668
+80,Admission NC-complete,16443.583333333332
+80,Release A-complete,16445.541666666668
+81,ER Registration-complete,16360.609560185185
+81,ER Triage-complete,16360.610925925926
+81,ER Sepsis Triage-complete,16360.611203703704
+81,IV Liquid-complete,16360.625
+81,IV Antibiotics-complete,16360.628472222223
+81,Leucocytes-complete,16360.632638888888
+81,LacticAcid-complete,16360.632638888888
+81,CRP-complete,16360.632638888888
+82,ER Registration-complete,16390.036458333332
+82,ER Triage-complete,16390.042928240742
+82,LacticAcid-complete,16390.043055555554
+82,Leucocytes-complete,16390.043055555554
+82,CRP-complete,16390.043055555554
+82,ER Sepsis Triage-complete,16390.043252314816
+82,IV Liquid-complete,16390.05625
+82,IV Antibiotics-complete,16390.056319444444
+82,Admission NC-complete,16390.127824074076
+82,CRP-complete,16390.25
+82,Leucocytes-complete,16390.25
+82,Admission NC-complete,16390.291747685184
+82,Leucocytes-complete,16393.25
+82,CRP-complete,16393.25
+82,Release A-complete,16395.354166666668
+82,Return ER-complete,16437.609560185185
+83,ER Registration-complete,16397.657291666666
+83,ER Triage-complete,16397.663958333334
+83,ER Sepsis Triage-complete,16397.66422453704
+83,LacticAcid-complete,16397.686805555557
+83,CRP-complete,16397.686805555557
+83,Leucocytes-complete,16397.686805555557
+84,ER Registration-complete,16396.067592592593
+84,ER Triage-complete,16396.085300925926
+84,ER Sepsis Triage-complete,16396.08548611111
+84,LacticAcid-complete,16396.09513888889
+84,Leucocytes-complete,16396.09513888889
+84,CRP-complete,16396.09513888889
+84,Admission NC-complete,16396.198865740742
+84,Admission NC-complete,16397.472222222223
+84,Release A-complete,16399.489583333332
+85,ER Registration-complete,16333.943020833334
+85,ER Triage-complete,16333.954224537038
+85,ER Sepsis Triage-complete,16333.95449074074
+85,IV Liquid-complete,16333.954722222223
+85,CRP-complete,16333.959027777777
+85,LacticAcid-complete,16333.959027777777
+85,Leucocytes-complete,16333.959027777777
+85,IV Antibiotics-complete,16334.074537037037
+85,Admission NC-complete,16334.0753125
+85,Leucocytes-complete,16335.25
+85,CRP-complete,16335.25
+85,Admission NC-complete,16335.541666666666
+85,CRP-complete,16338.25
+85,Leucocytes-complete,16338.25
+85,Release A-complete,16342.395833333334
+85,Return ER-complete,16344.324108796296
+86,ER Registration-complete,16464.565949074073
+86,ER Triage-complete,16464.57184027778
+86,ER Sepsis Triage-complete,16464.590300925927
+86,CRP-complete,16464.60625
+86,Leucocytes-complete,16464.60625
+86,LacticAcid-complete,16464.60625
+86,Admission NC-complete,16464.722407407407
+86,Admission NC-complete,16465.541666666668
+86,CRP-complete,16466.291666666668
+86,Leucocytes-complete,16466.291666666668
+86,Leucocytes-complete,16467.291666666668
+86,CRP-complete,16467.291666666668
+86,Leucocytes-complete,16469.291666666668
+86,CRP-complete,16469.291666666668
+86,Leucocytes-complete,16470.291666666668
+86,CRP-complete,16470.291666666668
+86,CRP-complete,16471.291666666668
+86,Leucocytes-complete,16471.291666666668
+86,Leucocytes-complete,16474.291666666668
+86,CRP-complete,16474.291666666668
+86,Release C-complete,16493.395833333332
+87,ER Registration-complete,16451.89207175926
+87,ER Triage-complete,16451.90166666667
+87,ER Sepsis Triage-complete,16451.904525462964
+87,LacticAcid-complete,16451.909722222223
+87,CRP-complete,16451.909722222223
+87,Leucocytes-complete,16451.909722222223
+87,IV Antibiotics-complete,16451.964965277777
+87,Admission NC-complete,16451.96542824074
+87,IV Liquid-complete,16452.904699074075
+87,CRP-complete,16453.291666666668
+87,Leucocytes-complete,16453.291666666668
+87,CRP-complete,16454.291666666668
+87,Leucocytes-complete,16454.291666666668
+87,Release A-complete,16455.484722222223
+88,ER Registration-complete,16342.950659722223
+88,ER Triage-complete,16342.95167824074
+88,ER Sepsis Triage-complete,16342.952384259259
+88,IV Liquid-complete,16342.952546296296
+88,IV Antibiotics-complete,16342.958784722223
+88,LacticAcid-complete,16342.96388888889
+88,CRP-complete,16342.96388888889
+88,Leucocytes-complete,16342.96388888889
+88,Admission NC-complete,16343.065
+88,Admission NC-complete,16343.4375
+88,Leucocytes-complete,16344.25
+88,CRP-complete,16344.25
+88,CRP-complete,16346.25
+88,CRP-complete,16350.25
+88,Leucocytes-complete,16350.25
+88,CRP-complete,16352.25
+88,Release A-complete,16353.399305555555
+88,Return ER-complete,16387.641921296297
+89,ER Registration-complete,16405.379733796297
+89,ER Triage-complete,16405.391828703705
+89,ER Sepsis Triage-complete,16405.39238425926
+89,CRP-complete,16405.40347222222
+89,Leucocytes-complete,16405.40347222222
+89,Admission NC-complete,16405.482824074075
+89,CRP-complete,16413.25
+89,Release A-complete,16417.5
+89,Return ER-complete,16524.480740740742
+90,ER Registration-complete,16358.850625
+90,ER Triage-complete,16358.853020833334
+90,ER Sepsis Triage-complete,16358.864479166667
+90,IV Liquid-complete,16358.864641203703
+90,IV Antibiotics-complete,16358.864699074074
+90,CRP-complete,16358.869444444445
+90,Leucocytes-complete,16358.869444444445
+90,LacticAcid-complete,16358.869444444445
+90,Admission NC-complete,16359.00556712963
+90,Leucocytes-complete,16359.25
+90,Leucocytes-complete,16359.822222222223
+90,Leucocytes-complete,16360.25
+90,CRP-complete,16360.25
+90,Admission NC-complete,16360.5
+90,Leucocytes-complete,16361.291666666666
+90,CRP-complete,16361.291666666666
+90,CRP-complete,16364.291666666666
+90,Release A-complete,16365.385416666666
+91,ER Registration-complete,16396.19667824074
+91,ER Triage-complete,16396.19877314815
+91,ER Sepsis Triage-complete,16396.198912037038
+91,Leucocytes-complete,16396.21736111111
+91,CRP-complete,16396.21736111111
+91,LacticAcid-complete,16396.21736111111
+91,IV Liquid-complete,16396.21890046296
+91,IV Antibiotics-complete,16396.219016203704
+91,Admission IC-complete,16396.26130787037
+91,LacticAcid-complete,16396.365972222222
+91,Leucocytes-complete,16396.491666666665
+91,CRP-complete,16396.491666666665
+91,LacticAcid-complete,16396.77986111111
+91,CRP-complete,16397.208333333332
+91,LacticAcid-complete,16397.208333333332
+91,Leucocytes-complete,16397.208333333332
+91,Admission NC-complete,16397.479166666668
+91,CRP-complete,16399.25
+91,Leucocytes-complete,16401.25
+91,CRP-complete,16401.25
+91,Release A-complete,16402.489583333332
+92,ER Registration-complete,16430.614502314816
+92,ER Triage-complete,16430.618969907406
+92,CRP-complete,16430.62222222222
+92,Leucocytes-complete,16430.62222222222
+92,LacticAcid-complete,16430.62222222222
+92,ER Sepsis Triage-complete,16430.623425925925
+92,IV Liquid-complete,16430.624409722222
+92,IV Antibiotics-complete,16430.624421296296
+92,Admission IC-complete,16430.828229166666
+92,LacticAcid-complete,16431.25
+92,CRP-complete,16431.25
+92,Leucocytes-complete,16431.25
+92,Leucocytes-complete,16432.177083333332
+92,CRP-complete,16432.177083333332
+92,LacticAcid-complete,16432.177083333332
+92,CRP-complete,16433.25
+92,LacticAcid-complete,16433.25
+92,Leucocytes-complete,16433.25
+92,Admission NC-complete,16433.416666666668
+92,Leucocytes-complete,16435.291666666668
+92,CRP-complete,16435.291666666668
+92,Release A-complete,16437.75
+92,Return ER-complete,16559.43173611111
+93,ER Registration-complete,16368.479166666666
+93,ER Triage-complete,16368.48050925926
+93,Leucocytes-complete,16368.5
+93,CRP-complete,16368.5
+93,LacticAcid-complete,16368.5
+93,ER Sepsis Triage-complete,16368.52099537037
+93,IV Antibiotics-complete,16368.610972222223
+93,Admission NC-complete,16368.611747685185
+93,CRP-complete,16370.25
+93,Leucocytes-complete,16370.25
+93,Release A-complete,16370.5
+94,ER Registration-complete,16355.526238425926
+94,ER Triage-complete,16355.547847222222
+94,ER Sepsis Triage-complete,16355.548078703703
+94,Leucocytes-complete,16355.554861111112
+94,CRP-complete,16355.554861111112
+94,LacticAcid-complete,16355.554861111112
+94,IV Liquid-complete,16355.644351851852
+94,IV Antibiotics-complete,16355.644363425927
+94,Admission NC-complete,16355.67570601852
+94,Leucocytes-complete,16359.291666666666
+94,CRP-complete,16359.291666666666
+94,Release A-complete,16359.614583333334
+95,ER Registration-complete,16369.80625
+95,ER Triage-complete,16369.810787037037
+95,ER Sepsis Triage-complete,16369.811006944445
+95,LacticAcid-complete,16369.827777777778
+95,CRP-complete,16369.827777777778
+95,Leucocytes-complete,16369.827777777778
+95,IV Liquid-complete,16369.86105324074
+95,IV Antibiotics-complete,16369.861388888889
+95,Admission NC-complete,16369.96675925926
+95,Leucocytes-complete,16371.291666666666
+95,CRP-complete,16371.291666666666
+95,CRP-complete,16372.291666666666
+95,Leucocytes-complete,16372.291666666666
+95,Admission NC-complete,16373.625
+95,CRP-complete,16374.291666666666
+95,Leucocytes-complete,16374.291666666666
+95,CRP-complete,16376.291666666666
+95,Admission NC-complete,16376.541921296297
+95,Admission NC-complete,16376.625
+95,CRP-complete,16382.291666666666
+95,CRP-complete,16387.291666666668
+95,Leucocytes-complete,16389.291666666668
+95,CRP-complete,16389.291666666668
+95,Leucocytes-complete,16393.291666666668
+95,CRP-complete,16393.291666666668
+95,CRP-complete,16402.291666666668
+95,Leucocytes-complete,16402.291666666668
+95,CRP-complete,16406.291666666668
+95,CRP-complete,16410.291666666668
+95,Admission NC-complete,16410.356516203705
+95,Release D-complete,16418.354166666668
+96,ER Registration-complete,16359.742245370371
+96,ER Triage-complete,16359.750162037037
+96,ER Sepsis Triage-complete,16359.75042824074
+96,Leucocytes-complete,16359.755555555555
+96,LacticAcid-complete,16359.755555555555
+96,CRP-complete,16359.755555555555
+96,IV Liquid-complete,16359.839293981482
+96,IV Antibiotics-complete,16359.839583333332
+96,Admission NC-complete,16359.840381944445
+96,Leucocytes-complete,16360.291666666666
+96,Leucocytes-complete,16361.291666666666
+96,CRP-complete,16361.291666666666
+96,CRP-complete,16362.291666666666
+96,CRP-complete,16364.291666666666
+96,Release A-complete,16364.375
+96,Return ER-complete,16422.946516203705
+97,ER Registration-complete,16355.919641203704
+97,ER Triage-complete,16355.934953703703
+97,ER Sepsis Triage-complete,16355.935092592592
+97,CRP-complete,16355.95
+97,Leucocytes-complete,16355.95
+97,Admission NC-complete,16356.026041666666
+97,Leucocytes-complete,16356.208333333334
+97,CRP-complete,16356.208333333334
+97,Admission NC-complete,16356.33980324074
+97,Leucocytes-complete,16359.28611111111
+97,CRP-complete,16359.28611111111
+97,Release A-complete,16364.333333333334
+98,ER Registration-complete,16356.767199074075
+98,ER Triage-complete,16356.775775462964
+98,ER Sepsis Triage-complete,16356.781898148149
+98,IV Liquid-complete,16356.781990740741
+98,IV Antibiotics-complete,16356.782002314814
+98,LacticAcid-complete,16356.78263888889
+98,Leucocytes-complete,16356.78263888889
+98,CRP-complete,16356.78263888889
+98,Admission NC-complete,16356.870625
+98,Leucocytes-complete,16357.25
+98,CRP-complete,16357.25
+98,Admission NC-complete,16357.5
+98,CRP-complete,16359.25
+98,Leucocytes-complete,16363.5
+98,CRP-complete,16363.5
+98,Release A-complete,16365.333333333334
+99,ER Registration-complete,16351.820543981481
+99,ER Triage-complete,16351.821944444444
+99,ER Sepsis Triage-complete,16351.822488425925
+99,IV Liquid-complete,16351.822719907408
+99,Leucocytes-complete,16351.828472222222
+99,CRP-complete,16351.828472222222
+99,LacticAcid-complete,16351.828472222222
+99,IV Antibiotics-complete,16351.8728125
+99,Admission NC-complete,16352.007025462963
+99,CRP-complete,16352.25
+99,Leucocytes-complete,16352.25
+100,ER Registration-complete,16398.384733796298
+100,ER Triage-complete,16398.398900462962
+100,ER Sepsis Triage-complete,16398.404930555556
+100,IV Liquid-complete,16398.405358796295
+100,IV Antibiotics-complete,16398.405439814815
+100,CRP-complete,16398.408333333333
+100,Leucocytes-complete,16398.408333333333
+100,LacticAcid-complete,16398.408333333333
+100,Admission NC-complete,16398.5471875
+100,CRP-complete,16400.25
+100,Leucocytes-complete,16400.25
+100,Release A-complete,16401.333333333332
+100,Return ER-complete,16521.395381944443
+101,ER Registration-complete,16378.805324074074
+101,ER Triage-complete,16378.816701388889
+101,ER Sepsis Triage-complete,16378.817106481481
+101,IV Liquid-complete,16378.817662037038
+101,IV Antibiotics-complete,16378.817777777778
+101,Leucocytes-complete,16378.819444444445
+101,CRP-complete,16378.819444444445
+101,LacticAcid-complete,16378.819444444445
+101,Admission NC-complete,16378.933275462963
+101,CRP-complete,16381.291666666666
+101,CRP-complete,16383.346527777778
+101,Leucocytes-complete,16383.346527777778
+101,Leucocytes-complete,16388.291666666668
+101,CRP-complete,16388.291666666668
+101,CRP-complete,16390.32013888889
+101,Leucocytes-complete,16390.32013888889
+101,Release A-complete,16390.375
+102,Leucocytes-complete,16428.356944444444
+102,CRP-complete,16428.356944444444
+102,ER Registration-complete,16428.479282407407
+102,ER Triage-complete,16428.501770833333
+102,ER Sepsis Triage-complete,16428.501921296298
+102,IV Liquid-complete,16428.502141203702
+102,LacticAcid-complete,16428.50763888889
+102,Leucocytes-complete,16428.50763888889
+102,CRP-complete,16428.50763888889
+102,IV Antibiotics-complete,16428.542222222222
+102,Admission NC-complete,16428.640972222223
+102,Leucocytes-complete,16430.416666666668
+102,CRP-complete,16430.416666666668
+102,Admission NC-complete,16430.647222222222
+102,CRP-complete,16431.334722222222
+102,Leucocytes-complete,16431.334722222222
+102,Leucocytes-complete,16431.374305555557
+102,Leucocytes-complete,16432.320833333335
+102,CRP-complete,16433.385416666668
+102,Leucocytes-complete,16433.385416666668
+102,Leucocytes-complete,16434.328472222223
+102,Leucocytes-complete,16435.25
+102,Leucocytes-complete,16436.3375
+102,Leucocytes-complete,16437.39236111111
+102,CRP-complete,16438.368055555555
+102,Leucocytes-complete,16438.368055555555
+102,Leucocytes-complete,16438.60138888889
+102,Leucocytes-complete,16439.35
+102,Leucocytes-complete,16439.464583333334
+102,Leucocytes-complete,16440.313194444443
+102,Leucocytes-complete,16441.318055555555
+102,CRP-complete,16441.318055555555
+102,CRP-complete,16442.347222222223
+102,Leucocytes-complete,16442.347222222223
+102,Leucocytes-complete,16443.350694444445
+102,CRP-complete,16443.350694444445
+102,Leucocytes-complete,16444.324305555554
+102,CRP-complete,16444.324305555554
+102,CRP-complete,16445.338888888888
+102,Leucocytes-complete,16445.338888888888
+102,Leucocytes-complete,16446.26875
+102,CRP-complete,16446.26875
+102,Leucocytes-complete,16446.475694444445
+102,Leucocytes-complete,16446.64652777778
+102,CRP-complete,16447.32361111111
+102,Leucocytes-complete,16447.32361111111
+102,CRP-complete,16448.327777777777
+102,Leucocytes-complete,16448.327777777777
+102,CRP-complete,16449.32222222222
+102,Leucocytes-complete,16449.32222222222
+102,Leucocytes-complete,16449.649305555555
+102,Leucocytes-complete,16450.33611111111
+102,CRP-complete,16450.33611111111
+102,CRP-complete,16451.254166666666
+102,Leucocytes-complete,16451.254166666666
+102,CRP-complete,16452.200694444444
+102,Leucocytes-complete,16452.200694444444
+102,Leucocytes-complete,16453.330555555556
+102,CRP-complete,16453.330555555556
+102,Leucocytes-complete,16453.47152777778
+102,Admission IC-complete,16453.5625
+102,Leucocytes-complete,16453.709722222222
+102,CRP-complete,16453.709722222222
+102,LacticAcid-complete,16453.709722222222
+102,CRP-complete,16454.25
+102,LacticAcid-complete,16454.25
+102,Leucocytes-complete,16454.25
+102,LacticAcid-complete,16455.25
+102,Leucocytes-complete,16455.25
+102,CRP-complete,16455.25
+102,Leucocytes-complete,16456.25
+102,CRP-complete,16456.25
+102,LacticAcid-complete,16456.25
+102,Admission NC-complete,16456.455555555556
+102,Leucocytes-complete,16456.488194444446
+102,Leucocytes-complete,16457.389583333334
+102,Leucocytes-complete,16458.404166666667
+102,Leucocytes-complete,16459.229166666668
+102,CRP-complete,16459.229166666668
+102,Leucocytes-complete,16460.291666666668
+102,Leucocytes-complete,16461.166666666668
+102,CRP-complete,16462.291666666668
+102,Leucocytes-complete,16462.291666666668
+102,Leucocytes-complete,16466.291666666668
+102,CRP-complete,16466.291666666668
+102,CRP-complete,16469.291666666668
+102,Leucocytes-complete,16469.291666666668
+102,Release D-complete,16470.51388888889
+103,ER Registration-complete,16486.423969907406
+103,ER Triage-complete,16486.437847222223
+103,ER Sepsis Triage-complete,16486.438298611112
+103,Leucocytes-complete,16486.447916666668
+103,CRP-complete,16486.447916666668
+103,LacticAcid-complete,16486.447916666668
+104,ER Registration-complete,16361.279918981481
+104,ER Triage-complete,16361.28232638889
+104,ER Sepsis Triage-complete,16361.283541666666
+104,Leucocytes-complete,16361.288194444445
+104,CRP-complete,16361.288194444445
+104,LacticAcid-complete,16361.288194444445
+104,IV Antibiotics-complete,16361.29170138889
+104,IV Liquid-complete,16361.2921875
+104,Admission IC-complete,16361.391145833333
+104,CRP-complete,16361.430555555555
+104,LacticAcid-complete,16361.430555555555
+104,Leucocytes-complete,16361.430555555555
+104,LacticAcid-complete,16361.534027777778
+104,LacticAcid-complete,16361.700694444444
+104,LacticAcid-complete,16361.891666666666
+104,CRP-complete,16362.25
+104,LacticAcid-complete,16362.25
+104,Leucocytes-complete,16362.25
+104,LacticAcid-complete,16362.446527777778
+104,LacticAcid-complete,16362.53125
+104,LacticAcid-complete,16362.61875
+104,LacticAcid-complete,16362.869444444445
+104,LacticAcid-complete,16363.25
+104,Leucocytes-complete,16363.25
+104,CRP-complete,16363.25
+104,Admission NC-complete,16363.552083333334
+104,CRP-complete,16364.421527777778
+104,Leucocytes-complete,16364.421527777778
+104,Leucocytes-complete,16365.291666666666
+104,CRP-complete,16365.291666666666
+104,Release A-complete,16366.375
+105,ER Registration-complete,16481.86105324074
+105,ER Triage-complete,16481.8640625
+105,ER Sepsis Triage-complete,16481.864768518517
+105,CRP-complete,16481.866666666665
+105,LacticAcid-complete,16481.866666666665
+105,Leucocytes-complete,16481.866666666665
+105,IV Liquid-complete,16481.908356481483
+105,IV Antibiotics-complete,16481.90847222222
+105,Admission NC-complete,16481.95065972222
+105,CRP-complete,16485.291666666668
+105,Leucocytes-complete,16485.291666666668
+105,Release A-complete,16485.527777777777
+106,ER Registration-complete,16429.795092592594
+106,ER Triage-complete,16429.802569444444
+106,ER Sepsis Triage-complete,16429.802708333333
+106,LacticAcid-complete,16429.81875
+106,Leucocytes-complete,16429.81875
+106,CRP-complete,16429.81875
+106,IV Liquid-complete,16429.91928240741
+106,IV Antibiotics-complete,16429.91934027778
+106,Admission NC-complete,16429.91982638889
+106,CRP-complete,16431.291666666668
+106,Leucocytes-complete,16431.291666666668
+106,Leucocytes-complete,16432.291666666668
+106,CRP-complete,16434.291666666668
+106,Leucocytes-complete,16434.291666666668
+106,CRP-complete,16436.291666666668
+106,Leucocytes-complete,16436.291666666668
+106,Leucocytes-complete,16437.291666666668
+106,CRP-complete,16437.291666666668
+106,Leucocytes-complete,16439.291666666668
+106,Leucocytes-complete,16440.427083333332
+106,CRP-complete,16440.427083333332
+106,Release A-complete,16440.708333333332
+106,Return ER-complete,16515.83380787037
+107,Leucocytes-complete,16492.333333333332
+107,CRP-complete,16492.333333333332
+107,ER Registration-complete,16492.40090277778
+107,ER Triage-complete,16492.404016203705
+107,ER Sepsis Triage-complete,16492.404293981483
+107,IV Antibiotics-complete,16492.43795138889
+107,Admission NC-complete,16492.446643518517
+107,Leucocytes-complete,16493.416666666668
+107,CRP-complete,16493.416666666668
+107,Leucocytes-complete,16494.291666666668
+107,CRP-complete,16494.291666666668
+107,CRP-complete,16496.291666666668
+107,CRP-complete,16498.291666666668
+107,Leucocytes-complete,16500.291666666668
+107,CRP-complete,16500.291666666668
+107,Release A-complete,16501.416666666668
+108,ER Registration-complete,16372.502916666666
+108,ER Triage-complete,16372.505185185186
+108,LacticAcid-complete,16372.511111111111
+108,CRP-complete,16372.511111111111
+108,Leucocytes-complete,16372.511111111111
+108,ER Sepsis Triage-complete,16372.552314814815
+108,IV Liquid-complete,16372.561099537037
+108,IV Antibiotics-complete,16372.561238425926
+108,Admission NC-complete,16372.60119212963
+108,Leucocytes-complete,16374.416666666666
+108,CRP-complete,16374.416666666666
+108,CRP-complete,16377.291666666666
+108,Leucocytes-complete,16377.291666666666
+108,Admission NC-complete,16381.58398148148
+108,Leucocytes-complete,16383.291666666666
+108,CRP-complete,16383.291666666666
+108,Admission NC-complete,16383.416666666666
+108,Leucocytes-complete,16387.291666666668
+108,CRP-complete,16387.291666666668
+108,Release A-complete,16387.395833333332
+109,Leucocytes-complete,16350.347222222223
+109,CRP-complete,16350.347222222223
+109,ER Registration-complete,16350.647025462962
+109,ER Triage-complete,16350.657800925926
+109,ER Sepsis Triage-complete,16350.658159722223
+109,IV Antibiotics-complete,16350.74633101852
+109,Admission NC-complete,16350.746851851853
+109,Release A-complete,16355.5
+110,ER Registration-complete,16404.540208333332
+110,ER Triage-complete,16404.55625
+110,ER Sepsis Triage-complete,16404.56
+110,IV Liquid-complete,16404.560127314813
+110,Leucocytes-complete,16404.56527777778
+110,CRP-complete,16404.56527777778
+110,IV Antibiotics-complete,16404.66579861111
+110,Admission NC-complete,16404.666782407407
+110,CRP-complete,16406.208333333332
+110,Leucocytes-complete,16406.208333333332
+110,Release A-complete,16406.604166666668
+111,ER Registration-complete,16442.819039351853
+111,ER Triage-complete,16442.824780092593
+111,ER Sepsis Triage-complete,16442.825069444443
+111,Leucocytes-complete,16442.850694444445
+111,CRP-complete,16442.850694444445
+111,LacticAcid-complete,16442.850694444445
+111,IV Antibiotics-complete,16442.88888888889
+111,IV Liquid-complete,16442.924305555556
+111,Admission NC-complete,16442.925208333334
+111,Leucocytes-complete,16444.291666666668
+111,Release A-complete,16446.375
+112,ER Registration-complete,16463.315162037037
+112,ER Triage-complete,16463.32576388889
+112,ER Sepsis Triage-complete,16463.326030092594
+112,CRP-complete,16463.35138888889
+112,LacticAcid-complete,16463.35138888889
+112,Leucocytes-complete,16463.35138888889
+112,IV Liquid-complete,16463.433171296296
+112,IV Antibiotics-complete,16463.433252314815
+112,Admission NC-complete,16463.433784722223
+112,Leucocytes-complete,16464.291666666668
+112,CRP-complete,16464.291666666668
+112,Leucocytes-complete,16467.291666666668
+112,CRP-complete,16467.291666666668
+112,Release A-complete,16468.666666666668
+112,Return ER-complete,16562.733125
+113,ER Registration-complete,16399.572997685184
+113,ER Triage-complete,16399.574837962962
+113,ER Sepsis Triage-complete,16399.575034722224
+113,IV Antibiotics-complete,16399.57638888889
+113,Leucocytes-complete,16399.58611111111
+113,CRP-complete,16399.58611111111
+113,LacticAcid-complete,16399.58611111111
+113,IV Liquid-complete,16399.61244212963
+113,Admission NC-complete,16399.67974537037
+113,CRP-complete,16400.291666666668
+113,Leucocytes-complete,16402.291666666668
+113,CRP-complete,16402.291666666668
+113,Release A-complete,16403.375
+114,ER Registration-complete,16387.321724537036
+114,ER Triage-complete,16387.34824074074
+114,Leucocytes-complete,16387.348611111112
+114,CRP-complete,16387.348611111112
+114,ER Sepsis Triage-complete,16387.349108796298
+115,ER Registration-complete,16332.447673611112
+115,ER Triage-complete,16332.449675925925
+115,ER Sepsis Triage-complete,16332.449872685185
+115,CRP-complete,16332.456944444444
+115,Leucocytes-complete,16332.456944444444
+115,LacticAcid-complete,16332.456944444444
+116,ER Registration-complete,16389.414328703704
+116,ER Triage-complete,16389.415046296297
+116,ER Sepsis Triage-complete,16389.417118055557
+116,CRP-complete,16389.42013888889
+116,LacticAcid-complete,16389.42013888889
+116,Leucocytes-complete,16389.42013888889
+117,ER Registration-complete,16397.416724537037
+117,ER Triage-complete,16397.418391203704
+117,ER Sepsis Triage-complete,16397.41864583333
+117,CRP-complete,16397.43472222222
+117,LacticAcid-complete,16397.43472222222
+117,Leucocytes-complete,16397.43472222222
+117,IV Liquid-complete,16397.54988425926
+117,IV Antibiotics-complete,16397.54994212963
+117,Admission NC-complete,16397.551157407408
+117,Leucocytes-complete,16399.25
+117,Leucocytes-complete,16401.416666666668
+117,CRP-complete,16401.416666666668
+117,Release A-complete,16402.5
+117,Return ER-complete,16467.364780092594
+118,ER Registration-complete,16358.343645833333
+118,ER Triage-complete,16358.350381944445
+118,ER Sepsis Triage-complete,16358.351539351852
+118,IV Liquid-complete,16358.351724537037
+118,IV Antibiotics-complete,16358.351736111112
+118,Leucocytes-complete,16358.370833333332
+118,LacticAcid-complete,16358.370833333332
+118,CRP-complete,16358.370833333332
+118,Admission NC-complete,16358.481134259258
+118,Leucocytes-complete,16360.291666666666
+118,CRP-complete,16360.291666666666
+118,Release A-complete,16362.375
+118,Return ER-complete,16394.581527777777
+119,ER Registration-complete,16334.628819444444
+119,ER Triage-complete,16334.641319444445
+119,Leucocytes-complete,16334.64375
+119,CRP-complete,16334.64375
+119,ER Sepsis Triage-complete,16334.682199074074
+119,IV Liquid-complete,16334.732372685185
+119,IV Antibiotics-complete,16334.732523148148
+119,Release B-complete,16334.739583333334
+119,Admission NC-complete,16334.748958333334
+120,ER Registration-complete,16460.58337962963
+120,ER Triage-complete,16460.595092592594
+120,ER Sepsis Triage-complete,16460.59590277778
+120,LacticAcid-complete,16460.60347222222
+120,Leucocytes-complete,16460.60347222222
+120,CRP-complete,16460.60347222222
+120,IV Antibiotics-complete,16460.666944444445
+120,Admission NC-complete,16460.78613425926
+120,CRP-complete,16461.25
+120,Leucocytes-complete,16461.25
+120,Admission NC-complete,16461.479166666668
+120,Leucocytes-complete,16462.291666666668
+120,CRP-complete,16462.291666666668
+120,CRP-complete,16464.291666666668
+120,Release A-complete,16465.5
+121,ER Registration-complete,16477.516840277778
+121,ER Triage-complete,16477.526238425926
+121,ER Sepsis Triage-complete,16477.528391203705
+121,IV Antibiotics-complete,16477.541666666668
+121,Leucocytes-complete,16477.54236111111
+121,LacticAcid-complete,16477.54236111111
+121,CRP-complete,16477.54236111111
+121,IV Liquid-complete,16477.610787037036
+121,Admission NC-complete,16477.65971064815
+121,Leucocytes-complete,16478.25
+121,CRP-complete,16478.25
+121,Admission NC-complete,16478.57986111111
+121,Release C-complete,16484.371527777777
+122,ER Registration-complete,16374.336689814814
+122,ER Sepsis Triage-complete,16374.338148148148
+122,ER Triage-complete,16374.346689814814
+122,CRP-complete,16374.347222222223
+122,Leucocytes-complete,16374.347222222223
+122,LacticAcid-complete,16374.347222222223
+122,LacticAcid-complete,16374.47361111111
+122,IV Liquid-complete,16374.495011574074
+122,IV Antibiotics-complete,16374.495023148149
+122,Admission IC-complete,16374.497152777778
+122,LacticAcid-complete,16374.761111111111
+122,Leucocytes-complete,16375.208333333334
+122,CRP-complete,16375.208333333334
+122,LacticAcid-complete,16375.208333333334
+122,CRP-complete,16376.208333333334
+122,LacticAcid-complete,16376.208333333334
+122,Leucocytes-complete,16376.208333333334
+122,Admission NC-complete,16376.520833333334
+122,Leucocytes-complete,16380.25
+122,CRP-complete,16382.25
+122,Leucocytes-complete,16382.25
+122,Leucocytes-complete,16384.333333333332
+122,CRP-complete,16384.333333333332
+122,Leucocytes-complete,16386.25
+122,CRP-complete,16386.25
+122,Leucocytes-complete,16387.25
+122,CRP-complete,16387.25
+122,Leucocytes-complete,16390.25
+122,CRP-complete,16390.25
+122,Leucocytes-complete,16394.25
+122,CRP-complete,16398.25
+122,Leucocytes-complete,16398.25
+122,Leucocytes-complete,16401.291666666668
+122,CRP-complete,16401.291666666668
+122,Leucocytes-complete,16404.291666666668
+122,CRP-complete,16404.291666666668
+122,Release A-complete,16405.479166666668
+123,ER Registration-complete,16410.31304398148
+123,ER Triage-complete,16410.320578703704
+123,ER Sepsis Triage-complete,16410.324305555554
+123,IV Liquid-complete,16410.324398148146
+123,LacticAcid-complete,16410.330555555556
+123,Leucocytes-complete,16410.330555555556
+123,CRP-complete,16410.330555555556
+123,IV Antibiotics-complete,16410.537083333333
+123,Admission IC-complete,16410.53777777778
+123,CRP-complete,16410.6125
+123,Leucocytes-complete,16410.6125
+123,LacticAcid-complete,16410.6125
+123,Leucocytes-complete,16410.821527777778
+123,LacticAcid-complete,16410.821527777778
+123,CRP-complete,16410.821527777778
+123,CRP-complete,16411.206944444446
+123,Leucocytes-complete,16411.206944444446
+123,LacticAcid-complete,16411.206944444446
+123,LacticAcid-complete,16412.21111111111
+123,CRP-complete,16412.21111111111
+123,Leucocytes-complete,16412.21111111111
+123,Admission NC-complete,16412.515590277777
+123,Leucocytes-complete,16413.25
+123,CRP-complete,16413.25
+123,CRP-complete,16416.25
+123,Leucocytes-complete,16416.25
+123,CRP-complete,16420.291666666668
+123,Leucocytes-complete,16420.291666666668
+123,CRP-complete,16421.291666666668
+123,Leucocytes-complete,16421.291666666668
+123,Leucocytes-complete,16422.291666666668
+123,CRP-complete,16422.291666666668
+123,CRP-complete,16426.554166666665
+123,Leucocytes-complete,16426.554166666665
+123,Release A-complete,16433.708333333332
+124,ER Registration-complete,16338.353078703703
+124,ER Triage-complete,16338.361284722223
+124,IV Liquid-complete,16338.377881944445
+124,Leucocytes-complete,16338.38125
+124,CRP-complete,16338.38125
+124,Leucocytes-complete,16338.38125
+124,LacticAcid-complete,16338.38125
+124,ER Sepsis Triage-complete,16338.386018518519
+124,IV Antibiotics-complete,16338.401979166667
+125,ER Registration-complete,16400.846122685187
+125,ER Triage-complete,16400.848217592593
+125,ER Sepsis Triage-complete,16400.84841435185
+125,IV Liquid-complete,16400.848599537036
+125,CRP-complete,16400.85486111111
+125,LacticAcid-complete,16400.85486111111
+125,Leucocytes-complete,16400.85486111111
+125,IV Antibiotics-complete,16400.94130787037
+125,Admission NC-complete,16400.94179398148
+125,Leucocytes-complete,16401.291666666668
+125,CRP-complete,16403.291666666668
+125,Leucocytes-complete,16403.291666666668
+125,CRP-complete,16406.291666666668
+125,Leucocytes-complete,16406.291666666668
+125,Release A-complete,16407.416666666668
+125,Return ER-complete,16416.42625
+126,ER Registration-complete,16364.686203703704
+126,ER Triage-complete,16364.701030092592
+126,ER Sepsis Triage-complete,16364.701192129629
+126,CRP-complete,16364.71875
+126,LacticAcid-complete,16364.71875
+126,Leucocytes-complete,16364.71875
+126,IV Liquid-complete,16364.856863425926
+126,IV Antibiotics-complete,16364.856909722223
+126,Admission NC-complete,16364.858668981482
+126,Admission NC-complete,16365.54181712963
+126,CRP-complete,16366.291666666666
+126,Leucocytes-complete,16366.291666666666
+126,CRP-complete,16368.291666666666
+126,Leucocytes-complete,16368.291666666666
+126,CRP-complete,16370.291666666666
+126,Leucocytes-complete,16370.291666666666
+126,Release A-complete,16371.375
+126,Return ER-complete,16387.846122685187
+127,ER Registration-complete,16375.37224537037
+127,ER Triage-complete,16375.381030092592
+127,ER Sepsis Triage-complete,16375.381354166666
+127,CRP-complete,16375.389583333334
+127,LacticAcid-complete,16375.389583333334
+127,Leucocytes-complete,16375.389583333334
+127,IV Liquid-complete,16375.637465277778
+127,IV Antibiotics-complete,16375.637569444445
+128,ER Registration-complete,16478.596087962964
+128,ER Triage-complete,16478.600081018518
+128,ER Sepsis Triage-complete,16478.60040509259
+128,IV Liquid-complete,16478.600601851853
+128,Leucocytes-complete,16478.625
+128,CRP-complete,16478.625
+128,LacticAcid-complete,16478.625
+128,IV Antibiotics-complete,16478.705266203702
+128,Admission NC-complete,16478.70636574074
+128,Admission NC-complete,16479.559027777777
+128,CRP-complete,16480.291666666668
+128,Leucocytes-complete,16480.291666666668
+128,Leucocytes-complete,16482.291666666668
+128,CRP-complete,16482.291666666668
+128,CRP-complete,16484.291666666668
+128,Leucocytes-complete,16484.291666666668
+128,Release A-complete,16485.458333333332
+128,Return ER-complete,16491.533252314814
+129,ER Registration-complete,16370.892233796296
+129,ER Triage-complete,16370.896377314815
+129,ER Sepsis Triage-complete,16370.896840277777
+129,LacticAcid-complete,16370.91111111111
+129,Leucocytes-complete,16370.91111111111
+129,CRP-complete,16370.91111111111
+129,Admission NC-complete,16371.122465277778
+129,Admission NC-complete,16371.541666666666
+129,IV Antibiotics-complete,16371.898935185185
+129,IV Liquid-complete,16371.916666666666
+129,CRP-complete,16372.291666666666
+129,Leucocytes-complete,16372.291666666666
+129,CRP-complete,16373.291666666666
+129,Leucocytes-complete,16375.291666666666
+129,CRP-complete,16375.291666666666
+129,CRP-complete,16378.291666666666
+129,Leucocytes-complete,16378.291666666666
+129,Admission NC-complete,16384.54236111111
+129,Admission IC-complete,16385.394444444446
+129,LacticAcid-complete,16385.422916666666
+129,Leucocytes-complete,16385.422916666666
+129,CRP-complete,16385.422916666666
+129,CRP-complete,16386.25
+129,Leucocytes-complete,16386.25
+129,LacticAcid-complete,16386.25
+129,Admission NC-complete,16386.416666666668
+129,Release A-complete,16388.375
+130,ER Registration-complete,16379.045277777777
+130,Leucocytes-complete,16379.051388888889
+130,CRP-complete,16379.051388888889
+130,LacticAcid-complete,16379.051388888889
+130,ER Triage-complete,16379.05349537037
+130,ER Sepsis Triage-complete,16379.053819444445
+130,IV Antibiotics-complete,16379.054247685186
+130,IV Liquid-complete,16379.063402777778
+130,Admission NC-complete,16379.129201388889
+130,Admission IC-complete,16379.497037037037
+130,LacticAcid-complete,16379.525
+130,CRP-complete,16379.525
+130,Leucocytes-complete,16379.525
+130,LacticAcid-complete,16380.208333333334
+130,CRP-complete,16380.208333333334
+130,Leucocytes-complete,16380.208333333334
+130,Leucocytes-complete,16381.208333333334
+130,CRP-complete,16381.208333333334
+130,LacticAcid-complete,16381.208333333334
+130,CRP-complete,16382.208333333334
+130,Leucocytes-complete,16382.208333333334
+130,LacticAcid-complete,16382.208333333334
+130,CRP-complete,16383.208333333334
+130,LacticAcid-complete,16383.208333333334
+130,Leucocytes-complete,16383.208333333334
+130,Admission NC-complete,16383.482951388889
+130,CRP-complete,16385.25
+130,Release A-complete,16385.375
+131,ER Registration-complete,16461.681979166668
+131,ER Triage-complete,16461.68888888889
+131,ER Sepsis Triage-complete,16461.689270833333
+131,Leucocytes-complete,16461.699305555554
+131,CRP-complete,16461.699305555554
+131,LacticAcid-complete,16461.699305555554
+131,IV Liquid-complete,16461.80791666667
+131,IV Antibiotics-complete,16461.807974537038
+131,Admission NC-complete,16461.808634259258
+131,Admission IC-complete,16462.091666666667
+131,CRP-complete,16462.11527777778
+131,LacticAcid-complete,16462.11527777778
+131,Leucocytes-complete,16462.11527777778
+131,CRP-complete,16463.25
+131,LacticAcid-complete,16463.25
+131,Leucocytes-complete,16463.25
+131,Admission NC-complete,16463.549583333333
+131,CRP-complete,16466.541666666668
+131,Leucocytes-complete,16466.541666666668
+131,Release A-complete,16467.5625
+132,ER Registration-complete,16401.351574074073
+132,ER Triage-complete,16401.365543981483
+132,ER Sepsis Triage-complete,16401.37109953704
+132,Leucocytes-complete,16401.38472222222
+132,CRP-complete,16401.38472222222
+132,LacticAcid-complete,16401.38472222222
+132,IV Liquid-complete,16401.495740740742
+132,IV Antibiotics-complete,16401.495787037038
+132,Admission NC-complete,16401.496666666666
+132,CRP-complete,16402.25
+132,Leucocytes-complete,16402.25
+132,LacticAcid-complete,16402.25
+132,CRP-complete,16403.25
+132,Leucocytes-complete,16403.25
+132,CRP-complete,16405.25
+132,Leucocytes-complete,16405.25
+132,Leucocytes-complete,16408.25
+132,CRP-complete,16408.25
+132,Leucocytes-complete,16412.291666666668
+132,CRP-complete,16412.291666666668
+132,Leucocytes-complete,16414.291666666668
+132,CRP-complete,16414.291666666668
+132,Leucocytes-complete,16415.416666666668
+132,CRP-complete,16415.416666666668
+132,Release A-complete,16417.458333333332
+133,ER Registration-complete,16377.419479166667
+133,ER Triage-complete,16377.430706018518
+133,ER Sepsis Triage-complete,16377.430983796296
+133,IV Liquid-complete,16377.431168981482
+133,LacticAcid-complete,16377.434722222222
+133,Leucocytes-complete,16377.434722222222
+133,CRP-complete,16377.434722222222
+133,IV Antibiotics-complete,16377.60420138889
+133,Admission NC-complete,16377.604780092594
+133,Admission NC-complete,16377.638981481481
+133,CRP-complete,16378.25
+133,Leucocytes-complete,16378.25
+133,CRP-complete,16379.25
+133,Leucocytes-complete,16379.25
+133,CRP-complete,16381.25
+133,Release A-complete,16381.666666666666
+133,Return ER-complete,16437.388993055556
+134,ER Registration-complete,16465.491203703703
+134,ER Triage-complete,16465.494247685187
+134,ER Sepsis Triage-complete,16465.494768518518
+134,IV Liquid-complete,16465.49488425926
+134,Leucocytes-complete,16465.51111111111
+134,CRP-complete,16465.51111111111
+134,LacticAcid-complete,16465.51111111111
+134,IV Antibiotics-complete,16465.587731481482
+134,Admission NC-complete,16465.732604166667
+134,Admission NC-complete,16466.552083333332
+134,Release A-complete,16471.447916666668
+134,Return ER-complete,16478.52988425926
+135,ER Registration-complete,16356.551782407407
+135,ER Triage-complete,16356.553773148149
+135,ER Sepsis Triage-complete,16356.554074074074
+135,Leucocytes-complete,16356.586805555555
+135,CRP-complete,16356.586805555555
+135,LacticAcid-complete,16356.586805555555
+135,IV Liquid-complete,16356.666898148149
+135,IV Antibiotics-complete,16356.666967592593
+136,ER Registration-complete,16407.65809027778
+136,ER Triage-complete,16407.660787037035
+136,Leucocytes-complete,16407.669444444444
+136,CRP-complete,16407.669444444444
+136,LacticAcid-complete,16407.669444444444
+136,IV Liquid-complete,16407.6875
+136,Admission NC-complete,16407.842708333334
+136,ER Sepsis Triage-complete,16407.84519675926
+136,IV Antibiotics-complete,16407.845625
+136,Release A-complete,16413.385416666668
+137,ER Registration-complete,16396.683472222223
+137,ER Triage-complete,16396.687013888888
+137,ER Sepsis Triage-complete,16396.68734953704
+137,Leucocytes-complete,16396.697916666668
+137,CRP-complete,16396.697916666668
+137,LacticAcid-complete,16396.697916666668
+137,IV Antibiotics-complete,16396.87966435185
+137,Admission NC-complete,16396.880173611113
+137,Leucocytes-complete,16398.25
+137,CRP-complete,16398.25
+137,Release A-complete,16401.333333333332
+138,ER Registration-complete,16343.595300925926
+138,ER Triage-complete,16343.596747685186
+138,ER Sepsis Triage-complete,16343.596875
+138,Leucocytes-complete,16343.611111111111
+138,LacticAcid-complete,16343.611111111111
+138,CRP-complete,16343.611111111111
+138,IV Antibiotics-complete,16343.70837962963
+138,Admission NC-complete,16343.709537037037
+138,Leucocytes-complete,16345.25
+138,CRP-complete,16345.25
+138,CRP-complete,16347.25
+138,Leucocytes-complete,16347.25
+138,Release A-complete,16347.385416666666
+139,ER Registration-complete,16451.926157407408
+139,ER Sepsis Triage-complete,16451.927083333332
+139,ER Triage-complete,16451.93335648148
+139,CRP-complete,16451.94722222222
+139,Leucocytes-complete,16451.94722222222
+139,IV Liquid-complete,16451.947916666668
+139,IV Antibiotics-complete,16451.95486111111
+139,LacticAcid-complete,16451.970833333333
+139,Admission IC-complete,16452.04587962963
+139,Leucocytes-complete,16452.04861111111
+139,CRP-complete,16452.245833333334
+139,Leucocytes-complete,16452.245833333334
+139,LacticAcid-complete,16452.245833333334
+139,Leucocytes-complete,16452.370138888888
+139,CRP-complete,16452.796527777777
+139,LacticAcid-complete,16452.796527777777
+139,Leucocytes-complete,16452.796527777777
+140,ER Registration-complete,16485.719270833335
+140,ER Triage-complete,16485.722939814816
+140,ER Sepsis Triage-complete,16485.72351851852
+140,LacticAcid-complete,16485.725694444445
+140,Leucocytes-complete,16485.725694444445
+140,CRP-complete,16485.725694444445
+140,Admission NC-complete,16485.802581018517
+141,IV Liquid-complete,16357.381967592593
+141,ER Registration-complete,16357.38212962963
+141,ER Triage-complete,16357.382685185185
+141,ER Sepsis Triage-complete,16357.382835648148
+141,Leucocytes-complete,16357.386111111111
+141,CRP-complete,16357.386111111111
+141,LacticAcid-complete,16357.386111111111
+141,IV Antibiotics-complete,16357.395960648148
+141,Admission NC-complete,16357.53542824074
+141,Leucocytes-complete,16358.375
+141,CRP-complete,16358.375
+141,LacticAcid-complete,16358.375
+141,CRP-complete,16359.25
+141,Leucocytes-complete,16359.25
+141,CRP-complete,16362.25
+141,Leucocytes-complete,16362.25
+141,Release A-complete,16364.354166666666
+141,Return ER-complete,16454.51945601852
+142,ER Registration-complete,16348.626817129629
+142,ER Triage-complete,16348.633506944445
+142,ER Sepsis Triage-complete,16348.633831018518
+142,IV Antibiotics-complete,16348.636863425925
+142,LacticAcid-complete,16348.640277777778
+142,Leucocytes-complete,16348.640277777778
+142,CRP-complete,16348.640277777778
+142,Admission NC-complete,16348.723252314814
+142,Release B-complete,16350.1875
+143,ER Registration-complete,16372.733344907407
+143,ER Triage-complete,16372.741539351851
+143,ER Sepsis Triage-complete,16372.741736111111
+143,IV Liquid-complete,16372.754722222222
+143,CRP-complete,16372.75625
+143,Leucocytes-complete,16372.75625
+143,LacticAcid-complete,16372.75625
+143,IV Antibiotics-complete,16372.769351851852
+143,Admission NC-complete,16372.908622685185
+143,CRP-complete,16373.25
+143,Leucocytes-complete,16373.25
+144,ER Registration-complete,16466.36841435185
+144,ER Triage-complete,16466.371400462962
+144,ER Sepsis Triage-complete,16466.371875
+144,Admission NC-complete,16466.55615740741
+144,Admission IC-complete,16466.8459375
+144,Leucocytes-complete,16466.86736111111
+144,CRP-complete,16466.86736111111
+144,LacticAcid-complete,16466.86736111111
+144,Leucocytes-complete,16467.25
+144,LacticAcid-complete,16467.25
+144,CRP-complete,16467.25
+144,Leucocytes-complete,16468.25
+144,CRP-complete,16468.25
+144,LacticAcid-complete,16468.25
+144,Admission NC-complete,16468.541666666668
+144,CRP-complete,16469.291666666668
+144,Leucocytes-complete,16469.291666666668
+144,Leucocytes-complete,16471.541666666668
+144,CRP-complete,16471.541666666668
+144,CRP-complete,16475.5875
+144,Leucocytes-complete,16475.5875
+144,Release A-complete,16480.395833333332
+145,ER Registration-complete,16422.366655092592
+145,ER Triage-complete,16422.371342592593
+145,CRP-complete,16422.380555555555
+145,Leucocytes-complete,16422.380555555555
+145,LacticAcid-complete,16422.380555555555
+145,Admission NC-complete,16422.461886574074
+145,ER Sepsis Triage-complete,16422.464305555557
+145,IV Liquid-complete,16422.464803240742
+145,IV Antibiotics-complete,16422.46486111111
+145,Release A-complete,16426.333333333332
+146,ER Registration-complete,16365.190740740742
+146,ER Triage-complete,16365.192141203705
+146,ER Sepsis Triage-complete,16365.192465277778
+146,LacticAcid-complete,16365.198611111111
+146,Leucocytes-complete,16365.198611111111
+146,CRP-complete,16365.198611111111
+146,Admission NC-complete,16365.267997685185
+146,Admission NC-complete,16366.541666666666
+146,CRP-complete,16367.291666666666
+146,Leucocytes-complete,16367.291666666666
+146,Release A-complete,16368.541666666666
+147,ER Registration-complete,16379.562847222222
+147,ER Triage-complete,16379.56763888889
+147,ER Sepsis Triage-complete,16379.569293981482
+147,Leucocytes-complete,16379.574305555556
+147,LacticAcid-complete,16379.574305555556
+147,CRP-complete,16379.574305555556
+147,IV Liquid-complete,16379.654131944444
+147,IV Antibiotics-complete,16379.654201388888
+147,Admission NC-complete,16379.654988425926
+147,Leucocytes-complete,16381.36875
+147,CRP-complete,16381.36875
+147,CRP-complete,16383.25
+147,Leucocytes-complete,16387.25
+147,CRP-complete,16387.25
+147,Release A-complete,16388.375
+147,Return ER-complete,16472.28384259259
+148,ER Registration-complete,16421.823344907407
+148,ER Triage-complete,16421.827511574073
+148,ER Sepsis Triage-complete,16421.828020833334
+148,LacticAcid-complete,16421.841666666667
+148,Leucocytes-complete,16421.841666666667
+148,CRP-complete,16421.841666666667
+148,IV Liquid-complete,16421.921608796296
+148,IV Antibiotics-complete,16421.921655092592
+148,Admission NC-complete,16421.92212962963
+148,CRP-complete,16422.25
+148,Leucocytes-complete,16422.25
+148,Admission NC-complete,16422.437766203704
+148,Leucocytes-complete,16424.291666666668
+148,CRP-complete,16424.291666666668
+148,CRP-complete,16434.291666666668
+148,Leucocytes-complete,16434.291666666668
+148,Release A-complete,16437.385416666668
+149,ER Registration-complete,16463.60050925926
+149,ER Triage-complete,16463.601157407407
+149,ER Sepsis Triage-complete,16463.60369212963
+149,Leucocytes-complete,16463.609027777777
+149,CRP-complete,16463.609027777777
+149,LacticAcid-complete,16463.609027777777
+149,IV Liquid-complete,16463.82337962963
+149,IV Antibiotics-complete,16463.823391203703
+149,Admission NC-complete,16463.825625
+149,Admission NC-complete,16464.442361111112
+149,Leucocytes-complete,16465.291666666668
+149,CRP-complete,16465.291666666668
+149,Release A-complete,16466.708333333332
+150,ER Registration-complete,16478.61326388889
+150,ER Triage-complete,16478.622905092594
+150,ER Sepsis Triage-complete,16478.623148148148
+150,Leucocytes-complete,16478.629861111112
+150,CRP-complete,16478.629861111112
+150,LacticAcid-complete,16478.629861111112
+150,IV Liquid-complete,16478.72349537037
+150,IV Antibiotics-complete,16478.723611111112
+150,Admission NC-complete,16478.724050925925
+150,Leucocytes-complete,16480.291666666668
+150,CRP-complete,16480.291666666668
+150,Release A-complete,16482.458333333332
+150,Return ER-complete,16483.49596064815
+151,ER Registration-complete,16369.459120370371
+151,ER Triage-complete,16369.462719907408
+151,ER Sepsis Triage-complete,16369.46289351852
+151,IV Antibiotics-complete,16369.463067129629
+151,Leucocytes-complete,16369.475694444445
+151,LacticAcid-complete,16369.475694444445
+151,CRP-complete,16369.475694444445
+151,Admission NC-complete,16369.64818287037
+151,CRP-complete,16370.291666666666
+151,CRP-complete,16371.291666666666
+151,Leucocytes-complete,16371.291666666666
+151,Release A-complete,16371.541666666666
+152,ER Registration-complete,16366.910497685185
+152,ER Triage-complete,16366.913148148149
+152,ER Sepsis Triage-complete,16366.91337962963
+152,LacticAcid-complete,16366.929166666667
+152,Leucocytes-complete,16366.929166666667
+152,CRP-complete,16366.929166666667
+152,IV Liquid-complete,16367.045648148149
+152,IV Antibiotics-complete,16367.045717592593
+152,Admission NC-complete,16367.046261574074
+152,Leucocytes-complete,16369.291666666666
+152,CRP-complete,16369.291666666666
+152,Release A-complete,16370.458333333334
+152,Return ER-complete,16406.448344907407
+153,ER Registration-complete,16433.59590277778
+153,ER Triage-complete,16433.60380787037
+153,ER Sepsis Triage-complete,16433.604664351853
+153,Leucocytes-complete,16433.6125
+153,CRP-complete,16433.6125
+153,LacticAcid-complete,16433.6125
+153,IV Liquid-complete,16433.696724537036
+153,IV Antibiotics-complete,16433.697060185186
+153,Admission NC-complete,16433.69746527778
+153,Admission NC-complete,16433.8125
+153,Leucocytes-complete,16435.291666666668
+153,CRP-complete,16435.291666666668
+153,Release A-complete,16436.484027777777
+153,Return ER-complete,16509.611770833333
+154,ER Registration-complete,16390.808657407408
+154,ER Triage-complete,16390.81025462963
+154,ER Sepsis Triage-complete,16390.810891203702
+154,Leucocytes-complete,16390.819444444445
+154,LacticAcid-complete,16390.819444444445
+154,CRP-complete,16390.819444444445
+154,IV Liquid-complete,16390.91798611111
+154,IV Antibiotics-complete,16390.917997685185
+154,Admission NC-complete,16390.920416666668
+154,CRP-complete,16392.291666666668
+154,Leucocytes-complete,16392.291666666668
+154,Release A-complete,16392.541666666668
+155,ER Registration-complete,16350.39644675926
+155,ER Triage-complete,16350.397453703703
+155,ER Sepsis Triage-complete,16350.397615740741
+155,Leucocytes-complete,16350.409027777778
+155,LacticAcid-complete,16350.409027777778
+155,CRP-complete,16350.409027777778
+155,IV Liquid-complete,16350.484386574075
+155,IV Antibiotics-complete,16350.484444444444
+155,Admission NC-complete,16350.610266203703
+155,Leucocytes-complete,16351.291666666666
+155,CRP-complete,16351.291666666666
+155,CRP-complete,16352.291666666666
+155,CRP-complete,16354.291666666666
+155,Leucocytes-complete,16354.291666666666
+155,Leucocytes-complete,16356.291666666666
+155,CRP-complete,16356.291666666666
+155,Release A-complete,16359.375
+155,Return ER-complete,16359.862696759259
+155,CRP-complete,16359.872222222222
+155,LacticAcid-complete,16359.872222222222
+155,Leucocytes-complete,16359.872222222222
+156,ER Registration-complete,16350.69943287037
+156,ER Triage-complete,16350.705787037037
+156,ER Sepsis Triage-complete,16350.70849537037
+156,Leucocytes-complete,16350.72013888889
+156,LacticAcid-complete,16350.72013888889
+156,CRP-complete,16350.72013888889
+156,IV Liquid-complete,16350.743356481482
+156,IV Antibiotics-complete,16350.743368055555
+157,ER Registration-complete,16420.820185185185
+157,ER Triage-complete,16420.824479166666
+157,ER Sepsis Triage-complete,16420.824699074074
+157,CRP-complete,16420.830555555556
+157,LacticAcid-complete,16420.830555555556
+157,Leucocytes-complete,16420.830555555556
+157,IV Liquid-complete,16420.96277777778
+157,IV Antibiotics-complete,16420.96377314815
+157,Admission NC-complete,16420.964131944445
+158,ER Registration-complete,16388.43224537037
+158,ER Triage-complete,16388.43511574074
+158,ER Sepsis Triage-complete,16388.43550925926
+158,Leucocytes-complete,16388.43888888889
+158,CRP-complete,16388.43888888889
+159,ER Registration-complete,16423.857951388887
+159,ER Triage-complete,16423.863877314816
+159,ER Sepsis Triage-complete,16423.86400462963
+159,LacticAcid-complete,16423.870833333334
+159,CRP-complete,16423.870833333334
+159,Leucocytes-complete,16423.870833333334
+159,IV Antibiotics-complete,16423.875
+159,IV Liquid-complete,16423.875
+159,Admission NC-complete,16424.022291666668
+159,Release A-complete,16425.5
+160,ER Registration-complete,16440.75681712963
+160,ER Triage-complete,16440.773032407407
+160,ER Sepsis Triage-complete,16440.773229166665
+160,Leucocytes-complete,16440.786805555555
+160,LacticAcid-complete,16440.786805555555
+160,CRP-complete,16440.786805555555
+160,IV Liquid-complete,16440.924328703702
+160,IV Antibiotics-complete,16440.924363425926
+160,Admission NC-complete,16440.924826388888
+161,ER Registration-complete,16347.484525462964
+161,ER Triage-complete,16347.489247685186
+161,ER Sepsis Triage-complete,16347.489895833334
+161,Leucocytes-complete,16347.508333333333
+161,CRP-complete,16347.508333333333
+161,LacticAcid-complete,16347.508333333333
+161,IV Antibiotics-complete,16347.537789351853
+161,IV Liquid-complete,16347.5378125
+161,Admission NC-complete,16347.550347222223
+161,CRP-complete,16350.291666666666
+161,Leucocytes-complete,16350.291666666666
+161,Release A-complete,16353.416666666666
+162,ER Registration-complete,16445.980729166666
+162,ER Triage-complete,16445.992071759258
+162,Leucocytes-complete,16446.00763888889
+162,CRP-complete,16446.00763888889
+162,Admission NC-complete,16446.130011574074
+162,ER Sepsis Triage-complete,16446.51646990741
+162,Admission NC-complete,16446.5625
+162,Leucocytes-complete,16447.291666666668
+162,CRP-complete,16447.291666666668
+162,Leucocytes-complete,16451.291666666668
+162,CRP-complete,16451.291666666668
+162,Leucocytes-complete,16466.416666666668
+162,CRP-complete,16466.416666666668
+162,Release C-complete,16472.375
+163,ER Registration-complete,16432.60384259259
+163,CRP-complete,16432.61388888889
+163,Leucocytes-complete,16432.61388888889
+163,ER Triage-complete,16432.616006944445
+163,ER Sepsis Triage-complete,16432.616157407407
+163,IV Antibiotics-complete,16432.697951388887
+164,IV Liquid-complete,16371.839016203703
+164,ER Registration-complete,16371.856261574074
+164,ER Triage-complete,16371.859525462964
+164,ER Sepsis Triage-complete,16371.859722222222
+164,IV Antibiotics-complete,16371.864826388888
+164,CRP-complete,16371.884722222223
+164,Leucocytes-complete,16371.884722222223
+164,LacticAcid-complete,16371.884722222223
+164,Admission NC-complete,16371.92349537037
+164,Admission NC-complete,16373.338657407407
+164,Leucocytes-complete,16374.291666666666
+164,CRP-complete,16374.291666666666
+164,Leucocytes-complete,16376.291666666666
+164,CRP-complete,16376.291666666666
+164,Release A-complete,16380.40625
+165,ER Registration-complete,16378.543159722221
+165,ER Triage-complete,16378.551261574074
+165,ER Sepsis Triage-complete,16378.552083333334
+165,CRP-complete,16378.553472222222
+165,LacticAcid-complete,16378.553472222222
+165,Leucocytes-complete,16378.553472222222
+165,IV Liquid-complete,16378.562060185186
+165,IV Antibiotics-complete,16378.566261574075
+165,Admission NC-complete,16378.705104166667
+165,Admission NC-complete,16379.645833333334
+165,Admission NC-complete,16380.549641203705
+165,Leucocytes-complete,16382.201388888889
+165,Leucocytes-complete,16382.201388888889
+165,CRP-complete,16382.201388888889
+165,Leucocytes-complete,16382.357638888889
+165,CRP-complete,16382.357638888889
+165,Admission IC-complete,16382.479166666666
+165,Leucocytes-complete,16382.549305555556
+165,CRP-complete,16382.636805555556
+165,LacticAcid-complete,16382.636805555556
+165,Leucocytes-complete,16382.636805555556
+165,Leucocytes-complete,16382.76875
+165,Leucocytes-complete,16382.847916666668
+165,Leucocytes-complete,16382.972222222223
+165,Leucocytes-complete,16383.084027777777
+165,Leucocytes-complete,16383.171527777778
+165,Leucocytes-complete,16383.25
+165,CRP-complete,16383.25
+165,LacticAcid-complete,16383.25
+165,Leucocytes-complete,16383.344444444445
+165,Leucocytes-complete,16383.474305555555
+165,Leucocytes-complete,16383.62013888889
+165,Leucocytes-complete,16383.715972222222
+165,Leucocytes-complete,16383.797916666666
+165,Leucocytes-complete,16383.971527777778
+165,Leucocytes-complete,16384.12777777778
+165,Leucocytes-complete,16384.25
+165,LacticAcid-complete,16384.25
+165,CRP-complete,16384.25
+165,LacticAcid-complete,16385.25
+165,Leucocytes-complete,16385.25
+165,CRP-complete,16385.25
+165,Admission NC-complete,16385.416666666668
+165,Leucocytes-complete,16385.791666666668
+165,Leucocytes-complete,16388.49027777778
+165,Leucocytes-complete,16389.291666666668
+165,Release A-complete,16395.40625
+165,Return ER-complete,16409.467627314814
+166,ER Registration-complete,16359.609270833333
+166,ER Triage-complete,16359.612060185185
+166,ER Sepsis Triage-complete,16359.61300925926
+166,Leucocytes-complete,16359.613888888889
+166,CRP-complete,16359.613888888889
+166,LacticAcid-complete,16359.613888888889
+167,ER Registration-complete,16449.58650462963
+167,ER Triage-complete,16449.59550925926
+167,ER Sepsis Triage-complete,16449.595671296298
+167,Leucocytes-complete,16449.63263888889
+167,CRP-complete,16449.63263888889
+167,Admission NC-complete,16449.78738425926
+167,CRP-complete,16450.25
+167,Leucocytes-complete,16450.25
+167,Admission NC-complete,16450.409722222223
+167,CRP-complete,16452.291666666668
+167,Leucocytes-complete,16452.291666666668
+167,Leucocytes-complete,16456.291666666668
+167,CRP-complete,16456.291666666668
+167,CRP-complete,16459.291666666668
+167,Leucocytes-complete,16459.291666666668
+167,Release B-complete,16463.430555555555
+168,ER Registration-complete,16368.470185185186
+168,ER Triage-complete,16368.480671296296
+168,ER Sepsis Triage-complete,16368.480787037037
+168,LacticAcid-complete,16368.490972222222
+168,CRP-complete,16368.490972222222
+168,Leucocytes-complete,16368.490972222222
+168,IV Liquid-complete,16368.531493055556
+168,IV Antibiotics-complete,16368.541666666666
+168,CRP-complete,16368.871527777777
+168,LacticAcid-complete,16368.871527777777
+168,Leucocytes-complete,16368.871527777777
+168,Admission IC-complete,16368.873032407408
+168,LacticAcid-complete,16369.25
+168,Leucocytes-complete,16369.25
+168,CRP-complete,16369.25
+168,Leucocytes-complete,16370.25
+168,CRP-complete,16370.25
+168,LacticAcid-complete,16370.25
+168,Leucocytes-complete,16371.25
+168,CRP-complete,16371.25
+168,LacticAcid-complete,16371.25
+168,LacticAcid-complete,16372.25
+168,Leucocytes-complete,16372.25
+168,CRP-complete,16372.25
+168,CRP-complete,16373.25
+168,LacticAcid-complete,16373.25
+168,Leucocytes-complete,16373.25
+168,Leucocytes-complete,16374.25
+168,CRP-complete,16374.25
+168,LacticAcid-complete,16374.25
+168,Leucocytes-complete,16375.25
+168,CRP-complete,16375.25
+168,LacticAcid-complete,16375.25
+168,Admission NC-complete,16375.534722222223
+168,Leucocytes-complete,16376.204166666666
+168,Leucocytes-complete,16376.291666666666
+168,CRP-complete,16377.291666666666
+168,Leucocytes-complete,16377.291666666666
+168,Leucocytes-complete,16379.291666666666
+168,CRP-complete,16379.291666666666
+168,Leucocytes-complete,16379.791666666666
+168,Leucocytes-complete,16381.291666666666
+168,CRP-complete,16381.291666666666
+168,Release D-complete,16384.375
+168,Return ER-complete,16386.623854166668
+169,IV Liquid-complete,16402.652997685185
+169,ER Registration-complete,16402.653310185186
+169,ER Triage-complete,16402.66028935185
+169,ER Sepsis Triage-complete,16402.662488425925
+169,IV Antibiotics-complete,16402.667118055557
+169,LacticAcid-complete,16402.680555555555
+169,Leucocytes-complete,16402.680555555555
+169,CRP-complete,16402.680555555555
+169,Admission NC-complete,16402.770833333332
+169,Admission NC-complete,16403.5
+169,CRP-complete,16404.25
+169,Leucocytes-complete,16405.25
+169,Leucocytes-complete,16408.25
+169,Release A-complete,16412.354166666668
+169,Return ER-complete,16495.565972222223
+170,ER Registration-complete,16376.639143518518
+170,ER Triage-complete,16376.645821759259
+170,ER Sepsis Triage-complete,16376.656122685185
+170,Leucocytes-complete,16376.660416666668
+170,CRP-complete,16376.660416666668
+170,LacticAcid-complete,16376.660416666668
+171,ER Registration-complete,16384.654641203702
+171,ER Triage-complete,16384.6703125
+171,ER Sepsis Triage-complete,16384.677210648148
+171,Leucocytes-complete,16384.686805555557
+171,LacticAcid-complete,16384.686805555557
+171,CRP-complete,16384.686805555557
+171,IV Liquid-complete,16384.724849537037
+171,IV Antibiotics-complete,16384.724895833333
+171,Admission NC-complete,16384.899074074074
+171,CRP-complete,16385.25
+171,Leucocytes-complete,16385.25
+171,Release A-complete,16385.708333333332
+172,ER Registration-complete,16458.49795138889
+172,ER Triage-complete,16458.501550925925
+172,ER Sepsis Triage-complete,16458.50167824074
+172,Leucocytes-complete,16458.51875
+172,CRP-complete,16458.51875
+172,LacticAcid-complete,16458.51875
+173,ER Registration-complete,16461.4625
+173,ER Triage-complete,16461.464409722223
+173,ER Sepsis Triage-complete,16461.464560185184
+173,LacticAcid-complete,16461.479166666668
+173,CRP-complete,16461.479166666668
+173,Leucocytes-complete,16461.479166666668
+173,IV Liquid-complete,16461.498657407406
+173,IV Antibiotics-complete,16461.62386574074
+173,Admission NC-complete,16461.624756944446
+173,Release A-complete,16464.375
+174,ER Registration-complete,16430.183946759258
+174,ER Triage-complete,16430.193530092594
+174,ER Sepsis Triage-complete,16430.193831018518
+174,IV Liquid-complete,16430.19402777778
+174,LacticAcid-complete,16430.202083333334
+174,Leucocytes-complete,16430.202083333334
+174,CRP-complete,16430.202083333334
+174,IV Antibiotics-complete,16430.286238425924
+174,Admission NC-complete,16430.28662037037
+174,Admission NC-complete,16430.541666666668
+174,Leucocytes-complete,16432.291666666668
+174,CRP-complete,16432.291666666668
+174,Release A-complete,16433.791666666668
+175,ER Registration-complete,16442.491435185184
+175,ER Triage-complete,16442.49392361111
+175,ER Sepsis Triage-complete,16442.495381944445
+175,CRP-complete,16442.502083333333
+175,Leucocytes-complete,16442.502083333333
+175,LacticAcid-complete,16442.502083333333
+175,IV Liquid-complete,16442.610625
+175,IV Antibiotics-complete,16442.610694444444
+175,Admission NC-complete,16442.647476851853
+175,Leucocytes-complete,16443.416666666668
+175,CRP-complete,16446.291666666668
+175,Leucocytes-complete,16446.291666666668
+175,Release D-complete,16447.416666666668
+176,ER Registration-complete,16430.781712962962
+176,ER Triage-complete,16430.79335648148
+176,ER Sepsis Triage-complete,16430.79355324074
+176,CRP-complete,16430.796527777777
+176,Leucocytes-complete,16430.796527777777
+176,LacticAcid-complete,16430.796527777777
+176,Admission NC-complete,16430.874340277776
+176,CRP-complete,16431.291666666668
+176,Leucocytes-complete,16431.291666666668
+176,Release A-complete,16431.5
+176,Return ER-complete,16439.647800925926
+177,ER Registration-complete,16391.88326388889
+177,ER Triage-complete,16391.899479166666
+177,ER Sepsis Triage-complete,16391.89966435185
+177,IV Antibiotics-complete,16391.899780092594
+177,IV Liquid-complete,16391.899780092594
+177,LacticAcid-complete,16391.902777777777
+177,CRP-complete,16391.902777777777
+177,Leucocytes-complete,16391.902777777777
+177,Admission NC-complete,16392.03953703704
+177,Admission NC-complete,16392.479166666668
+177,Leucocytes-complete,16393.25
+177,CRP-complete,16393.25
+177,Leucocytes-complete,16395.25
+177,CRP-complete,16395.25
+177,Release A-complete,16398.5
+178,ER Registration-complete,16426.900671296295
+178,ER Triage-complete,16426.90189814815
+178,ER Sepsis Triage-complete,16426.902430555554
+178,Leucocytes-complete,16426.90763888889
+178,CRP-complete,16426.90763888889
+178,LacticAcid-complete,16426.90763888889
+178,IV Antibiotics-complete,16427.015833333335
+178,Admission NC-complete,16427.016504629628
+178,Leucocytes-complete,16427.25
+178,CRP-complete,16427.25
+178,IV Liquid-complete,16427.902604166666
+178,Release A-complete,16431.375
+178,Return ER-complete,16436.606921296298
+179,ER Registration-complete,16418.019907407408
+179,ER Triage-complete,16418.0290625
+179,ER Sepsis Triage-complete,16418.02923611111
+179,IV Liquid-complete,16418.029363425925
+179,LacticAcid-complete,16418.034722222223
+179,CRP-complete,16418.034722222223
+179,Leucocytes-complete,16418.034722222223
+179,IV Antibiotics-complete,16418.133252314816
+179,Admission NC-complete,16418.133958333332
+179,CRP-complete,16418.25
+179,Leucocytes-complete,16418.25
+179,Admission NC-complete,16418.541666666668
+179,CRP-complete,16419.291666666668
+179,Leucocytes-complete,16419.291666666668
+179,CRP-complete,16420.291666666668
+179,Leucocytes-complete,16421.291666666668
+179,CRP-complete,16421.291666666668
+179,Leucocytes-complete,16423.291666666668
+179,CRP-complete,16423.291666666668
+179,Release A-complete,16429.416666666668
+180,ER Registration-complete,16391.65365740741
+180,Leucocytes-complete,16391.669444444444
+180,LacticAcid-complete,16391.669444444444
+180,CRP-complete,16391.669444444444
+180,ER Triage-complete,16391.669560185186
+180,ER Sepsis Triage-complete,16391.67013888889
+180,IV Liquid-complete,16391.670358796295
+180,IV Antibiotics-complete,16391.692118055555
+180,Admission NC-complete,16391.760601851853
+180,Admission NC-complete,16392.468425925927
+180,CRP-complete,16395.25
+180,Leucocytes-complete,16395.25
+180,Release A-complete,16396.39212962963
+180,Return ER-complete,16404.397511574072
+181,ER Registration-complete,16418.4365625
+181,ER Triage-complete,16418.441203703704
+181,Leucocytes-complete,16418.455555555556
+181,CRP-complete,16418.455555555556
+181,LacticAcid-complete,16418.455555555556
+181,ER Sepsis Triage-complete,16418.456967592592
+181,IV Liquid-complete,16418.457175925927
+181,IV Antibiotics-complete,16418.457222222223
+181,Admission NC-complete,16418.591493055555
+181,Admission NC-complete,16418.75
+181,Leucocytes-complete,16421.25
+181,CRP-complete,16421.25
+181,Leucocytes-complete,16422.25
+181,Leucocytes-complete,16423.25
+181,CRP-complete,16423.25
+181,Leucocytes-complete,16424.25
+181,CRP-complete,16424.25
+181,Leucocytes-complete,16424.375
+181,CRP-complete,16424.375
+181,CRP-complete,16428.25
+181,Leucocytes-complete,16433.291666666668
+181,CRP-complete,16433.291666666668
+181,Leucocytes-complete,16435.291666666668
+181,CRP-complete,16435.291666666668
+181,CRP-complete,16439.291666666668
+181,Leucocytes-complete,16439.291666666668
+181,CRP-complete,16441.291666666668
+181,CRP-complete,16444.529166666667
+181,CRP-complete,16445.291666666668
+181,Leucocytes-complete,16446.291666666668
+181,CRP-complete,16446.291666666668
+181,CRP-complete,16448.291666666668
+181,Leucocytes-complete,16448.291666666668
+181,Leucocytes-complete,16449.291666666668
+181,Leucocytes-complete,16450.291666666668
+181,Leucocytes-complete,16452.291666666668
+181,CRP-complete,16452.291666666668
+181,Release B-complete,16454.360416666666
+182,ER Registration-complete,16471.98590277778
+182,ER Triage-complete,16471.993391203705
+182,ER Sepsis Triage-complete,16472.0078125
+182,IV Liquid-complete,16472.008009259258
+182,LacticAcid-complete,16472.031944444443
+182,CRP-complete,16472.031944444443
+182,Leucocytes-complete,16472.031944444443
+182,IV Antibiotics-complete,16472.125462962962
+182,Admission NC-complete,16472.169583333332
+182,Admission NC-complete,16472.541666666668
+182,Leucocytes-complete,16472.541666666668
+182,CRP-complete,16472.541666666668
+182,LacticAcid-complete,16473.291666666668
+182,Leucocytes-complete,16473.291666666668
+182,CRP-complete,16473.291666666668
+182,CRP-complete,16474.291666666668
+182,Leucocytes-complete,16474.291666666668
+182,Release A-complete,16474.5
+182,Return ER-complete,16534.463969907407
+183,ER Registration-complete,16344.771828703704
+183,ER Triage-complete,16344.777569444444
+183,ER Sepsis Triage-complete,16344.777835648149
+183,LacticAcid-complete,16344.784722222223
+183,Leucocytes-complete,16344.784722222223
+183,CRP-complete,16344.784722222223
+183,IV Liquid-complete,16344.838587962962
+183,IV Antibiotics-complete,16344.838784722222
+183,Admission NC-complete,16344.964421296296
+183,LacticAcid-complete,16345.25
+183,Admission NC-complete,16345.580659722222
+183,LacticAcid-complete,16347.375
+183,Leucocytes-complete,16348.25
+183,CRP-complete,16348.25
+183,LacticAcid-complete,16348.25
+183,CRP-complete,16351.25
+183,Release A-complete,16355.506944444445
+184,ER Registration-complete,16416.50880787037
+184,ER Triage-complete,16416.52113425926
+184,ER Sepsis Triage-complete,16416.521354166667
+184,CRP-complete,16416.541666666668
+184,LacticAcid-complete,16416.541666666668
+184,Leucocytes-complete,16416.541666666668
+184,IV Liquid-complete,16416.59767361111
+184,IV Antibiotics-complete,16416.59773148148
+184,Admission NC-complete,16416.64736111111
+184,Release A-complete,16419.469444444443
+185,ER Registration-complete,16384.098449074074
+185,LacticAcid-complete,16384.105555555554
+185,CRP-complete,16384.105555555554
+185,Leucocytes-complete,16384.105555555554
+185,ER Triage-complete,16384.11318287037
+185,ER Sepsis Triage-complete,16384.113368055554
+185,IV Liquid-complete,16384.11349537037
+185,IV Antibiotics-complete,16384.125
+185,Admission NC-complete,16384.28170138889
+185,Release A-complete,16389.5
+186,ER Registration-complete,16407.01769675926
+186,ER Triage-complete,16407.022465277776
+186,ER Sepsis Triage-complete,16407.022743055557
+186,IV Liquid-complete,16407.031805555554
+186,IV Antibiotics-complete,16407.031840277778
+186,Leucocytes-complete,16407.035416666666
+186,LacticAcid-complete,16407.035416666666
+186,CRP-complete,16407.035416666666
+186,Admission NC-complete,16407.136446759258
+186,CRP-complete,16408.25
+186,LacticAcid-complete,16408.25
+186,Leucocytes-complete,16408.25
+186,Leucocytes-complete,16411.25
+186,CRP-complete,16411.25
+186,Release A-complete,16412.5
+187,ER Registration-complete,16345.491412037038
+187,ER Triage-complete,16345.502476851852
+187,ER Sepsis Triage-complete,16345.50275462963
+187,Leucocytes-complete,16345.513194444444
+187,CRP-complete,16345.513194444444
+187,Admission NC-complete,16345.593136574074
+187,Leucocytes-complete,16346.541666666666
+187,CRP-complete,16346.541666666666
+187,Leucocytes-complete,16347.541666666666
+187,CRP-complete,16347.541666666666
+187,CRP-complete,16348.291666666666
+187,Leucocytes-complete,16348.291666666666
+187,CRP-complete,16350.291666666666
+187,Leucocytes-complete,16350.291666666666
+187,Leucocytes-complete,16352.291666666666
+187,CRP-complete,16352.291666666666
+187,CRP-complete,16355.291666666666
+187,Leucocytes-complete,16355.291666666666
+187,Release D-complete,16366.395833333334
+188,ER Registration-complete,16452.8125
+188,ER Triage-complete,16452.82894675926
+188,Leucocytes-complete,16452.84375
+188,CRP-complete,16452.84375
+188,LacticAcid-complete,16452.84375
+188,ER Sepsis Triage-complete,16452.846435185184
+188,IV Liquid-complete,16452.846689814814
+188,IV Antibiotics-complete,16452.84689814815
+188,Admission NC-complete,16452.986006944444
+188,CRP-complete,16453.25
+188,Leucocytes-complete,16453.25
+188,Admission NC-complete,16453.416666666668
+188,CRP-complete,16454.291666666668
+188,Leucocytes-complete,16454.291666666668
+188,CRP-complete,16456.41736111111
+188,Release A-complete,16456.625
+189,ER Registration-complete,16488.970613425925
+189,IV Liquid-complete,16488.978275462963
+189,ER Triage-complete,16488.97892361111
+189,ER Sepsis Triage-complete,16488.979189814814
+189,IV Antibiotics-complete,16488.993564814813
+189,LacticAcid-complete,16488.99861111111
+189,CRP-complete,16488.99861111111
+189,Leucocytes-complete,16488.99861111111
+189,Admission NC-complete,16489.081863425927
+189,CRP-complete,16491.291666666668
+189,Release A-complete,16492.385416666668
+190,ER Registration-complete,16347.860219907407
+190,ER Triage-complete,16347.862523148147
+190,Leucocytes-complete,16347.880555555555
+190,CRP-complete,16347.880555555555
+190,LacticAcid-complete,16347.880555555555
+190,ER Sepsis Triage-complete,16347.906064814815
+190,IV Antibiotics-complete,16347.987789351851
+190,Admission NC-complete,16347.988946759258
+190,IV Liquid-complete,16348.955069444444
+191,ER Registration-complete,16480.17443287037
+191,ER Triage-complete,16480.17732638889
+191,ER Sepsis Triage-complete,16480.177488425925
+191,Leucocytes-complete,16480.183333333334
+191,CRP-complete,16480.183333333334
+191,LacticAcid-complete,16480.183333333334
+191,IV Liquid-complete,16480.365914351853
+191,IV Antibiotics-complete,16480.36596064815
+191,Admission NC-complete,16480.366469907407
+191,Admission NC-complete,16480.583333333332
+191,Leucocytes-complete,16483.291666666668
+191,CRP-complete,16483.291666666668
+191,Release A-complete,16485.375
+191,Return ER-complete,16526.53583333333
+192,ER Registration-complete,16401.792881944446
+192,ER Triage-complete,16401.800416666665
+192,ER Sepsis Triage-complete,16401.800532407407
+192,CRP-complete,16401.81527777778
+192,Leucocytes-complete,16401.81527777778
+192,LacticAcid-complete,16401.81527777778
+192,IV Liquid-complete,16401.820497685185
+192,IV Antibiotics-complete,16401.820578703704
+192,Admission NC-complete,16401.98997685185
+193,ER Registration-complete,16357.879756944445
+193,ER Triage-complete,16357.894652777777
+193,ER Sepsis Triage-complete,16357.894849537037
+194,ER Registration-complete,16366.564780092593
+194,ER Triage-complete,16366.60056712963
+194,ER Sepsis Triage-complete,16366.60068287037
+194,CRP-complete,16366.611805555556
+194,Leucocytes-complete,16366.611805555556
+195,ER Registration-complete,16401.567569444444
+195,ER Triage-complete,16401.56939814815
+195,ER Sepsis Triage-complete,16401.56954861111
+195,LacticAcid-complete,16401.58402777778
+195,Leucocytes-complete,16401.58402777778
+195,CRP-complete,16401.58402777778
+195,IV Liquid-complete,16401.662731481483
+195,IV Antibiotics-complete,16401.66292824074
+195,Admission NC-complete,16401.663252314815
+195,Leucocytes-complete,16404.291666666668
+195,CRP-complete,16404.291666666668
+195,Release A-complete,16406.534722222223
+196,ER Registration-complete,16446.62483796296
+196,CRP-complete,16446.633333333335
+196,LacticAcid-complete,16446.633333333335
+196,Leucocytes-complete,16446.633333333335
+196,ER Triage-complete,16446.63604166667
+196,ER Sepsis Triage-complete,16446.636435185184
+196,IV Liquid-complete,16446.6365625
+196,IV Antibiotics-complete,16446.636631944446
+196,Admission NC-complete,16446.722094907407
+196,Admission NC-complete,16447.39886574074
+196,Leucocytes-complete,16448.291666666668
+196,CRP-complete,16448.291666666668
+196,CRP-complete,16449.291666666668
+196,Leucocytes-complete,16449.291666666668
+196,Release A-complete,16450.604166666668
+197,ER Registration-complete,16381.589409722223
+197,ER Triage-complete,16381.593900462964
+197,LacticAcid-complete,16381.600694444445
+197,Leucocytes-complete,16381.600694444445
+197,CRP-complete,16381.600694444445
+197,ER Sepsis Triage-complete,16381.648078703704
+197,IV Liquid-complete,16381.648402777777
+197,IV Antibiotics-complete,16381.665787037036
+197,Admission NC-complete,16381.772743055555
+197,Leucocytes-complete,16383.208333333334
+197,CRP-complete,16383.208333333334
+197,Admission NC-complete,16383.694409722222
+197,Release A-complete,16384.625
+198,ER Registration-complete,16442.89741898148
+198,ER Triage-complete,16442.906365740742
+198,ER Sepsis Triage-complete,16442.90662037037
+198,LacticAcid-complete,16442.911805555555
+198,Leucocytes-complete,16442.911805555555
+198,CRP-complete,16442.911805555555
+198,IV Liquid-complete,16443.003634259258
+198,IV Antibiotics-complete,16443.003645833334
+198,Admission NC-complete,16443.004791666666
+198,Leucocytes-complete,16444.291666666668
+198,CRP-complete,16444.291666666668
+198,Admission NC-complete,16444.573842592592
+198,Leucocytes-complete,16446.291666666668
+198,CRP-complete,16446.291666666668
+198,Leucocytes-complete,16450.291666666668
+198,CRP-complete,16450.291666666668
+198,Leucocytes-complete,16453.291666666668
+198,CRP-complete,16453.291666666668
+198,Leucocytes-complete,16454.291666666668
+198,CRP-complete,16454.291666666668
+198,Leucocytes-complete,16457.291666666668
+198,CRP-complete,16457.291666666668
+198,Release A-complete,16457.458333333332
+199,ER Registration-complete,16352.386597222223
+199,ER Triage-complete,16352.390787037037
+199,Leucocytes-complete,16352.403472222222
+199,LacticAcid-complete,16352.403472222222
+199,CRP-complete,16352.403472222222
+199,ER Sepsis Triage-complete,16352.422141203704
+199,IV Liquid-complete,16352.422326388889
+199,IV Antibiotics-complete,16352.422418981481
+199,Admission NC-complete,16352.518240740741
+199,CRP-complete,16354.25
+199,Leucocytes-complete,16354.25
+199,Leucocytes-complete,16356.295138888889
+199,CRP-complete,16356.295138888889
+199,Leucocytes-complete,16357.25
+199,CRP-complete,16357.25
+199,Admission NC-complete,16359.418113425925
+199,CRP-complete,16361.25
+199,Leucocytes-complete,16361.25
+199,Release A-complete,16362.333333333334
+199,Return ER-complete,16444.89741898148
+200,Leucocytes-complete,16395.340277777777
+200,CRP-complete,16395.340277777777
+200,ER Registration-complete,16395.376875
+200,ER Triage-complete,16395.390416666665
+200,ER Sepsis Triage-complete,16395.390868055554
+200,IV Liquid-complete,16395.391157407408
+200,LacticAcid-complete,16395.419444444444
+200,IV Antibiotics-complete,16395.570694444443
+200,Admission NC-complete,16395.57144675926
+200,Admission NC-complete,16396.375
+200,CRP-complete,16397.25
+200,Leucocytes-complete,16397.25
+200,CRP-complete,16399.25
+200,CRP-complete,16401.25
+200,Release A-complete,16401.385416666668
+201,ER Registration-complete,16373.452777777778
+201,ER Triage-complete,16373.45738425926
+201,ER Sepsis Triage-complete,16373.457523148149
+201,LacticAcid-complete,16373.4625
+201,CRP-complete,16373.4625
+201,Leucocytes-complete,16373.4625
+201,IV Liquid-complete,16373.464236111111
+201,IV Antibiotics-complete,16373.465659722222
+201,Admission NC-complete,16373.548530092592
+201,LacticAcid-complete,16374.25
+201,Leucocytes-complete,16375.25
+201,CRP-complete,16375.25
+201,Leucocytes-complete,16376.25
+201,CRP-complete,16376.25
+201,CRP-complete,16377.25
+201,Leucocytes-complete,16378.25
+201,CRP-complete,16378.25
+201,Leucocytes-complete,16381.375
+201,CRP-complete,16381.375
+201,Leucocytes-complete,16383.25
+201,CRP-complete,16383.25
+201,CRP-complete,16384.25
+201,Leucocytes-complete,16384.25
+201,Leucocytes-complete,16386.307638888888
+201,CRP-complete,16386.307638888888
+201,Leucocytes-complete,16388.25
+201,CRP-complete,16388.25
+201,Admission NC-complete,16388.282962962963
+201,Admission NC-complete,16388.4375
+201,Release B-complete,16389.4375
+202,ER Registration-complete,16355.77236111111
+202,ER Triage-complete,16355.77929398148
+202,ER Sepsis Triage-complete,16355.780034722222
+202,CRP-complete,16355.784722222223
+202,Leucocytes-complete,16355.784722222223
+202,LacticAcid-complete,16355.784722222223
+202,IV Liquid-complete,16355.936261574074
+202,IV Antibiotics-complete,16355.936296296297
+202,Admission NC-complete,16355.936828703703
+202,CRP-complete,16359.291666666666
+202,CRP-complete,16362.291666666666
+202,Release A-complete,16362.541666666666
+203,ER Registration-complete,16389.65892361111
+203,ER Triage-complete,16389.661423611113
+203,ER Sepsis Triage-complete,16389.661574074074
+203,CRP-complete,16389.675694444446
+203,LacticAcid-complete,16389.675694444446
+203,Leucocytes-complete,16389.675694444446
+203,IV Liquid-complete,16389.692569444444
+203,IV Antibiotics-complete,16389.692569444444
+203,Admission NC-complete,16389.82201388889
+203,Leucocytes-complete,16390.25
+203,CRP-complete,16390.25
+203,Admission NC-complete,16390.375
+203,CRP-complete,16394.25
+203,Leucocytes-complete,16394.25
+203,Release A-complete,16398.458333333332
+204,Leucocytes-complete,16391.22986111111
+204,ER Registration-complete,16391.74425925926
+204,ER Triage-complete,16391.747025462962
+204,ER Sepsis Triage-complete,16391.747291666667
+204,IV Liquid-complete,16391.7475
+204,Leucocytes-complete,16391.76111111111
+204,CRP-complete,16391.76111111111
+204,LacticAcid-complete,16391.76111111111
+204,IV Antibiotics-complete,16391.874583333334
+204,Admission NC-complete,16391.87583333333
+204,Leucocytes-complete,16393.25
+204,CRP-complete,16393.25
+204,Release A-complete,16393.375
+204,Return ER-complete,16590.238611111112
+205,ER Registration-complete,16374.381979166666
+205,ER Triage-complete,16374.393171296297
+205,ER Sepsis Triage-complete,16374.393402777778
+205,Leucocytes-complete,16374.422916666666
+205,CRP-complete,16374.422916666666
+205,Admission NC-complete,16374.527094907407
+205,CRP-complete,16376.25
+205,Leucocytes-complete,16383.375
+205,CRP-complete,16383.375
+205,Release A-complete,16384.375
+206,ER Registration-complete,16346.172210648148
+206,ER Triage-complete,16346.173425925926
+206,ER Sepsis Triage-complete,16346.174710648149
+206,IV Liquid-complete,16346.175578703704
+206,Leucocytes-complete,16346.189583333333
+206,LacticAcid-complete,16346.189583333333
+206,CRP-complete,16346.189583333333
+206,IV Antibiotics-complete,16346.208993055556
+206,Admission NC-complete,16346.266215277778
+206,Admission NC-complete,16346.414027777777
+206,CRP-complete,16347.291666666666
+206,Leucocytes-complete,16347.291666666666
+206,Release A-complete,16350.541666666666
+207,ER Sepsis Triage-complete,16378.9375
+207,ER Registration-complete,16378.947245370371
+207,ER Triage-complete,16378.950034722222
+207,CRP-complete,16378.961805555555
+207,Leucocytes-complete,16378.961805555555
+207,LacticAcid-complete,16378.961805555555
+207,IV Antibiotics-complete,16378.96875
+207,IV Liquid-complete,16378.96875
+207,Admission NC-complete,16379.048784722223
+207,Leucocytes-complete,16379.291666666666
+207,CRP-complete,16379.291666666666
+207,Admission NC-complete,16379.416666666666
+207,Leucocytes-complete,16381.291666666666
+207,CRP-complete,16381.291666666666
+207,Release B-complete,16382.229166666666
+208,ER Registration-complete,16403.292800925927
+208,ER Triage-complete,16403.294189814816
+208,ER Sepsis Triage-complete,16403.30275462963
+208,IV Liquid-complete,16403.302916666667
+208,LacticAcid-complete,16403.307638888888
+208,Leucocytes-complete,16403.307638888888
+208,CRP-complete,16403.307638888888
+208,IV Antibiotics-complete,16403.36579861111
+208,Admission NC-complete,16403.36664351852
+208,Release A-complete,16406.666666666668
+209,ER Registration-complete,16428.449479166666
+209,IV Liquid-complete,16428.44966435185
+209,ER Triage-complete,16428.451273148148
+209,ER Sepsis Triage-complete,16428.45196759259
+209,LacticAcid-complete,16428.468055555557
+209,Leucocytes-complete,16428.468055555557
+209,CRP-complete,16428.468055555557
+209,IV Antibiotics-complete,16428.47263888889
+209,Admission IC-complete,16428.589340277777
+209,LacticAcid-complete,16428.881944444445
+209,Leucocytes-complete,16429.25
+209,LacticAcid-complete,16429.25
+209,CRP-complete,16429.25
+209,Admission NC-complete,16429.538194444445
+209,CRP-complete,16430.347222222223
+209,Leucocytes-complete,16430.347222222223
+209,Release A-complete,16433.375
+210,ER Triage-complete,16385.44446759259
+210,Leucocytes-complete,16385.47013888889
+210,CRP-complete,16385.47013888889
+210,LacticAcid-complete,16385.47013888889
+210,Leucocytes-complete,16385.515972222223
+210,ER Registration-complete,16385.517581018517
+210,Admission IC-complete,16385.545162037037
+210,LacticAcid-complete,16385.981944444444
+210,Leucocytes-complete,16385.981944444444
+210,CRP-complete,16385.981944444444
+210,CRP-complete,16386.208333333332
+210,LacticAcid-complete,16386.208333333332
+210,Leucocytes-complete,16386.208333333332
+210,CRP-complete,16387.208333333332
+210,Leucocytes-complete,16387.208333333332
+210,LacticAcid-complete,16387.208333333332
+210,Leucocytes-complete,16388.208333333332
+210,LacticAcid-complete,16388.208333333332
+210,CRP-complete,16388.208333333332
+210,Leucocytes-complete,16389.208333333332
+210,CRP-complete,16389.208333333332
+210,LacticAcid-complete,16389.208333333332
+210,LacticAcid-complete,16390.208333333332
+210,CRP-complete,16390.208333333332
+210,Leucocytes-complete,16390.208333333332
+210,Admission NC-complete,16390.308657407408
+210,Leucocytes-complete,16392.25
+210,CRP-complete,16392.25
+210,Release A-complete,16395.333333333332
+210,Return ER-complete,16406.659664351853
+211,ER Registration-complete,16349.67792824074
+211,ER Triage-complete,16349.70443287037
+211,ER Sepsis Triage-complete,16349.71650462963
+211,LacticAcid-complete,16349.721527777778
+211,CRP-complete,16349.721527777778
+211,Leucocytes-complete,16349.721527777778
+211,IV Antibiotics-complete,16349.771712962964
+211,Admission NC-complete,16349.79056712963
+211,CRP-complete,16351.291666666666
+211,CRP-complete,16355.291666666666
+211,Leucocytes-complete,16355.291666666666
+211,Release A-complete,16356.520833333334
+212,ER Registration-complete,16401.766655092593
+212,ER Triage-complete,16401.768888888888
+212,ER Sepsis Triage-complete,16401.773194444446
+212,IV Liquid-complete,16401.773472222223
+212,IV Antibiotics-complete,16401.773506944446
+212,Leucocytes-complete,16401.794444444444
+212,CRP-complete,16401.794444444444
+212,LacticAcid-complete,16401.794444444444
+212,Admission NC-complete,16401.85943287037
+212,CRP-complete,16402.25
+212,Leucocytes-complete,16402.25
+212,Leucocytes-complete,16404.25
+212,CRP-complete,16404.25
+212,Release A-complete,16404.5
+212,Return ER-complete,16527.39820601852
+213,ER Registration-complete,16360.843576388888
+213,ER Triage-complete,16360.84744212963
+213,ER Sepsis Triage-complete,16360.847592592592
+213,Leucocytes-complete,16360.853472222223
+213,LacticAcid-complete,16360.853472222223
+213,CRP-complete,16360.853472222223
+213,IV Liquid-complete,16360.920925925926
+213,IV Antibiotics-complete,16360.920960648149
+213,Admission NC-complete,16360.921319444444
+213,Leucocytes-complete,16361.336111111112
+213,Admission NC-complete,16361.5
+213,CRP-complete,16365.25
+213,Leucocytes-complete,16365.25
+213,Release A-complete,16367.375
+214,ER Registration-complete,16386.85232638889
+214,ER Triage-complete,16386.859328703704
+214,ER Sepsis Triage-complete,16386.859641203704
+214,CRP-complete,16386.86527777778
+214,Leucocytes-complete,16386.86527777778
+215,ER Registration-complete,16416.40111111111
+215,ER Triage-complete,16416.408101851852
+215,ER Sepsis Triage-complete,16416.408622685187
+215,Leucocytes-complete,16416.422916666666
+215,CRP-complete,16416.422916666666
+215,Admission NC-complete,16416.493796296298
+215,CRP-complete,16417.291666666668
+215,CRP-complete,16418.291666666668
+215,Leucocytes-complete,16418.291666666668
+215,CRP-complete,16419.291666666668
+215,Leucocytes-complete,16419.291666666668
+215,Leucocytes-complete,16420.291666666668
+215,CRP-complete,16420.291666666668
+215,Leucocytes-complete,16423.291666666668
+215,CRP-complete,16423.291666666668
+215,Release A-complete,16423.729166666668
+216,ER Registration-complete,16347.703229166667
+216,ER Triage-complete,16347.7340625
+216,ER Sepsis Triage-complete,16347.734328703704
+217,ER Registration-complete,16359.550277777778
+217,Leucocytes-complete,16359.551388888889
+217,CRP-complete,16359.551388888889
+217,LacticAcid-complete,16359.551388888889
+217,ER Triage-complete,16359.553657407407
+217,ER Sepsis Triage-complete,16359.554050925926
+217,IV Liquid-complete,16359.583333333334
+217,IV Antibiotics-complete,16359.583333333334
+217,Admission NC-complete,16359.768055555556
+218,ER Registration-complete,16377.874351851851
+218,ER Triage-complete,16377.880497685184
+218,ER Sepsis Triage-complete,16377.881469907408
+218,Leucocytes-complete,16377.885416666666
+218,CRP-complete,16377.885416666666
+218,LacticAcid-complete,16377.885416666666
+218,IV Liquid-complete,16378.050659722223
+218,IV Antibiotics-complete,16378.05070601852
+218,Admission NC-complete,16378.051481481481
+218,LacticAcid-complete,16378.25
+218,Admission NC-complete,16378.41761574074
+218,Admission NC-complete,16379.502164351852
+218,Admission NC-complete,16379.559027777777
+218,CRP-complete,16381.291666666666
+218,Leucocytes-complete,16381.291666666666
+218,CRP-complete,16383.291666666666
+218,Leucocytes-complete,16383.291666666666
+218,CRP-complete,16384.291666666668
+218,Leucocytes-complete,16384.291666666668
+218,Admission NC-complete,16387.572106481482
+218,Release A-complete,16387.791666666668
+219,ER Registration-complete,16417.42334490741
+219,ER Triage-complete,16417.425324074073
+219,ER Sepsis Triage-complete,16417.425613425927
+219,Leucocytes-complete,16417.443055555555
+219,CRP-complete,16417.443055555555
+219,LacticAcid-complete,16417.443055555555
+219,IV Liquid-complete,16417.68259259259
+219,IV Antibiotics-complete,16417.682604166668
+220,ER Registration-complete,16382.57429398148
+220,ER Triage-complete,16382.59207175926
+220,ER Sepsis Triage-complete,16382.59224537037
+220,Leucocytes-complete,16382.628472222223
+220,CRP-complete,16382.628472222223
+220,LacticAcid-complete,16382.628472222223
+221,ER Registration-complete,16474.785798611112
+221,ER Triage-complete,16474.795046296298
+221,ER Sepsis Triage-complete,16474.795324074075
+221,CRP-complete,16474.80972222222
+221,LacticAcid-complete,16474.80972222222
+221,Leucocytes-complete,16474.80972222222
+221,IV Liquid-complete,16474.90971064815
+221,IV Antibiotics-complete,16474.909756944446
+221,Admission NC-complete,16474.910439814816
+221,Admission NC-complete,16475.552083333332
+221,Leucocytes-complete,16476.291666666668
+221,CRP-complete,16476.291666666668
+221,Leucocytes-complete,16480.291666666668
+221,CRP-complete,16480.291666666668
+221,Leucocytes-complete,16481.447916666668
+221,Leucocytes-complete,16482.250694444443
+221,Release A-complete,16483.375
+221,Return ER-complete,16491.837060185186
+222,ER Registration-complete,16402.096539351853
+222,ER Triage-complete,16402.097395833334
+222,ER Sepsis Triage-complete,16402.097546296296
+222,Leucocytes-complete,16402.109027777777
+222,CRP-complete,16402.109027777777
+223,ER Registration-complete,16422.731944444444
+223,ER Triage-complete,16422.743125
+223,ER Sepsis Triage-complete,16422.743287037036
+223,Leucocytes-complete,16422.754861111112
+223,CRP-complete,16422.754861111112
+223,LacticAcid-complete,16422.754861111112
+223,IV Liquid-complete,16423.020648148147
+223,IV Antibiotics-complete,16423.02082175926
+223,CRP-complete,16423.25
+223,Leucocytes-complete,16423.25
+224,ER Registration-complete,16385.43451388889
+224,IV Liquid-complete,16385.4375
+224,ER Triage-complete,16385.442465277778
+224,ER Sepsis Triage-complete,16385.44576388889
+224,LacticAcid-complete,16385.447916666668
+224,Leucocytes-complete,16385.447916666668
+224,CRP-complete,16385.447916666668
+224,IV Antibiotics-complete,16385.585011574072
+224,Admission NC-complete,16385.585729166665
+224,CRP-complete,16386.25
+224,CRP-complete,16386.3875
+224,Leucocytes-complete,16386.3875
+224,Admission NC-complete,16386.48611111111
+224,Admission NC-complete,16386.62515046296
+224,Leucocytes-complete,16387.291666666668
+224,CRP-complete,16387.291666666668
+224,Release A-complete,16388.369444444445
+225,ER Registration-complete,16398.84925925926
+225,ER Triage-complete,16398.852916666667
+225,ER Sepsis Triage-complete,16398.853113425925
+225,Leucocytes-complete,16398.85763888889
+225,CRP-complete,16398.85763888889
+225,LacticAcid-complete,16398.85763888889
+225,IV Liquid-complete,16398.881689814814
+225,IV Antibiotics-complete,16398.881701388887
+225,Leucocytes-complete,16399.208333333332
+225,CRP-complete,16399.208333333332
+226,ER Registration-complete,16458.680625
+226,Leucocytes-complete,16458.7
+226,LacticAcid-complete,16458.7
+226,CRP-complete,16458.7
+226,ER Triage-complete,16458.709421296295
+226,ER Sepsis Triage-complete,16458.709606481483
+226,IV Antibiotics-complete,16458.96309027778
+226,IV Liquid-complete,16459.70980324074
+227,IV Liquid-complete,16337.229166666666
+227,ER Registration-complete,16337.258391203704
+227,ER Triage-complete,16337.26570601852
+227,ER Sepsis Triage-complete,16337.268784722222
+227,LacticAcid-complete,16337.270833333334
+227,Leucocytes-complete,16337.270833333334
+227,CRP-complete,16337.270833333334
+227,IV Antibiotics-complete,16337.270833333334
+227,Admission NC-complete,16337.369201388889
+227,Leucocytes-complete,16339.291666666666
+227,CRP-complete,16339.291666666666
+227,LacticAcid-complete,16339.291666666666
+227,CRP-complete,16342.291666666666
+227,LacticAcid-complete,16342.291666666666
+227,Leucocytes-complete,16342.291666666666
+227,Release B-complete,16345.041666666666
+228,ER Registration-complete,16386.648958333335
+228,ER Triage-complete,16386.65945601852
+228,ER Sepsis Triage-complete,16386.659594907407
+228,LacticAcid-complete,16386.671527777777
+228,Leucocytes-complete,16386.671527777777
+228,CRP-complete,16386.671527777777
+228,IV Liquid-complete,16386.806851851852
+228,IV Antibiotics-complete,16386.80690972222
+228,Admission NC-complete,16386.80741898148
+228,CRP-complete,16388.25
+228,Leucocytes-complete,16388.25
+228,Leucocytes-complete,16390.25
+228,CRP-complete,16390.25
+228,Release A-complete,16391.708333333332
+229,ER Registration-complete,16393.0946875
+229,ER Triage-complete,16393.096400462964
+229,ER Sepsis Triage-complete,16393.096631944445
+229,IV Liquid-complete,16393.09696759259
+229,Leucocytes-complete,16393.113194444446
+229,CRP-complete,16393.113194444446
+229,LacticAcid-complete,16393.113194444446
+229,IV Antibiotics-complete,16393.196956018517
+229,Admission NC-complete,16393.19755787037
+229,Release A-complete,16396.4375
+229,Return ER-complete,16402.635613425926
+230,ER Registration-complete,16421.80628472222
+230,ER Triage-complete,16421.813055555554
+230,ER Sepsis Triage-complete,16421.813229166666
+230,Leucocytes-complete,16421.82013888889
+230,CRP-complete,16421.82013888889
+230,LacticAcid-complete,16421.82013888889
+230,IV Liquid-complete,16421.91388888889
+230,IV Antibiotics-complete,16421.91398148148
+230,Admission NC-complete,16421.915104166666
+230,CRP-complete,16422.291666666668
+230,Leucocytes-complete,16422.291666666668
+230,Release A-complete,16424.458333333332
+231,ER Registration-complete,16445.38332175926
+231,IV Liquid-complete,16445.384085648147
+231,ER Triage-complete,16445.388206018517
+231,ER Sepsis Triage-complete,16445.388599537036
+231,LacticAcid-complete,16445.391666666666
+231,CRP-complete,16445.391666666666
+231,Leucocytes-complete,16445.391666666666
+231,IV Antibiotics-complete,16445.425810185185
+232,ER Registration-complete,16349.840451388889
+232,ER Triage-complete,16349.844976851851
+232,ER Sepsis Triage-complete,16349.847071759259
+232,Leucocytes-complete,16349.847916666668
+232,CRP-complete,16349.847916666668
+232,LacticAcid-complete,16349.847916666668
+232,IV Antibiotics-complete,16349.956724537036
+232,Admission NC-complete,16349.958842592592
+232,Leucocytes-complete,16350.208333333334
+232,CRP-complete,16350.208333333334
+232,LacticAcid-complete,16350.208333333334
+232,Admission NC-complete,16350.395833333334
+232,IV Liquid-complete,16350.84724537037
+232,CRP-complete,16353.25
+232,Leucocytes-complete,16353.25
+232,Release A-complete,16355.322916666666
+232,Return ER-complete,16591.434155092593
+233,ER Registration-complete,16413.50002314815
+233,ER Triage-complete,16413.51636574074
+233,ER Sepsis Triage-complete,16413.516504629628
+233,LacticAcid-complete,16413.522222222222
+233,CRP-complete,16413.522222222222
+233,Leucocytes-complete,16413.522222222222
+233,Admission NC-complete,16413.71701388889
+233,Release A-complete,16416.4375
+233,Return ER-complete,16481.731354166666
+234,ER Registration-complete,16410.397627314815
+234,ER Triage-complete,16410.40875
+234,ER Sepsis Triage-complete,16410.410694444443
+235,ER Registration-complete,16398.424386574075
+235,ER Triage-complete,16398.43337962963
+235,ER Sepsis Triage-complete,16398.433530092592
+235,CRP-complete,16398.447916666668
+235,Leucocytes-complete,16398.447916666668
+235,LacticAcid-complete,16398.447916666668
+235,IV Liquid-complete,16398.741851851853
+235,IV Antibiotics-complete,16398.741909722223
+235,Admission IC-complete,16398.744479166668
+235,CRP-complete,16399.208333333332
+235,Leucocytes-complete,16399.208333333332
+235,LacticAcid-complete,16399.208333333332
+235,Admission NC-complete,16399.355891203704
+235,Admission NC-complete,16400.708333333332
+235,Leucocytes-complete,16401.25
+235,CRP-complete,16401.25
+235,Release D-complete,16408.354166666668
+236,ER Registration-complete,16485.959039351852
+236,ER Triage-complete,16485.97525462963
+236,ER Sepsis Triage-complete,16485.975451388887
+236,CRP-complete,16485.98125
+236,Leucocytes-complete,16485.98125
+237,ER Registration-complete,16430.345671296298
+237,ER Triage-complete,16430.348171296297
+237,ER Sepsis Triage-complete,16430.34863425926
+237,CRP-complete,16430.391666666666
+237,LacticAcid-complete,16430.391666666666
+237,Leucocytes-complete,16430.391666666666
+237,IV Liquid-complete,16430.46990740741
+237,IV Antibiotics-complete,16430.469965277778
+237,Admission NC-complete,16430.470648148148
+237,Admission NC-complete,16431.541666666668
+237,CRP-complete,16432.291666666668
+237,Leucocytes-complete,16432.291666666668
+237,CRP-complete,16434.291666666668
+237,CRP-complete,16436.291666666668
+237,Release A-complete,16436.635416666668
+238,ER Registration-complete,16355.390555555556
+238,ER Triage-complete,16355.404872685185
+238,ER Sepsis Triage-complete,16355.405081018518
+238,IV Liquid-complete,16355.40545138889
+238,LacticAcid-complete,16355.423611111111
+238,Leucocytes-complete,16355.423611111111
+238,CRP-complete,16355.423611111111
+238,IV Antibiotics-complete,16355.46900462963
+238,Admission NC-complete,16355.555324074074
+238,Leucocytes-complete,16356.291666666666
+238,CRP-complete,16357.291666666666
+238,Leucocytes-complete,16357.291666666666
+238,Leucocytes-complete,16359.291666666666
+238,CRP-complete,16359.291666666666
+238,CRP-complete,16360.291666666666
+238,Leucocytes-complete,16360.291666666666
+238,Release A-complete,16361.59375
+239,ER Registration-complete,16467.8890625
+239,ER Triage-complete,16467.891435185185
+239,ER Sepsis Triage-complete,16467.891597222224
+239,Leucocytes-complete,16467.902083333334
+239,LacticAcid-complete,16467.902083333334
+239,CRP-complete,16467.902083333334
+239,IV Liquid-complete,16467.99577546296
+239,IV Antibiotics-complete,16467.99585648148
+239,Admission NC-complete,16467.99695601852
+239,CRP-complete,16468.25
+239,Leucocytes-complete,16468.25
+239,LacticAcid-complete,16468.25
+239,LacticAcid-complete,16469.260416666668
+239,CRP-complete,16469.260416666668
+239,Admission NC-complete,16469.45486111111
+239,CRP-complete,16470.291666666668
+239,LacticAcid-complete,16470.291666666668
+239,Leucocytes-complete,16473.291666666668
+239,CRP-complete,16473.291666666668
+239,Admission NC-complete,16478.623912037037
+239,Release A-complete,16482.541666666668
+240,ER Registration-complete,16374.434340277778
+240,ER Triage-complete,16374.455729166666
+240,LacticAcid-complete,16374.46875
+240,Leucocytes-complete,16374.46875
+240,CRP-complete,16374.46875
+240,ER Sepsis Triage-complete,16374.482002314815
+240,IV Liquid-complete,16374.482199074075
+240,IV Antibiotics-complete,16374.482245370371
+240,Admission NC-complete,16374.562094907407
+240,Leucocytes-complete,16375.208333333334
+240,CRP-complete,16375.208333333334
+240,Admission NC-complete,16375.537546296297
+240,CRP-complete,16376.25
+240,Release A-complete,16378.375
+241,ER Registration-complete,16468.604375
+241,ER Triage-complete,16468.63513888889
+241,ER Sepsis Triage-complete,16468.63534722222
+241,LacticAcid-complete,16468.63611111111
+241,CRP-complete,16468.63611111111
+241,Leucocytes-complete,16468.63611111111
+241,IV Liquid-complete,16468.811157407406
+241,IV Antibiotics-complete,16468.811203703703
+241,Admission NC-complete,16468.812407407408
+241,CRP-complete,16470.291666666668
+241,CRP-complete,16471.291666666668
+241,Release A-complete,16471.520833333332
+242,ER Registration-complete,16391.81233796296
+242,ER Triage-complete,16391.816030092592
+242,ER Sepsis Triage-complete,16391.82015046296
+242,IV Liquid-complete,16391.82306712963
+242,CRP-complete,16391.825
+242,Leucocytes-complete,16391.825
+242,LacticAcid-complete,16391.825
+242,IV Antibiotics-complete,16391.82528935185
+242,Admission NC-complete,16391.944351851853
+242,Leucocytes-complete,16393.25
+242,CRP-complete,16393.25
+242,Admission NC-complete,16393.395833333332
+242,Leucocytes-complete,16396.25
+242,CRP-complete,16396.25
+242,CRP-complete,16398.25
+242,Leucocytes-complete,16398.25
+242,CRP-complete,16404.25
+242,Leucocytes-complete,16404.25
+242,Release C-complete,16406.333333333332
+243,ER Registration-complete,16350.564027777778
+243,ER Triage-complete,16350.577384259259
+243,ER Sepsis Triage-complete,16350.577488425926
+243,CRP-complete,16350.579166666666
+243,LacticAcid-complete,16350.579166666666
+243,Leucocytes-complete,16350.579166666666
+243,Admission NC-complete,16350.715983796295
+243,CRP-complete,16351.25
+243,Leucocytes-complete,16351.25
+243,LacticAcid-complete,16351.25
+243,Leucocytes-complete,16353.25
+243,CRP-complete,16353.25
+243,Release A-complete,16355.35542824074
+244,ER Registration-complete,16350.884537037036
+244,ER Triage-complete,16350.893773148147
+244,ER Sepsis Triage-complete,16350.894131944444
+244,Leucocytes-complete,16350.913194444445
+244,LacticAcid-complete,16350.913194444445
+244,CRP-complete,16350.913194444445
+244,IV Liquid-complete,16351.0246875
+244,IV Antibiotics-complete,16351.024768518519
+244,Admission NC-complete,16351.0415625
+244,LacticAcid-complete,16351.291666666666
+244,Admission NC-complete,16351.592546296297
+244,Leucocytes-complete,16354.291666666666
+244,CRP-complete,16354.291666666666
+244,Release A-complete,16356.354166666666
+245,ER Registration-complete,16475.735381944443
+245,ER Triage-complete,16475.738530092593
+245,ER Sepsis Triage-complete,16475.758680555555
+245,CRP-complete,16475.77847222222
+245,LacticAcid-complete,16475.77847222222
+245,Leucocytes-complete,16475.77847222222
+245,Admission NC-complete,16475.829004629628
+245,Admission NC-complete,16476.454386574074
+245,CRP-complete,16477.291666666668
+245,CRP-complete,16479.291666666668
+245,CRP-complete,16480.291666666668
+245,Release A-complete,16480.46875
+246,ER Registration-complete,16373.64525462963
+246,ER Triage-complete,16373.658703703704
+246,LacticAcid-complete,16373.69375
+246,Leucocytes-complete,16373.69375
+246,CRP-complete,16373.69375
+246,ER Sepsis Triage-complete,16373.698680555555
+246,IV Liquid-complete,16373.698877314815
+246,IV Antibiotics-complete,16373.809606481482
+246,Admission NC-complete,16373.81011574074
+246,CRP-complete,16376.25
+246,Release A-complete,16376.395833333334
+247,ER Registration-complete,16335.333333333334
+247,ER Triage-complete,16335.336631944445
+247,ER Sepsis Triage-complete,16335.33681712963
+247,CRP-complete,16335.34375
+247,LacticAcid-complete,16335.34375
+247,Leucocytes-complete,16335.34375
+247,IV Liquid-complete,16335.343912037037
+247,IV Antibiotics-complete,16335.36523148148
+248,ER Registration-complete,16436.4428125
+248,ER Triage-complete,16436.45773148148
+248,ER Sepsis Triage-complete,16436.468634259258
+248,IV Liquid-complete,16436.469097222223
+248,Leucocytes-complete,16436.474305555555
+248,LacticAcid-complete,16436.474305555555
+248,CRP-complete,16436.474305555555
+248,IV Antibiotics-complete,16436.6590625
+248,Admission NC-complete,16436.659363425926
+248,CRP-complete,16436.716666666667
+248,Leucocytes-complete,16436.716666666667
+248,LacticAcid-complete,16436.716666666667
+248,LacticAcid-complete,16437.140972222223
+248,CRP-complete,16437.140972222223
+248,Leucocytes-complete,16437.140972222223
+248,Leucocytes-complete,16438.25
+248,CRP-complete,16438.25
+248,LacticAcid-complete,16438.25
+248,Release E-complete,16438.458333333332
+249,ER Registration-complete,16371.516909722222
+249,ER Triage-complete,16371.525173611111
+249,ER Sepsis Triage-complete,16371.525543981481
+249,CRP-complete,16371.529166666667
+249,Leucocytes-complete,16371.529166666667
+249,LacticAcid-complete,16371.529166666667
+249,IV Liquid-complete,16371.661851851852
+249,IV Antibiotics-complete,16371.661898148148
+249,Admission NC-complete,16371.662685185185
+249,CRP-complete,16373.25
+249,Leucocytes-complete,16373.25
+249,CRP-complete,16374.25
+249,Leucocytes-complete,16375.25
+249,CRP-complete,16375.25
+249,CRP-complete,16378.25
+249,Leucocytes-complete,16378.25
+249,Release D-complete,16380.350694444445
+249,Return ER-complete,16450.65304398148
+250,ER Registration-complete,16354.663310185186
+250,IV Liquid-complete,16354.666666666666
+250,ER Triage-complete,16354.670775462962
+250,ER Sepsis Triage-complete,16354.671435185186
+250,CRP-complete,16354.683333333332
+250,Leucocytes-complete,16354.683333333332
+250,IV Antibiotics-complete,16354.75
+250,Admission NC-complete,16354.812013888888
+250,Leucocytes-complete,16356.291666666666
+250,CRP-complete,16356.291666666666
+250,Release A-complete,16358.5
+251,ER Registration-complete,16449.88513888889
+251,ER Triage-complete,16449.8984375
+251,ER Sepsis Triage-complete,16449.89875
+251,Leucocytes-complete,16449.90486111111
+251,CRP-complete,16449.90486111111
+252,ER Registration-complete,16353.71289351852
+252,ER Triage-complete,16353.71849537037
+252,ER Sepsis Triage-complete,16353.718622685185
+252,CRP-complete,16353.741666666667
+252,LacticAcid-complete,16353.741666666667
+252,Leucocytes-complete,16353.741666666667
+252,IV Liquid-complete,16353.761550925927
+252,IV Antibiotics-complete,16353.761585648148
+252,Admission NC-complete,16353.884641203704
+252,Leucocytes-complete,16354.25
+252,CRP-complete,16354.25
+252,Leucocytes-complete,16355.25
+252,CRP-complete,16355.25
+252,CRP-complete,16357.25
+252,Leucocytes-complete,16358.25
+252,CRP-complete,16358.25
+252,Leucocytes-complete,16360.25
+252,CRP-complete,16360.25
+252,Leucocytes-complete,16362.330555555556
+252,Release A-complete,16363.708541666667
+252,Return ER-complete,16386.694560185184
+253,ER Registration-complete,16471.564606481483
+253,ER Triage-complete,16471.575439814816
+253,ER Sepsis Triage-complete,16471.575717592594
+253,IV Liquid-complete,16471.575856481482
+253,CRP-complete,16471.614583333332
+253,Leucocytes-complete,16471.614583333332
+253,LacticAcid-complete,16471.614583333332
+253,IV Antibiotics-complete,16471.753946759258
+253,LacticAcid-complete,16471.81527777778
+254,ER Registration-complete,16358.291631944445
+254,ER Triage-complete,16358.29542824074
+254,ER Sepsis Triage-complete,16358.295856481482
+254,Leucocytes-complete,16358.323611111111
+254,CRP-complete,16358.323611111111
+254,LacticAcid-complete,16358.323611111111
+254,IV Liquid-complete,16358.471435185185
+254,IV Antibiotics-complete,16358.471493055555
+254,Admission NC-complete,16358.472557870371
+254,Admission NC-complete,16359.5
+254,Leucocytes-complete,16363.25
+254,Release A-complete,16363.375
+255,ER Registration-complete,16468.399872685186
+255,ER Triage-complete,16468.404918981483
+255,ER Sepsis Triage-complete,16468.405590277776
+255,Leucocytes-complete,16468.41597222222
+255,CRP-complete,16468.41597222222
+255,LacticAcid-complete,16468.41597222222
+255,IV Liquid-complete,16468.46673611111
+255,IV Antibiotics-complete,16468.466747685186
+255,Admission NC-complete,16468.49420138889
+255,CRP-complete,16469.291666666668
+255,Release A-complete,16471.625
+255,Return ER-complete,16474.968449074073
+256,ER Registration-complete,16358.808842592593
+256,ER Triage-complete,16358.810138888888
+256,ER Sepsis Triage-complete,16358.810532407408
+256,IV Antibiotics-complete,16358.811099537037
+256,CRP-complete,16358.820138888888
+256,LacticAcid-complete,16358.820138888888
+256,Leucocytes-complete,16358.820138888888
+256,IV Liquid-complete,16358.89613425926
+256,Admission NC-complete,16358.898564814815
+256,CRP-complete,16360.291666666666
+256,Leucocytes-complete,16360.291666666666
+256,Admission NC-complete,16360.541666666666
+256,CRP-complete,16361.291666666666
+256,Leucocytes-complete,16361.291666666666
+256,Release A-complete,16363.541666666666
+257,IV Liquid-complete,16350.750358796296
+257,ER Registration-complete,16350.75724537037
+257,ER Triage-complete,16350.76383101852
+257,Leucocytes-complete,16350.770138888889
+257,CRP-complete,16350.770138888889
+257,LacticAcid-complete,16350.770138888889
+257,ER Sepsis Triage-complete,16350.815787037038
+257,IV Antibiotics-complete,16350.8165625
+257,Admission IC-complete,16350.879212962964
+257,LacticAcid-complete,16351.208333333334
+257,CRP-complete,16351.208333333334
+257,Leucocytes-complete,16351.208333333334
+258,ER Registration-complete,16335.578946759259
+258,ER Triage-complete,16335.579618055555
+258,ER Sepsis Triage-complete,16335.579895833333
+258,Leucocytes-complete,16335.58888888889
+258,CRP-complete,16335.58888888889
+258,LacticAcid-complete,16335.58888888889
+258,IV Liquid-complete,16335.685289351852
+258,IV Antibiotics-complete,16335.685300925927
+258,Admission NC-complete,16335.686030092593
+258,Admission NC-complete,16336.385416666666
+258,CRP-complete,16337.291666666666
+258,Leucocytes-complete,16337.291666666666
+258,LacticAcid-complete,16337.291666666666
+258,Leucocytes-complete,16338.291666666666
+258,CRP-complete,16338.291666666666
+258,Release A-complete,16341.666666666666
+259,ER Registration-complete,16446.612847222223
+259,ER Triage-complete,16446.621921296297
+259,ER Sepsis Triage-complete,16446.622256944444
+259,LacticAcid-complete,16446.64236111111
+259,Leucocytes-complete,16446.64236111111
+259,CRP-complete,16446.64236111111
+260,ER Registration-complete,16380.645439814814
+260,ER Triage-complete,16380.655324074074
+260,ER Sepsis Triage-complete,16380.655833333334
+260,Leucocytes-complete,16380.677083333334
+260,LacticAcid-complete,16380.677083333334
+260,CRP-complete,16380.677083333334
+260,IV Liquid-complete,16380.700671296296
+260,IV Antibiotics-complete,16380.700717592592
+261,ER Registration-complete,16373.947824074074
+261,ER Triage-complete,16373.949664351852
+261,ER Sepsis Triage-complete,16373.949826388889
+261,Leucocytes-complete,16373.952777777778
+261,CRP-complete,16373.952777777778
+261,LacticAcid-complete,16373.952777777778
+261,IV Liquid-complete,16374.078726851852
+261,IV Antibiotics-complete,16374.078784722222
+261,Admission NC-complete,16374.08
+261,CRP-complete,16375.291666666666
+261,Leucocytes-complete,16375.291666666666
+261,Release A-complete,16376.666666666666
+262,Leucocytes-complete,16364.28611111111
+262,CRP-complete,16364.28611111111
+262,ER Registration-complete,16364.82949074074
+262,ER Triage-complete,16364.83912037037
+262,ER Sepsis Triage-complete,16364.839270833334
+262,IV Liquid-complete,16364.839502314815
+262,IV Antibiotics-complete,16364.844236111112
+262,CRP-complete,16364.84513888889
+262,Leucocytes-complete,16364.84513888889
+262,LacticAcid-complete,16364.84513888889
+262,Admission NC-complete,16364.919363425926
+262,Leucocytes-complete,16365.28611111111
+262,LacticAcid-complete,16365.28611111111
+262,Admission NC-complete,16365.390555555556
+262,Leucocytes-complete,16367.25
+262,CRP-complete,16367.25
+262,Admission IC-complete,16368.466736111111
+262,LacticAcid-complete,16368.5
+262,Leucocytes-complete,16368.5
+262,CRP-complete,16368.5
+262,Release B-complete,16368.5625
+263,ER Registration-complete,16348.56142361111
+263,ER Triage-complete,16348.585023148149
+263,ER Sepsis Triage-complete,16348.585300925926
+263,Leucocytes-complete,16348.58888888889
+263,CRP-complete,16348.58888888889
+263,Admission NC-complete,16348.727766203703
+263,Admission NC-complete,16349.416666666666
+263,Leucocytes-complete,16353.291666666666
+263,CRP-complete,16353.291666666666
+263,Release A-complete,16355.541666666666
+264,ER Registration-complete,16455.968622685185
+264,ER Triage-complete,16455.972291666665
+264,ER Sepsis Triage-complete,16455.973113425927
+265,ER Registration-complete,16421.700833333332
+265,ER Triage-complete,16421.711458333335
+265,ER Sepsis Triage-complete,16421.711608796297
+265,IV Liquid-complete,16421.711909722224
+265,LacticAcid-complete,16421.71875
+265,Leucocytes-complete,16421.71875
+265,CRP-complete,16421.71875
+265,IV Antibiotics-complete,16421.90577546296
+266,ER Registration-complete,16384.600416666668
+266,ER Triage-complete,16384.606585648147
+266,ER Sepsis Triage-complete,16384.608113425926
+266,Leucocytes-complete,16384.661111111112
+266,CRP-complete,16384.661111111112
+266,LacticAcid-complete,16384.661111111112
+266,IV Liquid-complete,16384.71892361111
+266,IV Antibiotics-complete,16384.71898148148
+267,ER Registration-complete,16374.413020833334
+267,ER Triage-complete,16374.414467592593
+267,ER Sepsis Triage-complete,16374.414583333333
+267,Leucocytes-complete,16374.450694444444
+267,CRP-complete,16374.450694444444
+267,LacticAcid-complete,16374.450694444444
+267,IV Antibiotics-complete,16374.561365740741
+267,IV Liquid-complete,16374.562604166667
+267,Admission NC-complete,16374.572094907408
+267,Admission NC-complete,16375.572916666666
+267,Leucocytes-complete,16377.25
+267,CRP-complete,16377.25
+267,Leucocytes-complete,16377.581944444444
+267,CRP-complete,16384.59097222222
+267,Leucocytes-complete,16384.59097222222
+267,Release A-complete,16385.364583333332
+268,ER Registration-complete,16368.887696759259
+268,ER Triage-complete,16368.913287037038
+268,ER Sepsis Triage-complete,16368.913460648148
+268,IV Liquid-complete,16368.913622685186
+268,IV Antibiotics-complete,16368.91369212963
+268,Leucocytes-complete,16368.920833333334
+268,LacticAcid-complete,16368.920833333334
+268,CRP-complete,16368.920833333334
+268,Admission NC-complete,16368.97517361111
+268,Leucocytes-complete,16372.25
+268,CRP-complete,16372.25
+268,Release A-complete,16373.333333333334
+268,Return ER-complete,16408.43269675926
+269,ER Registration-complete,16449.608877314815
+269,ER Triage-complete,16449.621585648147
+269,ER Sepsis Triage-complete,16449.62929398148
+269,IV Liquid-complete,16449.62957175926
+269,IV Antibiotics-complete,16449.62966435185
+269,Leucocytes-complete,16449.63472222222
+269,LacticAcid-complete,16449.63472222222
+269,CRP-complete,16449.63472222222
+269,Admission NC-complete,16449.761157407407
+269,Leucocytes-complete,16451.291666666668
+269,CRP-complete,16451.291666666668
+269,Release A-complete,16452.38888888889
+270,ER Registration-complete,16391.898796296296
+270,ER Triage-complete,16391.90116898148
+270,ER Sepsis Triage-complete,16391.901377314814
+270,Leucocytes-complete,16391.91388888889
+270,CRP-complete,16391.91388888889
+270,IV Liquid-complete,16391.95902777778
+270,IV Antibiotics-complete,16391.95902777778
+270,Admission NC-complete,16391.998854166668
+270,Admission NC-complete,16392.5625
+270,Release B-complete,16394.42361111111
+271,ER Registration-complete,16348.785833333333
+271,ER Triage-complete,16348.787974537037
+271,ER Sepsis Triage-complete,16348.792002314814
+271,CRP-complete,16348.795833333334
+271,Leucocytes-complete,16348.795833333334
+271,LacticAcid-complete,16348.795833333334
+271,IV Antibiotics-complete,16348.975706018518
+271,Admission NC-complete,16348.976296296296
+271,CRP-complete,16349.375
+271,Leucocytes-complete,16349.375
+271,IV Liquid-complete,16349.792210648147
+272,ER Registration-complete,16404.249108796295
+272,ER Triage-complete,16404.251631944444
+272,Leucocytes-complete,16404.26388888889
+272,CRP-complete,16404.26388888889
+272,LacticAcid-complete,16404.26388888889
+272,ER Sepsis Triage-complete,16404.280069444445
+272,IV Liquid-complete,16404.280219907407
+272,IV Antibiotics-complete,16404.47671296296
+272,Admission NC-complete,16404.478368055556
+272,Leucocytes-complete,16405.25
+272,CRP-complete,16405.25
+272,LacticAcid-complete,16405.25
+272,Leucocytes-complete,16408.25
+272,CRP-complete,16408.25
+272,CRP-complete,16414.25
+272,Release A-complete,16415.364583333332
+273,ER Registration-complete,16383.491458333334
+273,ER Triage-complete,16383.499664351852
+273,ER Sepsis Triage-complete,16383.500358796296
+273,IV Liquid-complete,16383.500775462962
+273,LacticAcid-complete,16383.50486111111
+273,Leucocytes-complete,16383.50486111111
+273,CRP-complete,16383.50486111111
+273,IV Antibiotics-complete,16383.64912037037
+273,Admission NC-complete,16383.651064814814
+273,Admission NC-complete,16384.5
+273,CRP-complete,16387.25
+273,Leucocytes-complete,16387.25
+273,Release A-complete,16389.333333333332
+274,ER Registration-complete,16351.482280092592
+274,ER Triage-complete,16351.485972222223
+274,ER Sepsis Triage-complete,16351.4865625
+274,CRP-complete,16351.496527777777
+274,LacticAcid-complete,16351.496527777777
+274,Leucocytes-complete,16351.496527777777
+274,IV Antibiotics-complete,16351.72818287037
+275,ER Registration-complete,16473.512685185186
+275,ER Triage-complete,16473.529699074075
+275,ER Sepsis Triage-complete,16473.53517361111
+275,LacticAcid-complete,16473.540277777778
+275,CRP-complete,16473.540277777778
+275,Leucocytes-complete,16473.540277777778
+275,IV Antibiotics-complete,16473.59429398148
+275,Admission NC-complete,16473.607037037036
+275,Leucocytes-complete,16474.229166666668
+275,CRP-complete,16474.229166666668
+275,Admission NC-complete,16474.53125
+275,CRP-complete,16475.291666666668
+275,Leucocytes-complete,16479.291666666668
+275,CRP-complete,16479.291666666668
+275,Release A-complete,16479.791666666668
+276,ER Registration-complete,16464.769861111112
+276,ER Triage-complete,16464.778125
+276,ER Sepsis Triage-complete,16464.77832175926
+276,Leucocytes-complete,16464.78125
+276,CRP-complete,16464.78125
+276,LacticAcid-complete,16464.78125
+276,IV Liquid-complete,16464.864988425925
+276,IV Antibiotics-complete,16464.86503472222
+276,Admission NC-complete,16464.865787037037
+276,CRP-complete,16465.416666666668
+276,Leucocytes-complete,16465.416666666668
+276,Leucocytes-complete,16466.291666666668
+276,CRP-complete,16466.291666666668
+276,Leucocytes-complete,16467.291666666668
+276,CRP-complete,16467.291666666668
+276,Leucocytes-complete,16468.291666666668
+276,CRP-complete,16468.291666666668
+276,Leucocytes-complete,16469.291666666668
+276,CRP-complete,16469.291666666668
+276,Leucocytes-complete,16470.291666666668
+276,CRP-complete,16470.291666666668
+276,Leucocytes-complete,16471.291666666668
+276,CRP-complete,16471.291666666668
+276,CRP-complete,16472.291666666668
+276,Leucocytes-complete,16472.291666666668
+276,Leucocytes-complete,16473.291666666668
+276,CRP-complete,16473.291666666668
+276,Release A-complete,16474.378472222223
+276,Return ER-complete,16517.41636574074
+277,ER Registration-complete,16333.601979166666
+277,ER Triage-complete,16333.610671296296
+277,ER Sepsis Triage-complete,16333.610844907407
+277,CRP-complete,16333.655555555555
+277,Leucocytes-complete,16333.655555555555
+277,Admission NC-complete,16333.702175925926
+277,CRP-complete,16334.291666666666
+277,Release D-complete,16338.385173611112
+278,ER Registration-complete,16339.392152777778
+278,ER Triage-complete,16339.395914351851
+278,ER Sepsis Triage-complete,16339.39636574074
+278,Leucocytes-complete,16339.402777777777
+278,CRP-complete,16339.402777777777
+278,LacticAcid-complete,16339.402777777777
+278,IV Liquid-complete,16339.731412037037
+278,IV Antibiotics-complete,16339.73142361111
+278,Admission NC-complete,16339.732245370371
+278,CRP-complete,16342.25
+278,CRP-complete,16343.25
+278,Release A-complete,16345.458333333334
+278,Return ER-complete,16547.854756944445
+279,ER Registration-complete,16426.349155092594
+279,ER Triage-complete,16426.352361111112
+279,LacticAcid-complete,16426.359027777777
+279,CRP-complete,16426.359027777777
+279,Leucocytes-complete,16426.359027777777
+279,ER Sepsis Triage-complete,16426.360266203705
+279,IV Liquid-complete,16426.36042824074
+279,IV Antibiotics-complete,16426.426655092593
+279,Admission NC-complete,16426.42693287037
+279,Leucocytes-complete,16426.5
+279,CRP-complete,16426.5
+279,CRP-complete,16428.25
+279,Leucocytes-complete,16428.25
+279,Leucocytes-complete,16430.291666666668
+279,CRP-complete,16430.291666666668
+279,Release A-complete,16432.376574074075
+280,ER Registration-complete,16375.690439814814
+280,ER Triage-complete,16375.707615740741
+280,ER Sepsis Triage-complete,16375.707893518518
+280,CRP-complete,16375.722222222223
+280,Leucocytes-complete,16375.722222222223
+280,LacticAcid-complete,16375.722222222223
+280,IV Antibiotics-complete,16375.72644675926
+280,IV Liquid-complete,16375.727430555555
+280,Admission NC-complete,16375.951666666666
+280,Leucocytes-complete,16376.208333333334
+280,CRP-complete,16376.208333333334
+280,Admission NC-complete,16376.375
+280,CRP-complete,16379.25
+280,Leucocytes-complete,16379.25
+280,Release A-complete,16380.333333333334
+280,Return ER-complete,16427.755914351852
+281,ER Registration-complete,16454.213101851852
+281,ER Triage-complete,16454.21650462963
+281,ER Sepsis Triage-complete,16454.21673611111
+281,IV Liquid-complete,16454.217002314814
+281,Leucocytes-complete,16454.22847222222
+281,CRP-complete,16454.22847222222
+281,LacticAcid-complete,16454.22847222222
+281,IV Antibiotics-complete,16454.249930555554
+281,Admission NC-complete,16454.34167824074
+281,Leucocytes-complete,16456.291666666668
+281,CRP-complete,16456.291666666668
+281,CRP-complete,16457.291666666668
+281,Release A-complete,16458.510416666668
+282,ER Registration-complete,16404.081759259258
+282,ER Triage-complete,16404.09259259259
+282,ER Sepsis Triage-complete,16404.09289351852
+282,CRP-complete,16404.104166666668
+282,LacticAcid-complete,16404.104166666668
+282,Leucocytes-complete,16404.104166666668
+282,IV Liquid-complete,16404.12914351852
+282,IV Antibiotics-complete,16404.129560185185
+282,Admission IC-complete,16404.13119212963
+282,LacticAcid-complete,16404.19027777778
+282,Leucocytes-complete,16405.208333333332
+282,CRP-complete,16405.208333333332
+282,LacticAcid-complete,16405.208333333332
+282,Leucocytes-complete,16406.208333333332
+282,CRP-complete,16406.208333333332
+282,LacticAcid-complete,16406.208333333332
+282,Admission NC-complete,16406.5625
+282,Leucocytes-complete,16407.5
+282,CRP-complete,16407.5
+282,Leucocytes-complete,16410.25
+282,CRP-complete,16410.25
+282,CRP-complete,16411.25
+282,Leucocytes-complete,16411.25
+282,Leucocytes-complete,16412.25
+282,CRP-complete,16412.25
+282,Leucocytes-complete,16414.25
+282,CRP-complete,16414.25
+282,Leucocytes-complete,16416.25
+282,CRP-complete,16416.25
+282,Release A-complete,16417.447916666668
+282,Return ER-complete,16452.213101851852
+283,ER Registration-complete,16354.314305555556
+283,ER Triage-complete,16354.318483796296
+283,ER Sepsis Triage-complete,16354.31863425926
+283,Leucocytes-complete,16354.320833333333
+283,LacticAcid-complete,16354.320833333333
+283,CRP-complete,16354.320833333333
+283,IV Antibiotics-complete,16354.322916666666
+283,IV Liquid-complete,16354.322916666666
+283,Admission NC-complete,16354.40650462963
+283,CRP-complete,16356.25
+283,Leucocytes-complete,16356.25
+283,Release A-complete,16356.625
+283,Return ER-complete,16406.081759259258
+284,ER Registration-complete,16469.810046296298
+284,ER Triage-complete,16469.823032407407
+284,ER Sepsis Triage-complete,16469.82369212963
+284,Leucocytes-complete,16469.82986111111
+284,LacticAcid-complete,16469.82986111111
+284,CRP-complete,16469.82986111111
+284,IV Liquid-complete,16469.905810185184
+284,IV Antibiotics-complete,16469.9059375
+284,Admission NC-complete,16469.90798611111
+284,Admission NC-complete,16470.43472222222
+284,CRP-complete,16471.359722222223
+284,Leucocytes-complete,16471.359722222223
+284,Release A-complete,16471.604166666668
+285,ER Registration-complete,16410.557962962965
+285,ER Triage-complete,16410.560949074075
+285,Leucocytes-complete,16410.56875
+285,CRP-complete,16410.56875
+285,ER Sepsis Triage-complete,16410.575034722224
+286,ER Registration-complete,16441.9965625
+286,ER Triage-complete,16441.997916666667
+286,ER Sepsis Triage-complete,16441.998125
+286,Leucocytes-complete,16442.004166666666
+286,CRP-complete,16442.004166666666
+286,Admission NC-complete,16442.087604166667
+286,CRP-complete,16444.291666666668
+286,Release A-complete,16445.479166666668
+287,ER Registration-complete,16410.579583333332
+287,ER Triage-complete,16410.583935185186
+287,ER Sepsis Triage-complete,16410.584282407406
+287,CRP-complete,16410.594444444443
+287,LacticAcid-complete,16410.594444444443
+287,Leucocytes-complete,16410.594444444443
+287,IV Liquid-complete,16410.67679398148
+287,IV Antibiotics-complete,16410.676863425924
+287,Admission NC-complete,16410.67736111111
+287,Admission NC-complete,16411.375
+287,CRP-complete,16417.25
+287,Leucocytes-complete,16417.25
+287,Release A-complete,16417.5
+288,ER Registration-complete,16335.32724537037
+288,ER Triage-complete,16335.333773148148
+288,ER Sepsis Triage-complete,16335.334293981481
+288,IV Liquid-complete,16335.334467592593
+288,IV Antibiotics-complete,16335.334525462962
+288,Leucocytes-complete,16335.344444444445
+288,LacticAcid-complete,16335.344444444445
+288,CRP-complete,16335.344444444445
+289,ER Registration-complete,16364.60900462963
+289,ER Triage-complete,16364.613541666668
+289,ER Sepsis Triage-complete,16364.621469907408
+290,ER Registration-complete,16337.610046296297
+290,ER Triage-complete,16337.610636574074
+290,ER Sepsis Triage-complete,16337.610775462963
+290,Leucocytes-complete,16337.617361111112
+290,CRP-complete,16337.617361111112
+290,LacticAcid-complete,16337.617361111112
+290,IV Liquid-complete,16337.805416666666
+290,IV Antibiotics-complete,16337.805509259259
+290,Admission NC-complete,16337.807939814815
+290,Leucocytes-complete,16338.555555555555
+290,Leucocytes-complete,16339.291666666666
+290,CRP-complete,16339.291666666666
+290,CRP-complete,16343.291666666666
+290,Leucocytes-complete,16343.291666666666
+290,CRP-complete,16346.291666666666
+290,Leucocytes-complete,16346.291666666666
+290,Leucocytes-complete,16347.291666666666
+290,CRP-complete,16347.291666666666
+290,Leucocytes-complete,16349.291666666666
+290,CRP-complete,16349.291666666666
+290,Leucocytes-complete,16353.541666666666
+290,CRP-complete,16353.541666666666
+290,Release A-complete,16355.427083333334
+291,ER Registration-complete,16346.307465277778
+291,ER Triage-complete,16346.312453703704
+291,ER Sepsis Triage-complete,16346.317766203703
+291,IV Liquid-complete,16346.318252314815
+291,LacticAcid-complete,16346.325
+291,Leucocytes-complete,16346.325
+291,CRP-complete,16346.325
+291,IV Antibiotics-complete,16346.396469907408
+291,Admission NC-complete,16346.397037037037
+291,CRP-complete,16347.25
+291,LacticAcid-complete,16347.25
+291,Leucocytes-complete,16347.25
+291,Leucocytes-complete,16348.25
+291,Leucocytes-complete,16350.375
+291,CRP-complete,16350.375
+291,LacticAcid-complete,16350.375
+291,Release A-complete,16355.354166666666
+292,ER Registration-complete,16416.589722222223
+292,ER Triage-complete,16416.59574074074
+292,ER Sepsis Triage-complete,16416.595891203702
+292,CRP-complete,16416.619444444445
+292,LacticAcid-complete,16416.619444444445
+292,Leucocytes-complete,16416.619444444445
+292,IV Liquid-complete,16416.711469907408
+292,IV Antibiotics-complete,16416.711516203704
+292,Admission NC-complete,16416.712939814814
+292,Leucocytes-complete,16416.916666666668
+292,Admission NC-complete,16417.416666666668
+292,CRP-complete,16418.99722222222
+292,CRP-complete,16420.291666666668
+292,Leucocytes-complete,16420.291666666668
+292,Leucocytes-complete,16423.916666666668
+292,Leucocytes-complete,16424.208333333332
+292,Leucocytes-complete,16425.291666666668
+292,CRP-complete,16425.291666666668
+292,Release D-complete,16426.416666666668
+293,ER Registration-complete,16465.370219907407
+293,ER Triage-complete,16465.37460648148
+293,ER Sepsis Triage-complete,16465.376666666667
+293,CRP-complete,16465.378472222223
+293,Leucocytes-complete,16465.378472222223
+293,IV Liquid-complete,16465.40670138889
+293,IV Antibiotics-complete,16465.40672453704
+293,Admission NC-complete,16465.546516203704
+293,Leucocytes-complete,16466.291666666668
+293,CRP-complete,16466.291666666668
+293,Admission IC-complete,16466.302905092594
+293,CRP-complete,16466.40763888889
+293,LacticAcid-complete,16466.40763888889
+293,Leucocytes-complete,16466.40763888889
+293,CRP-complete,16467.25
+293,LacticAcid-complete,16467.25
+293,Leucocytes-complete,16467.25
+293,Leucocytes-complete,16468.25
+293,CRP-complete,16468.25
+293,LacticAcid-complete,16468.25
+293,Leucocytes-complete,16469.25
+293,LacticAcid-complete,16469.25
+293,CRP-complete,16469.25
+293,LacticAcid-complete,16470.25
+293,CRP-complete,16470.25
+293,Leucocytes-complete,16470.25
+293,CRP-complete,16471.25
+293,Leucocytes-complete,16471.25
+293,LacticAcid-complete,16471.25
+293,LacticAcid-complete,16472.25
+293,Leucocytes-complete,16472.25
+293,CRP-complete,16472.25
+293,LacticAcid-complete,16473.25
+293,CRP-complete,16473.25
+293,Leucocytes-complete,16473.25
+293,Leucocytes-complete,16474.2625
+293,CRP-complete,16474.2625
+293,LacticAcid-complete,16474.2625
+293,Leucocytes-complete,16475.25
+293,CRP-complete,16475.25
+293,LacticAcid-complete,16475.25
+293,CRP-complete,16476.25
+293,Leucocytes-complete,16476.25
+293,LacticAcid-complete,16476.25
+293,LacticAcid-complete,16477.25
+293,Leucocytes-complete,16477.25
+293,CRP-complete,16477.25
+293,Leucocytes-complete,16478.25
+293,LacticAcid-complete,16478.25
+293,CRP-complete,16478.25
+293,Admission NC-complete,16479.541666666668
+293,Release A-complete,16481.375
+294,ER Registration-complete,16337.810798611112
+294,ER Triage-complete,16337.8334375
+294,ER Sepsis Triage-complete,16337.833645833334
+294,LacticAcid-complete,16337.836805555555
+294,Leucocytes-complete,16337.836805555555
+294,CRP-complete,16337.836805555555
+294,Admission NC-complete,16337.918136574073
+294,CRP-complete,16338.416666666666
+294,Leucocytes-complete,16338.416666666666
+294,Release A-complete,16338.75
+295,ER Registration-complete,16430.91190972222
+295,ER Triage-complete,16430.920613425926
+295,ER Sepsis Triage-complete,16430.92074074074
+295,Leucocytes-complete,16430.938194444443
+295,CRP-complete,16430.938194444443
+295,LacticAcid-complete,16430.938194444443
+295,IV Liquid-complete,16430.947916666668
+295,IV Antibiotics-complete,16430.947916666668
+295,Admission NC-complete,16431.11824074074
+295,Leucocytes-complete,16431.416666666668
+295,Admission NC-complete,16431.568912037037
+295,CRP-complete,16436.416666666668
+295,Leucocytes-complete,16436.416666666668
+295,Release D-complete,16438.62431712963
+296,ER Registration-complete,16484.940324074076
+296,ER Triage-complete,16484.944618055557
+296,ER Sepsis Triage-complete,16484.94560185185
+296,IV Liquid-complete,16484.94587962963
+296,Leucocytes-complete,16484.94722222222
+296,CRP-complete,16484.94722222222
+296,LacticAcid-complete,16484.94722222222
+296,IV Antibiotics-complete,16484.95486111111
+296,Admission NC-complete,16485.06244212963
+296,Admission IC-complete,16485.69861111111
+296,LacticAcid-complete,16485.777083333334
+296,Leucocytes-complete,16485.777083333334
+296,CRP-complete,16485.777083333334
+296,LacticAcid-complete,16486.25
+296,CRP-complete,16486.25
+296,Leucocytes-complete,16486.25
+296,Admission NC-complete,16486.4375
+296,Release B-complete,16487.284722222223
+297,ER Registration-complete,16345.64704861111
+297,ER Triage-complete,16345.648819444445
+297,ER Sepsis Triage-complete,16345.649039351852
+297,IV Liquid-complete,16345.649212962962
+297,IV Antibiotics-complete,16345.649259259259
+297,CRP-complete,16345.663888888888
+297,LacticAcid-complete,16345.663888888888
+297,Leucocytes-complete,16345.663888888888
+297,Admission NC-complete,16345.794988425925
+297,Leucocytes-complete,16348.291666666666
+297,Release A-complete,16348.625
+298,ER Registration-complete,16369.958819444444
+298,ER Triage-complete,16369.96212962963
+298,Leucocytes-complete,16369.965972222222
+298,CRP-complete,16369.965972222222
+298,LacticAcid-complete,16369.965972222222
+298,ER Sepsis Triage-complete,16369.987905092592
+298,IV Liquid-complete,16369.988101851852
+298,IV Antibiotics-complete,16370.083333333334
+299,ER Registration-complete,16439.40587962963
+299,ER Triage-complete,16439.421377314815
+299,LacticAcid-complete,16439.421527777777
+299,Leucocytes-complete,16439.421527777777
+299,CRP-complete,16439.421527777777
+299,ER Sepsis Triage-complete,16439.421666666665
+299,IV Liquid-complete,16439.421875
+299,IV Antibiotics-complete,16439.55443287037
+300,ER Registration-complete,16348.20488425926
+300,ER Triage-complete,16348.209351851852
+300,ER Sepsis Triage-complete,16348.211400462964
+300,IV Antibiotics-complete,16348.219224537037
+300,CRP-complete,16348.224305555555
+300,Leucocytes-complete,16348.224305555555
+300,LacticAcid-complete,16348.224305555555
+300,Admission NC-complete,16348.296550925927
+300,Admission NC-complete,16348.415462962963
+300,CRP-complete,16349.25
+300,Leucocytes-complete,16349.25
+300,CRP-complete,16351.581944444444
+300,Leucocytes-complete,16351.581944444444
+300,Release A-complete,16353.75
+301,ER Registration-complete,16336.373645833333
+301,ER Triage-complete,16336.37795138889
+301,ER Sepsis Triage-complete,16336.378136574074
+301,LacticAcid-complete,16336.396527777777
+301,Leucocytes-complete,16336.396527777777
+301,CRP-complete,16336.396527777777
+301,IV Liquid-complete,16336.441527777777
+301,IV Antibiotics-complete,16336.483287037037
+301,Admission NC-complete,16336.568576388889
+301,Leucocytes-complete,16337.291666666666
+301,Leucocytes-complete,16338.291666666666
+301,Leucocytes-complete,16340.291666666666
+301,CRP-complete,16340.291666666666
+301,Release A-complete,16341.583333333334
+302,ER Registration-complete,16394.81519675926
+302,ER Triage-complete,16394.825381944444
+302,ER Sepsis Triage-complete,16394.825729166667
+302,CRP-complete,16394.844444444443
+302,Leucocytes-complete,16394.844444444443
+303,ER Registration-complete,16379.632164351851
+303,ER Triage-complete,16379.633738425926
+303,ER Sepsis Triage-complete,16379.633958333334
+303,IV Liquid-complete,16379.6459375
+303,LacticAcid-complete,16379.653472222222
+303,Leucocytes-complete,16379.653472222222
+303,CRP-complete,16379.653472222222
+303,IV Antibiotics-complete,16379.673761574075
+303,Admission NC-complete,16379.75800925926
+303,Leucocytes-complete,16380.291666666666
+303,CRP-complete,16380.291666666666
+303,Leucocytes-complete,16381.291666666666
+303,CRP-complete,16381.291666666666
+303,CRP-complete,16382.291666666666
+303,Leucocytes-complete,16382.291666666666
+303,CRP-complete,16385.291666666668
+303,Leucocytes-complete,16385.291666666668
+303,Leucocytes-complete,16387.291666666668
+303,CRP-complete,16387.291666666668
+303,Leucocytes-complete,16389.291666666668
+303,CRP-complete,16389.291666666668
+303,CRP-complete,16392.291666666668
+303,Leucocytes-complete,16392.291666666668
+303,Release A-complete,16393.395833333332
+304,ER Registration-complete,16438.45380787037
+304,ER Triage-complete,16438.463425925926
+304,ER Sepsis Triage-complete,16438.463645833333
+304,Leucocytes-complete,16438.473611111112
+304,LacticAcid-complete,16438.473611111112
+304,CRP-complete,16438.473611111112
+304,IV Liquid-complete,16438.57451388889
+304,IV Antibiotics-complete,16438.574548611112
+305,ER Registration-complete,16484.66988425926
+305,ER Triage-complete,16484.67310185185
+305,ER Sepsis Triage-complete,16484.68138888889
+305,Leucocytes-complete,16484.69722222222
+305,CRP-complete,16484.69722222222
+305,Admission NC-complete,16484.819525462965
+305,Admission NC-complete,16485.416666666668
+305,CRP-complete,16487.291666666668
+305,Leucocytes-complete,16490.291666666668
+305,CRP-complete,16490.291666666668
+305,Leucocytes-complete,16493.291666666668
+305,CRP-complete,16493.291666666668
+305,Release A-complete,16493.708333333332
+306,ER Registration-complete,16456.69866898148
+306,ER Triage-complete,16456.708125
+306,CRP-complete,16456.71875
+306,Leucocytes-complete,16456.71875
+306,ER Sepsis Triage-complete,16456.796782407408
+307,ER Registration-complete,16418.63527777778
+307,ER Triage-complete,16418.639756944445
+307,CRP-complete,16418.658333333333
+307,Leucocytes-complete,16418.658333333333
+307,LacticAcid-complete,16418.67361111111
+307,ER Sepsis Triage-complete,16418.681261574075
+307,IV Liquid-complete,16418.68152777778
+307,IV Antibiotics-complete,16418.681574074075
+308,IV Liquid-complete,16362.365254629629
+308,ER Registration-complete,16362.365833333333
+308,ER Triage-complete,16362.367650462964
+308,ER Sepsis Triage-complete,16362.367824074074
+308,Leucocytes-complete,16362.379166666668
+308,LacticAcid-complete,16362.379166666668
+308,CRP-complete,16362.379166666668
+308,IV Antibiotics-complete,16362.382152777778
+308,LacticAcid-complete,16362.547222222222
+308,Admission IC-complete,16362.54943287037
+308,LacticAcid-complete,16362.823611111111
+308,CRP-complete,16363.25
+308,LacticAcid-complete,16363.25
+308,Leucocytes-complete,16363.25
+308,LacticAcid-complete,16363.419444444444
+308,Leucocytes-complete,16363.770138888889
+308,CRP-complete,16364.25
+308,Leucocytes-complete,16364.25
+308,LacticAcid-complete,16364.25
+308,LacticAcid-complete,16365.25
+308,CRP-complete,16365.25
+308,Leucocytes-complete,16365.25
+308,Leucocytes-complete,16366.25
+308,LacticAcid-complete,16366.25
+308,CRP-complete,16366.25
+308,Leucocytes-complete,16367.25
+308,CRP-complete,16367.25
+308,LacticAcid-complete,16367.25
+308,Leucocytes-complete,16368.25
+308,CRP-complete,16368.25
+308,LacticAcid-complete,16368.25
+308,Leucocytes-complete,16369.25
+308,CRP-complete,16369.25
+308,LacticAcid-complete,16369.25
+308,Admission NC-complete,16369.416666666666
+308,Leucocytes-complete,16371.291666666666
+308,CRP-complete,16371.291666666666
+308,Leucocytes-complete,16372.291666666666
+308,CRP-complete,16372.291666666666
+308,CRP-complete,16374.291666666666
+308,Leucocytes-complete,16378.541666666666
+308,CRP-complete,16378.541666666666
+308,Leucocytes-complete,16379.291666666666
+308,Leucocytes-complete,16380.291666666666
+308,CRP-complete,16380.291666666666
+308,Leucocytes-complete,16380.395138888889
+308,CRP-complete,16383.291666666666
+308,Leucocytes-complete,16385.291666666668
+308,CRP-complete,16385.291666666668
+308,Leucocytes-complete,16387.291666666668
+308,CRP-complete,16387.291666666668
+308,CRP-complete,16389.416666666668
+308,Leucocytes-complete,16389.416666666668
+308,Leucocytes-complete,16392.291666666668
+308,CRP-complete,16392.291666666668
+308,Leucocytes-complete,16395.291666666668
+308,Leucocytes-complete,16396.416666666668
+308,CRP-complete,16396.416666666668
+308,Leucocytes-complete,16401.291666666668
+308,CRP-complete,16401.291666666668
+308,Admission IC-complete,16407.12347222222
+308,LacticAcid-complete,16407.18125
+308,Leucocytes-complete,16407.18125
+308,CRP-complete,16407.18125
+308,Leucocytes-complete,16407.344444444443
+308,Release B-complete,16407.583333333332
+309,ER Registration-complete,16332.259930555556
+309,ER Triage-complete,16332.269479166667
+309,ER Sepsis Triage-complete,16332.26980324074
+309,Leucocytes-complete,16332.273611111112
+309,CRP-complete,16332.273611111112
+309,Admission NC-complete,16332.398564814815
+309,Leucocytes-complete,16332.75
+309,Leucocytes-complete,16334.25
+309,CRP-complete,16334.25
+309,CRP-complete,16336.25
+309,Leucocytes-complete,16336.25
+309,Leucocytes-complete,16337.25
+309,CRP-complete,16337.25
+309,Leucocytes-complete,16340.25
+309,CRP-complete,16340.25
+309,Release A-complete,16340.5
+309,Return ER-complete,16349.358877314815
+310,ER Registration-complete,16384.142650462964
+310,ER Triage-complete,16384.14451388889
+310,ER Sepsis Triage-complete,16384.14545138889
+310,Leucocytes-complete,16384.149305555555
+310,CRP-complete,16384.149305555555
+310,LacticAcid-complete,16384.149305555555
+310,IV Liquid-complete,16384.253287037038
+310,IV Antibiotics-complete,16384.253368055557
+311,ER Registration-complete,16394.351296296296
+311,ER Triage-complete,16394.364791666667
+311,ER Sepsis Triage-complete,16394.36503472222
+311,CRP-complete,16394.372916666667
+311,Leucocytes-complete,16394.372916666667
+312,ER Registration-complete,16377.363738425925
+312,ER Triage-complete,16377.371377314816
+312,ER Sepsis Triage-complete,16377.406840277778
+313,ER Registration-complete,16386.694664351853
+313,ER Triage-complete,16386.699594907408
+313,ER Sepsis Triage-complete,16386.699756944443
+314,ER Registration-complete,16415.936550925926
+314,ER Triage-complete,16415.953333333335
+314,ER Sepsis Triage-complete,16415.953657407408
+314,Leucocytes-complete,16415.963194444445
+314,LacticAcid-complete,16415.963194444445
+314,CRP-complete,16415.963194444445
+314,IV Liquid-complete,16416.169189814816
+314,IV Antibiotics-complete,16416.169247685186
+314,Admission NC-complete,16416.17127314815
+314,CRP-complete,16417.25
+314,Leucocytes-complete,16418.25
+314,LacticAcid-complete,16418.25
+314,Leucocytes-complete,16420.25
+314,CRP-complete,16420.25
+314,Release A-complete,16420.666666666668
+315,ER Registration-complete,16407.410046296296
+315,ER Triage-complete,16407.412719907406
+315,ER Sepsis Triage-complete,16407.412951388887
