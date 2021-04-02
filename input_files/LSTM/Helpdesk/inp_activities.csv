@@ -1,0 +1,17 @@
+Activity,Index
+Resolve ticket-complete,1
+Insert ticket-complete,2
+Start,0
+Closed-complete,3
+VERIFIED-complete,4
+Wait-complete,5
+Assign seriousness-complete,6
+Take in charge ticket-complete,7
+Create SW anomaly-complete,8
+Require upgrade-complete,9
+INVALID-complete,10
+RESOLVED-complete,11
+End,15
+DUPLICATE-complete,12
+Resolve SW anomaly-complete,13
+Schedule intervention-complete,14
