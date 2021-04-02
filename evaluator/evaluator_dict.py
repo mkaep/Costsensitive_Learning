@@ -1,6 +1,7 @@
 """
 
 @author: Martin Käppel
+
 """
 import numpy as np
 import os
@@ -12,7 +13,7 @@ from sklearn.metrics import classification_report, \
     zero_one_loss
 from imblearn.metrics import sensitivity_score, specificity_score, geometric_mean_score, make_index_balanced_accuracy
 
-
+# Normalizes vector
 def normalize_vector(vector):
     sum = 0
     for i in vector:
